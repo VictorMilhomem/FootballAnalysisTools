@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Matheus Cunha,br BRA,GK,21.0,17.6,22,3,0,2,0,28.5,0.27,6.5,0.37,65,181,35.9,624,82,25.2,28.4,102,23.5,27.0,275,9,3.3,23,1.31,16.7,Matches
+Agustín Rossi,ar ARG,GK,27.0,15.0,12,2,0,0,0,13.2,0.21,1.2,0.08,70,174,40.2,416,68,32.5,31.6,94,41.5,36.6,198,8,4.0,9,0.6,12.8,Matches
+Santos,br BRA,GK,32.0,5.4,8,1,0,1,0,5.7,0.2,-2.3,-0.42,18,44,40.9,161,28,24.2,28.0,33,15.2,22.6,65,7,10.8,7,1.29,16.7,Matches
+Squad Total,,,26.7,38.0,42,6,0,3,0,47.4,0.24,5.4,0.14,153,399,38.3,1168,178,28.3,,262,26.0,28.0,538,24,4.5,39,1.03,,
+Opponent Total,,,27.5,38.0,56,8,1,2,1,60.5,0.3,5.5,0.15,190,445,42.7,807,159,41.3,36.8,298,37.6,33.4,488,24,4.9,31,0.82,14.0,

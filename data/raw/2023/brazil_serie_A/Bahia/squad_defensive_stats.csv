@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,Int,Tkl+Int,Clr,Err,Matches
+Marcos Felipe,br BRA,GK,26.0,37.0,3,3,3,0,0,3,6,50.0,3,0,0,0,1,4,24,1,Matches
+Thaciano,br BRA,"MF,FW",27.0,32.1,49,25,15,28,6,24,55,43.6,31,41,8,33,26,75,27,0,Matches
+Kanu,br BRA,DF,25.0,32.3,34,25,26,5,3,21,39,53.8,18,38,18,20,47,81,103,1,Matches
+Rezende,br BRA,"MF,DF",28.0,30.1,96,60,54,40,2,29,70,41.4,41,68,10,58,62,158,69,1,Matches
+Cauly Oliveira Souza,br BRA,"MF,FW",27.0,28.3,23,12,2,18,3,6,23,26.1,17,17,1,16,13,36,6,0,Matches
+Vitor Hugo,br BRA,DF,31.0,23.7,38,24,29,9,0,18,24,75.0,6,21,12,9,32,70,82,0,Matches
+Everaldo Stum,br BRA,FW,31.0,24.2,11,8,2,5,4,5,11,45.5,6,10,2,8,2,13,16,0,Matches
+Nicolás Acevedo,uy URU,MF,23.0,21.9,73,46,24,43,6,40,85,47.1,45,31,1,30,26,99,22,1,Matches
+Gilberto,br BRA,DF,29.0,20.6,45,28,19,21,5,24,54,44.4,30,26,6,20,18,63,26,2,Matches
+Ademir Santos,br BRA,"FW,MF",27.0,19.3,32,20,6,16,10,13,37,35.1,24,17,1,16,8,40,3,0,Matches
+Yago,br BRA,MF,27.0,15.1,45,25,15,18,12,23,54,42.6,31,22,2,20,16,61,14,1,Matches
+Gabriel Teixeira,br BRA,"FW,MF",21.0,15.1,17,11,5,10,2,5,23,21.7,18,17,3,14,14,31,8,0,Matches
+Camilo Cándido,uy URU,DF,27.0,13.8,24,16,16,5,3,8,23,34.8,15,14,1,13,23,47,23,0,Matches
+Gabriel,br BRA,DF,21.0,10.9,20,9,14,5,1,14,20,70.0,6,11,8,3,30,50,66,1,Matches
+David Duarte,br BRA,DF,28.0,9.6,8,5,4,4,0,6,8,75.0,2,8,6,2,11,19,50,1,Matches
+Cicinho,bg BUL,DF,34.0,8.4,24,16,9,12,3,11,18,61.1,7,12,3,9,5,29,26,1,Matches
+Rafael Ratão,br BRA,"FW,MF",27.0,8.7,25,17,11,11,3,13,29,44.8,16,7,0,7,2,27,3,0,Matches
+Vinicius Mingotti,br BRA,FW,23.0,7.3,6,5,3,2,1,1,4,25.0,3,2,1,1,2,8,4,0,Matches
+Vítor Jacaré,br BRA,"DF,MF",23.0,9.5,22,19,13,6,3,15,36,41.7,21,16,2,14,11,33,20,0,Matches
+Jhoanner Chávez,ec ECU,"DF,MF",20.0,6.5,14,9,3,11,0,10,21,47.6,11,6,0,6,7,21,14,0,Matches
+Luciano Juba,br BRA,"DF,MF",23.0,7.2,14,9,8,5,1,9,15,60.0,6,5,0,5,9,23,14,0,Matches
+Matheus Bahia,br BRA,"DF,MF",23.0,5.5,16,7,8,5,3,7,18,38.9,11,8,0,8,8,24,15,0,Matches
+Kayky Chagas,br BRA,"FW,MF",19.0,4.6,8,4,4,4,0,4,13,30.8,9,7,0,7,2,10,2,0,Matches
+Ryan Carlos,br BRA,DF,20.0,6.4,7,6,5,2,0,4,12,33.3,8,9,2,7,8,15,11,1,Matches
+Raul Bicalho,br BRA,DF,23.0,3.6,6,1,5,1,0,4,5,80.0,1,3,3,0,1,7,12,0,Matches
+Arthur Sales,br BRA,"FW,MF",20.0,3.2,3,3,0,0,3,0,1,0.0,1,3,0,3,0,3,1,0,Matches
+Lucas Mugni,ar ARG,"MF,FW",31.0,4.0,6,5,4,2,0,1,11,9.1,10,3,0,3,4,10,2,0,Matches
+Léo Cittadini,br BRA,MF,28.0,1.5,6,3,1,4,1,0,4,0.0,4,2,0,2,3,9,0,0,Matches
+André,br BRA,DF,19.0,1.4,2,1,1,1,0,2,2,100.0,0,4,1,3,1,3,3,1,Matches
+Danilo Fernandes,br BRA,GK,34.0,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Diego Rosa,br BRA,"MF,DF",20.0,2.7,16,10,6,9,1,9,14,64.3,5,2,0,2,5,21,5,0,Matches
+Danielzinho,br BRA,"FW,MF",27.0,0.9,1,1,0,1,0,1,3,33.3,2,1,0,1,0,1,0,0,Matches
+Mateus Claus,br BRA,GK,28.0,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Marcos Victor,br BRA,DF,21.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Patrick Verhon,br BRA,FW,18.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,26.9,38.0,694,433,315,303,76,330,738,44.7,408,431,91,340,397,1091,671,12,
+Opponent Total,,,27.4,38.0,614,372,293,266,55,314,671,46.8,357,418,131,287,358,972,722,7,

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Tadeu,br BRA,GK,30.0,35,35,3150,35.0,45,1.29,162,117,74.1,8,11,16,10,28.6,3,3,0,0,0.0,Matches
+Marcelo Rangel,br BRA,GK,34.0,3,3,270,3.0,8,2.67,14,7,57.1,1,0,2,0,0.0,2,2,0,0,0.0,Matches
+Squad Total,,,27.7,38,38,3420,38.0,53,1.39,176,124,72.7,9,11,18,10,26.3,5,5,0,0,0.0,
+Opponent Total,,,27.2,38,38,3420,38.0,36,0.95,138,103,77.5,18,11,9,14,36.8,5,5,0,0,0.0,

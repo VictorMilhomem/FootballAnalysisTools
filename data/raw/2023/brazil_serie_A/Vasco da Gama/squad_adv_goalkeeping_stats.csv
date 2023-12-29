@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Léo Jardim,br BRA,GK,27.0,38.0,51,4,2,5,0,53.1,0.27,2.1,0.06,137,369,37.1,634,144,37.7,34.3,315,41.3,35.6,600,34,5.7,15,0.39,10.8,Matches
+Squad Total,,,26.2,38.0,51,4,2,5,0,53.1,0.27,2.1,0.06,137,369,37.1,633,144,37.8,,316,41.1,35.5,600,34,5.7,15,0.39,,
+Opponent Total,,,27.4,38.0,41,4,1,4,0,47.0,0.3,6.0,0.16,168,387,43.4,731,172,36.1,34.4,303,40.6,35.4,710,45,6.3,21,0.55,11.1,

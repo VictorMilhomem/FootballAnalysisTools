@@ -1,0 +1,49 @@
+Player,Nation,Pos,Age,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,Performance_Recov,Aerial Duels_Won,Aerial Duels_Lost,Aerial Duels_Won%,Matches
+Juninho,br BRA,MF,35.0,32.5,4,0,0,31,37,3,45,31,26,1,0,0,189,21,41,33.9,Matches
+Leandro Emmanuel Martínez,ar ARG,MF,28.0,28.2,4,0,0,29,62,1,109,31,40,0,1,0,242,8,17,32.0,Matches
+Felipe Azevedo,br BRA,"FW,MF",36.0,19.4,3,1,0,27,32,5,29,10,10,0,0,0,98,27,42,39.1,Matches
+Iago Maidana,br BRA,DF,26.0,24.0,5,1,0,36,6,1,1,32,15,0,1,0,111,72,26,73.5,Matches
+Danilo Avelar,br BRA,DF,33.0,22.0,5,1,0,47,14,3,19,35,22,0,1,0,96,95,38,71.4,Matches
+Gonzalo Mastriani,uy URU,FW,29.0,19.9,1,1,0,18,19,4,3,1,7,0,0,0,50,48,59,44.9,Matches
+Marlon,br BRA,DF,28.0,18.6,3,0,0,16,37,0,64,31,26,0,0,1,129,18,19,48.6,Matches
+Ricardo Silva,br BRA,DF,30.0,17.9,3,0,0,21,15,0,2,28,17,0,0,0,90,59,26,69.4,Matches
+Eder,br BRA,DF,27.0,17.4,7,1,1,21,4,3,1,19,14,0,0,1,85,40,35,53.3,Matches
+Lucas Kal,br BRA,MF,26.0,13.7,4,0,0,19,3,0,8,15,7,0,0,0,65,8,13,38.1,Matches
+Matheus Cavichioli,br BRA,GK,36.0,15.0,0,1,0,1,2,0,0,1,1,0,0,1,18,4,0,100.0,Matches
+Rodriguinho,br BRA,"DF,MF",19.0,13.9,1,0,0,21,19,3,67,9,16,0,0,0,72,16,19,45.7,Matches
+Everaldo,br BRA,"FW,MF",28.0,13.7,7,0,0,19,33,6,50,6,16,0,0,0,65,8,11,42.1,Matches
+Ale,br BRA,MF,32.0,15.8,7,1,1,31,24,1,11,28,16,0,0,0,145,20,10,66.7,Matches
+Martín Benítez,ar ARG,"MF,FW",28.0,12.4,4,0,0,14,45,4,51,6,7,0,0,0,57,4,9,30.8,Matches
+Breno Cascardo,br BRA,MF,19.0,12.9,2,0,0,25,13,1,6,10,19,0,0,0,83,10,12,45.5,Matches
+Jori,br BRA,GK,26.0,11.0,1,0,0,1,2,0,0,0,1,0,1,0,9,10,1,90.9,Matches
+Mateus Pasinato,br BRA,GK,30.0,10.0,1,0,0,0,2,0,0,0,0,0,0,0,15,3,1,75.0,Matches
+Marcinho,br BRA,DF,26.0,8.9,4,0,0,16,1,0,46,17,7,0,0,0,43,8,9,47.1,Matches
+Aloísio dos Santos Gonçalves,cn CHN,"FW,MF",34.0,8.0,3,0,0,18,9,6,6,2,4,0,0,0,23,8,16,33.3,Matches
+Daniel Borges,br BRA,DF,29.0,8.9,1,1,0,15,4,0,44,14,12,0,0,0,50,5,12,29.4,Matches
+Nicolas,br BRA,DF,25.0,8.0,1,0,0,10,5,1,26,11,6,0,0,0,51,8,7,53.3,Matches
+Mateus Henrique,br BRA,DF,20.0,6.0,1,1,0,13,10,0,18,5,8,0,1,0,30,7,3,70.0,Matches
+Júlio César,br BRA,DF,19.0,6.6,1,0,0,10,1,0,0,4,7,0,0,0,24,21,10,67.7,Matches
+Wanderson,br BRA,DF,31.0,5.6,0,0,0,10,0,0,0,4,4,0,0,0,15,17,8,68.0,Matches
+Rodrigo Varanda,br BRA,"FW,MF",20.0,5.7,1,0,0,9,8,6,10,0,5,0,0,0,28,5,14,26.3,Matches
+Renato Marques,br BRA,"FW,MF",19.0,5.7,2,0,0,11,5,4,3,2,2,0,0,0,13,8,16,33.3,Matches
+Pedrinho,br BRA,"FW,MF",23.0,4.6,0,0,0,3,7,1,16,6,1,0,0,0,23,2,1,66.7,Matches
+Esteban Burgos,ar ARG,DF,31.0,3.3,4,1,1,7,0,0,0,1,1,0,0,0,7,4,6,40.0,Matches
+Óscar Méndez,uy URU,MF,28.0,2.9,3,0,0,6,3,0,1,4,6,0,0,0,15,2,1,66.7,Matches
+Matheusinho,br BRA,"MF,FW",24.0,2.5,0,0,0,3,7,1,12,1,3,0,0,0,25,1,4,20.0,Matches
+Nino Paraíba,br BRA,DF,37.0,2.2,1,0,0,5,5,1,17,4,2,0,1,0,12,5,1,83.3,Matches
+Washington Aguerre,uy URU,GK,29.0,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches
+Henrique Almeida,br BRA,FW,31.0,1.7,0,0,0,5,1,1,2,0,1,0,1,0,4,3,10,23.1,Matches
+Paulinho,br BRA,FW,24.0,1.5,2,0,0,5,5,2,4,0,2,0,0,0,11,0,2,0.0,Matches
+Juan Cazares,ec ECU,"MF,FW",30.0,3.1,0,0,0,2,3,0,18,0,2,0,0,0,15,1,4,20.0,Matches
+Adyson,br BRA,"FW,MF",17.0,2.7,1,0,0,6,7,0,31,5,5,0,0,0,16,0,0,,Matches
+Mikael,br BRA,FW,23.0,1.7,0,0,0,0,2,1,1,0,1,0,0,0,4,2,5,28.6,Matches
+Arthur,br BRA,DF,19.0,1.0,0,0,0,7,2,0,3,1,1,0,1,0,8,2,1,66.7,Matches
+Wellington Paulista,br BRA,FW,38.0,2.5,1,0,0,5,1,2,0,0,0,0,0,0,7,7,7,50.0,Matches
+Mateus Gonçalves Martins,br BRA,"MF,FW",28.0,0.7,1,0,0,0,2,0,4,0,2,0,0,0,2,2,4,33.3,Matches
+Renato Kayser,br BRA,"FW,MF",26.0,0.4,0,0,0,2,1,1,0,0,0,0,0,0,2,0,1,0.0,Matches
+Ighor Gabryel,br BRA,FW,20.0,0.3,0,0,0,4,1,0,0,0,0,0,0,0,1,3,5,37.5,Matches
+Paulinho,br BRA,DF,18.0,0.3,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,,Matches
+Jhow,br BRA,DF,19.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,100.0,Matches
+Yago Souza,br BRA,MF,16.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Squad Total,,,29.1,38.0,89,10,3,550,460,62,730,374,342,1,8,3,2051,594,526,53.0,
+Opponent Total,,,27.5,38.0,76,5,0,482,530,69,895,340,372,6,6,0,2096,526,591,47.1,

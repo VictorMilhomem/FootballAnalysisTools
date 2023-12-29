@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Fábio,br BRA,GK,42.0,35,35,3150,35.0,41,1.17,145,105,75.2,16,7,12,12,34.3,6,5,0,1,0.0,Matches
+Pedro Rangel,br BRA,GK,22.0,2,2,180,2.0,5,2.5,10,5,50.0,0,1,1,0,0.0,0,0,0,0,,Matches
+Vitor Eudes,br BRA,GK,24.0,1,1,90,1.0,1,1.0,5,4,80.0,0,0,1,0,0.0,0,0,0,0,,Matches
+Squad Total,,,29.2,38,38,3420,38.0,47,1.24,160,114,73.8,16,8,14,12,31.6,6,5,0,1,0.0,
+Opponent Total,,,27.6,38,38,3420,38.0,51,1.34,207,154,76.8,14,8,16,12,31.6,5,3,2,0,40.0,

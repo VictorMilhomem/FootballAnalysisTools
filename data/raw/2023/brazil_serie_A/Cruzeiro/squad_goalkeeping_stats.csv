@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Rafael Cabral,br BRA,GK,32.0,37,37,3330,37.0,32,0.86,139,107,78.4,11,13,13,15,40.5,3,2,0,1,0.0,Matches
+Anderson,br BRA,GK,24.0,1,1,90,1.0,0,0.0,1,1,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+Squad Total,,,27.8,38,38,3420,38.0,32,0.84,140,108,78.6,11,14,13,16,42.1,3,2,0,1,0.0,
+Opponent Total,,,27.5,38,38,3420,38.0,35,0.92,165,132,80.0,13,14,11,17,44.7,4,2,1,1,33.3,

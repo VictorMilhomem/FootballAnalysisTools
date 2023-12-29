@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Walter,br BRA,GK,35.0,35,35,3150,35.0,35,1.0,139,106,77.7,13,9,13,12,34.3,4,4,0,0,0.0,Matches
+João Carlos,br BRA,GK,34.0,3,3,270,3.0,4,1.33,12,8,66.7,1,0,2,1,33.3,0,0,0,0,,Matches
+Squad Total,,,28.1,38,38,3420,38.0,39,1.03,151,114,76.8,14,9,15,13,34.2,4,4,0,0,0.0,
+Opponent Total,,,27.6,38,38,3418,38.0,40,1.05,138,99,76.1,15,9,14,15,39.5,8,7,0,1,0.0,

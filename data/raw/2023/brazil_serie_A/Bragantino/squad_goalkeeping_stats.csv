@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Cleiton Schwengber,br BRA,GK,25.0,33,33,2970,33.0,27,0.82,116,89,81.9,15,9,9,16,48.5,7,6,1,0,14.3,Matches
+Lucão,br BRA,GK,21.0,5,5,450,5.0,8,1.6,14,6,50.0,2,2,1,1,20.0,1,1,0,0,0.0,Matches
+Squad Total,,,24.2,38,38,3420,38.0,35,0.92,130,95,78.5,17,11,10,17,44.7,8,7,1,0,12.5,
+Opponent Total,,,27.5,38,38,3420,38.0,49,1.29,211,163,78.2,10,11,17,9,23.7,3,3,0,0,0.0,
