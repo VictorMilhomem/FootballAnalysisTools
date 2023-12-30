@@ -1,4 +1,4 @@
-import json
+from utils import *
 import re
 import pandas as pd
 from mplsoccer import Pitch
@@ -141,7 +141,7 @@ def get_passes_between_df(team_id, passes_df, players_df):
                                                 suffixes=['', '_end'])
     return passes_between_df, average_locs_and_count_df
 
-def pass_network_visualization(ax, passes_between_df, average_locs_and_count_df, flipped=False):
+def pass_network_visualization(ax, passes_between_df, average_locs_and_count_df,  color_palette: dict, flipped=False):
     MAX_LINE_WIDTH = 10
     MAX_MARKER_SIZE = 3000
     passes_between_df['width'] = (passes_between_df.pass_count / passes_between_df.pass_count.max() *
@@ -156,7 +156,7 @@ def pass_network_visualization(ax, passes_between_df, average_locs_and_count_df,
     c_transparency = (c_transparency * (1 - MIN_TRANSPARENCY)) + MIN_TRANSPARENCY
     color[:, 3] = c_transparency
 
-    pitch = Pitch(pitch_type='opta', pitch_color='#0D182E', line_color='#5B6378')
+    pitch = Pitch(pitch_type='opta', pitch_color=color_palette["bkg"], line_color='#5B6378')
     pitch.draw(ax=ax)
 
     if flipped:
@@ -187,7 +187,7 @@ def create_passnet_plot_both_teams(
         home_passes_between_df, home_average_locs_and_count_df, 
         away_passes_between_df, away_average_locs_and_count_df, 
         teams_dict, 
-        main_color):
+        main_color, color_palette:dict):
     
     home_team_id = list(teams_dict.keys())[0]  # selected home team
     away_team_id = list(teams_dict.keys())[1]  # selected home team
@@ -198,41 +198,41 @@ def create_passnet_plot_both_teams(
     plt.subplots_adjust(left=None, bottom=None, right=None, top=None, wspace=None, hspace=None)
     axes = axes.flat
     plt.tight_layout()
-    fig.set_facecolor("#0D182E")
+    fig.set_facecolor(color_palette["bkg"])
 
     # home team viz
-    pass_network_visualization(axes[0], home_passes_between_df, home_average_locs_and_count_df)
-    axes[0].set_title(teams_dict[home_team_id], color=main_color, fontsize=14)
+    pass_network_visualization(axes[0], home_passes_between_df, home_average_locs_and_count_df, color_palette)
+    axes[0].set_title(teams_dict[home_team_id], color=main_color, fontsize=14, fontproperties=FONT_ROBOTMONO)
 
     # away team viz
-    pass_network_visualization(axes[1], away_passes_between_df, away_average_locs_and_count_df, flipped=True)
-    axes[1].set_title(teams_dict[away_team_id], color=main_color, fontsize=14)
+    pass_network_visualization(axes[1], away_passes_between_df, away_average_locs_and_count_df, color_palette,flipped=True)
+    axes[1].set_title(teams_dict[away_team_id], color=main_color, fontsize=14, fontproperties=FONT_ROBOTMONO)
 
-    plt.suptitle(f"{teams_dict[home_team_id]} - {teams_dict[away_team_id]}", color=main_color, fontsize=38)
+    plt.suptitle(f"{teams_dict[home_team_id]} - {teams_dict[away_team_id]}", color=main_color, fontsize=38, fontproperties=FONT_OSWALD)
     subtitle = "Passing networks and top combinations by volume of passes"
-    plt.text(-10, 120, subtitle, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=14)
-    plt.text(90, -3, "By: Victor Milhomem", horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10)
+    plt.text(-10, 120, subtitle, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=14, fontproperties=FONT_ROBOTMONO)
+    plt.text(90, -3, "By: Victor Milhomem", horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10, fontproperties=FONT_ROBOTO_ITALIC)
     plt.show()
 
 def create_passnet_plot_single_teams(
         home_passes_between_df, home_average_locs_and_count_df, 
         away_passes_between_df, away_average_locs_and_count_df, 
         teams_dict, 
-        main_color, home=True):
+        main_color, color_palette:dict,home=True):
     
     home_team_id = list(teams_dict.keys())[0]  # selected home team
     away_team_id = list(teams_dict.keys())[1]  # selected home team
     # create plot
     fig, axes = plt.subplots(1, 1, figsize=(15, 8))
-    fig.set_facecolor("#0D182E")
+    fig.set_facecolor(color_palette["bkg"])
     if home:
         # home team viz
-        pass_network_visualization(axes, home_passes_between_df, home_average_locs_and_count_df)
+        pass_network_visualization(axes, home_passes_between_df, home_average_locs_and_count_df, color_palette)
     else:
-        pass_network_visualization(axes, away_passes_between_df, away_average_locs_and_count_df)
+        pass_network_visualization(axes, away_passes_between_df, away_average_locs_and_count_df, color_palette)
 
-    plt.suptitle(f"{teams_dict[home_team_id]} - {teams_dict[away_team_id]}", color=main_color, fontsize=30)
+    plt.suptitle(f"{teams_dict[home_team_id]} - {teams_dict[away_team_id]}", color=main_color, fontsize=30, fontproperties=FONT_OSWALD)
     subtitle = f"Passing networks and top combinations by volume of passes from {teams_dict[home_team_id if home else away_team_id]}"
-    plt.text(48, 108, subtitle, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10)
-    plt.text(95, -3, "By: Victor Milhomem", horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=8)
+    plt.text(48, 108, subtitle, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10, fontproperties=FONT_ROBOTMONO)
+    plt.text(95, -3, "By: Victor Milhomem", horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=8, fontproperties=FONT_ROBOTO_ITALIC)
     plt.show()
