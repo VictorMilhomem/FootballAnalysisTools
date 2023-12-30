@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Nahuel Guzmán,ar ARG,GK,37-323,16,16,1440,16.0,18,1.13,75,57,77.3,8,5,3,5,31.3,1,1,0,0,0.0,Matches
+Carlos Felipe Rodríguez,mx MEX,GK,34-271,1,1,90,1.0,0,0.0,3,3,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+Squad Total,,,31.0,17,17,1530,17.0,18,1.06,78,60,78.2,8,6,3,6,35.3,1,1,0,0,0.0,
+Opponent Total,,,27.8,17,17,1530,17.0,32,1.88,84,52,65.5,3,6,8,3,17.6,3,3,0,0,0.0,

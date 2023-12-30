@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Nahuel Guzmán,ar ARG,GK,37-323,16.0,694,568,124,19,0,1,0,1,0,0,0,0,550,2,1,Matches
+Javier Aquino,mx MEX,DF,33-322,15.3,1081,936,144,17,0,3,66,127,0,0,0,0,869,1,17,Matches
+Jesús Alberto Angulo,mx MEX,DF,25-334,14.6,791,657,129,18,2,6,18,111,0,0,0,0,636,5,10,Matches
+Luis Enrique Quiñones,co COL,"FW,MF",32-187,14.6,692,635,56,11,0,1,87,11,34,11,10,0,504,1,14,Matches
+Rafael Carioca,br BRA,MF,34-195,14.9,970,914,51,44,0,9,9,5,2,1,0,0,878,5,12,Matches
+Guido Pizarro,ar ARG,DF,33-307,14.6,1011,949,61,39,0,5,1,11,0,0,0,0,876,1,5,Matches
+Fernando Gorriarán,uy URU,"MF,FW",29-033,12.9,737,671,61,18,3,8,55,5,36,10,14,0,591,5,11,Matches
+André-Pierre Gignac,fr FRA,FW,38-025,11.2,241,215,24,2,0,7,10,1,0,0,0,0,180,2,7,Matches
+Francisco Sebastián Córdova,mx MEX,"MF,FW",26-201,8.7,286,271,13,5,0,3,24,4,4,2,0,0,214,2,10,Matches
+Samir Santos,br BRA,DF,29-025,11.6,627,594,29,18,0,7,0,9,0,0,0,0,562,4,4,Matches
+Diego Reyes,mx MEX,DF,31-102,9.5,473,460,11,7,0,1,1,2,0,0,0,0,418,2,1,Matches
+Diego Lainez,mx MEX,FW,23-204,8.0,281,275,5,1,0,0,30,2,2,1,0,0,211,1,18,Matches
+Juan Pablo Vigón,mx MEX,MF,32-163,8.4,420,403,17,11,0,0,11,6,0,0,0,0,362,0,8,Matches
+Nicolás Ibáñez,ar ARG,FW,29-129,7.0,123,108,15,0,0,0,3,3,0,0,0,0,89,0,4,Matches
+Raymundo Fulgencio,mx MEX,FW,23-321,5.4,189,182,7,2,0,4,28,1,4,2,1,0,145,0,5,Matches
+Ozziel Herrera,mx MEX,"MF,FW",22-221,3.2,121,119,2,2,0,1,5,0,0,0,0,0,94,0,1,Matches
+Sebastián Fierro,mx MEX,MF,22-135,1.9,119,117,2,2,0,0,1,0,0,0,0,0,108,0,2,Matches
+Marcelo Flores,mx MEX,"FW,MF",20-090,2.0,82,76,6,1,0,2,5,0,5,1,2,0,63,0,2,Matches
+Fernando Ordóñez,mx MEX,DF,22-211,1.7,98,81,17,1,0,0,2,16,0,0,0,0,83,0,2,Matches
+Jesús Garza,mx MEX,"DF,MF",23-207,1.5,77,63,14,1,0,0,4,13,0,0,0,0,68,0,1,Matches
+Carlos Felipe Rodríguez,mx MEX,GK,34-271,1.0,32,25,7,3,0,0,0,0,0,0,0,0,26,0,0,Matches
+Vladimir Loroña,mx MEX,DF,25-044,1.1,70,61,9,0,0,0,4,9,0,0,0,0,60,0,1,Matches
+Nicolás López,uy URU,FW,30-090,0.8,41,40,1,0,0,2,6,0,1,1,0,0,28,0,3,Matches
+Fernando González,mx MEX,"FW,MF",22-248,0.4,28,27,1,0,0,0,2,0,1,0,1,0,26,0,0,Matches
+Eugenio Pizzuto,mx MEX,MF,21-231,0.3,26,26,0,0,0,0,2,0,0,0,0,0,23,0,0,Matches
+Leonel Prieto,mx MEX,MF,22-138,0.2,10,9,0,0,0,0,0,0,0,0,0,0,8,1,0,Matches
+Squad Total,,,31.0,17.0,9320,8482,806,222,5,60,374,337,89,29,28,0,7672,32,139,
+Opponent Total,,,27.8,17.0,7353,6528,816,217,18,58,244,315,74,33,34,0,5807,9,131,

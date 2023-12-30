@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Miguel Jiménez Ponce,mx MEX,GK,33-291,15.8,21,4,0,1,0,22.6,0.26,1.6,0.1,61,180,33.9,297,56,36.4,35.8,126,57.1,46.4,203,4,2.0,11,0.69,15.5,Matches
+José Rangel Aguilar,mx MEX,GK,23-308,1.2,1,0,0,0,0,1.7,0.24,0.7,0.61,5,18,27.8,25,6,36.0,34.6,12,75.0,60.2,12,0,0.0,1,0.86,15.3,Matches
+Squad Total,,,27.0,17.0,22,4,0,1,0,24.3,0.26,2.3,0.14,66,198,33.3,319,62,36.7,,141,57.4,46.9,215,4,1.9,12,0.71,,
+Opponent Total,,,28.1,17.0,22,4,0,1,0,23.5,0.26,1.5,0.09,111,298,37.2,504,80,43.8,38.7,163,47.2,38.8,283,23,8.1,10,0.59,12.5,

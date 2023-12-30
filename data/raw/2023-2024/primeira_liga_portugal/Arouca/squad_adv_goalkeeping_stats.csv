@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Ignacio De Arruabarrena,uy URU,GK,26-348,15.0,20,4,1,4,0,22.1,0.29,2.1,0.14,63,204,30.9,391,80,36.8,33.7,107,56.1,43.1,231,11,4.8,29,1.93,16.6,Matches
+Squad Total,,,26.8,15.0,20,4,1,4,0,22.1,0.29,2.1,0.14,63,204,30.9,384,80,37.5,,114,52.6,40.9,231,11,4.8,29,1.93,,
+Opponent Total,,,26.9,15.0,22,0,0,2,1,22.5,0.3,1.5,0.1,55,174,31.6,338,69,36.4,35.1,113,45.1,40.3,235,14,6.0,27,1.81,17.7,

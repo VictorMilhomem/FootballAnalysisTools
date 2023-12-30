@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Gibran Lajud,mx MEX,GK,30-005,9.0,19,2,1,1,0,14.9,0.27,-4.1,-0.45,35,133,26.3,151,30,55.6,43.5,76,64.5,50.3,139,6,4.3,6,0.67,13.4,Matches
+Carlos Acevedo,mx MEX,GK,27-255,6.0,12,1,0,2,0,12.0,0.32,0.0,-0.01,29,89,32.6,95,18,51.6,41.1,52,76.9,54.7,104,5,4.8,2,0.33,8.8,Matches
+Héctor Holguín,mx MEX,GK,22-250,2.0,3,0,0,1,0,4.4,0.27,1.4,0.72,14,28,50.0,35,6,51.4,35.2,18,55.6,47.1,27,1,3.7,1,0.5,9.3,Matches
+Squad Total,,,26.7,17.0,34,3,1,4,0,31.3,0.29,-2.7,-0.16,78,250,31.2,281,54,53.7,,146,67.8,51.5,270,12,4.4,9,0.53,,
+Opponent Total,,,27.9,17.0,31,3,1,3,1,28.6,0.28,-1.4,-0.08,96,245,39.2,368,55,42.4,36.9,157,56.7,43.4,212,12,5.7,14,0.82,13.8,

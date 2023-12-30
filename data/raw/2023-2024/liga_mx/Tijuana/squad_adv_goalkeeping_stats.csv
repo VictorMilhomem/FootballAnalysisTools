@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+José Antonio Rodríguez,mx MEX,GK,31-179,14.0,21,0,0,1,1,21.4,0.31,1.4,0.1,93,204,45.6,370,45,39.2,35.7,103,57.3,44.5,156,9,5.8,11,0.79,13.5,Matches
+José Corona,mx MEX,GK,42-338,3.0,5,1,1,1,0,4.5,0.26,-0.5,-0.17,12,28,42.9,67,9,29.9,31.8,18,44.4,44.3,29,2,6.9,1,0.33,10.7,Matches
+Squad Total,,,27.7,17.0,26,1,1,2,1,25.9,0.3,0.9,0.05,105,232,45.3,430,54,38.4,31.8,128,52.3,42.4,185,11,5.9,12,0.71,10.7,
+Opponent Total,,,28.2,17.0,23,1,1,1,1,18.4,0.23,-3.6,-0.21,64,162,39.5,369,80,28.5,31.6,163,35.0,34.8,298,18,6.0,8,0.47,12.0,

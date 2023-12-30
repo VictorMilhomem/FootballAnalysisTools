@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,Matches
+Rafik Guitane,fr FRA,"FW,MF",24-218,13.6,3,14,5,35.7,1.03,0.37,0.21,0.6,19.8,0,0,0,1.2,1.2,0.09,1.8,1.8,Matches
+Tiago Araújo,pt POR,"DF,MF",22-278,13.5,1,18,5,27.8,1.34,0.37,0.06,0.2,21.7,1,0,0,0.9,0.9,0.05,0.1,0.1,Matches
+Bernardo Vital,pt POR,DF,23-001,11.5,1,6,1,16.7,0.52,0.09,0.17,1.0,12.8,0,0,0,0.4,0.4,0.07,0.6,0.6,Matches
+Jordan Holsgrove,sct SCO,MF,24-111,10.9,2,15,5,33.3,1.37,0.46,0.13,0.4,28.1,5,0,0,0.5,0.5,0.03,1.5,1.5,Matches
+Pedro Álvaro,pt POR,DF,23-303,11.0,0,6,2,33.3,0.55,0.18,0.0,0.0,12.5,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+João Marques,pt POR,"MF,FW",21-320,10.6,3,19,10,52.6,1.79,0.94,0.16,0.3,18.9,0,0,0,2.4,2.4,0.13,0.6,0.6,Matches
+Volnei Feltes,br BRA,DF,23-259,9.7,0,8,3,37.5,0.82,0.31,0.0,0.0,21.4,3,0,0,0.3,0.3,0.04,-0.3,-0.3,Matches
+Rodrigo Gomes,pt POR,"DF,MF",20-176,10.6,4,23,7,30.4,2.17,0.66,0.17,0.57,15.3,1,0,0,3.6,3.6,0.16,0.4,0.4,Matches
+Marcelo Carné,br BRA,GK,33-327,9.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Cassiano,br BRA,FW,34-197,7.7,4,15,6,40.0,1.95,0.78,0.2,0.5,14.5,0,1,1,3.7,3.0,0.2,0.3,0.0,Matches
+Mateus Fernandes,pt POR,MF,19-173,8.5,0,7,2,28.6,0.82,0.24,0.0,0.0,22.9,1,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches
+Heriberto Tavares,pt POR,"FW,MF",26-314,5.6,1,11,4,36.4,1.96,0.71,0.09,0.25,18.2,0,0,0,0.9,0.9,0.08,0.1,0.1,Matches
+Alejandro Marqués,ve VEN,FW,23-148,6.3,5,18,7,38.9,2.86,1.11,0.28,0.71,15.0,0,0,0,2.4,2.4,0.13,2.6,2.6,Matches
+Daniel Leite,pt POR,GK,25-163,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Koba Koindredi,fr FRA,MF,22-064,3.5,0,4,1,25.0,1.14,0.29,0.0,0.0,21.3,1,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Erick Cabaco,uy URU,DF,28-255,3.7,0,4,0,0.0,1.07,0.0,0.0,,10.3,0,0,0,0.4,0.4,0.09,-0.4,-0.4,Matches
+Eliaquim Mangala,fr FRA,DF,32-320,3.1,1,1,1,100.0,0.33,0.33,1.0,1.0,4.1,0,0,0,0.8,0.8,0.82,0.2,0.2,Matches
+Raúl Parra,es ESP,DF,24-034,2.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Ivan Pavlic,be BEL,MF,22-050,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Alexandre Miguel Barros Soares,pt POR,MF,32-304,2.8,0,2,0,0.0,0.72,0.0,0.0,,25.2,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Wagner Pina,pt POR,"DF,MF",21-057,1.5,0,1,1,100.0,0.69,0.69,0.0,0.0,7.8,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches
+João Carlos,br BRA,"FW,DF",28-304,0.6,0,3,1,33.3,4.82,1.61,0.0,0.0,24.6,1,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Mor Ndiaye,sn SEN,"FW,MF",23-038,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rodrigo Martins,pt POR,"DF,FW",25-106,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Squad Total,,,24.8,14.0,25,175,61,34.9,12.5,4.36,0.14,0.39,18.5,13,1,1,18.3,17.5,0.1,6.7,6.5,
+Opponent Total,,,26.8,14.0,22,203,65,32.0,14.5,4.64,0.1,0.31,16.4,1,2,3,22.1,19.9,0.1,-0.1,0.1,

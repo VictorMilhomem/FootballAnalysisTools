@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Jhonatan,br BRA,GK,32-236,8,8,720,8.0,12,1.5,32,21,65.6,1,4,3,1,12.5,1,1,0,0,0.0,Matches
+Magrão,br BRA,GK,23-229,7,7,630,7.0,12,1.71,31,19,64.5,1,2,4,1,14.3,1,1,0,0,0.0,Matches
+Squad Total,,,28.1,15,15,1350,15.0,24,1.6,63,40,65.1,2,6,7,2,13.3,2,2,0,0,0.0,
+Opponent Total,,,26.9,15,15,1350,15.0,16,1.07,52,38,75.0,7,6,2,4,26.7,3,3,0,0,0.0,

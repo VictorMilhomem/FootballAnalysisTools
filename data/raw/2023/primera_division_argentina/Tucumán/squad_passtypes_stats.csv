@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Tomás Marchiori,ar ARG,GK,27.0,27.0,680,349,330,77,0,1,0,0,0,0,0,0,422,1,0,Matches
+Matías Orihuela,ar ARG,DF,30.0,24.7,1013,774,234,8,2,2,56,226,0,0,0,0,732,5,30,Matches
+Joaquín Pereyra,ar ARG,MF,24.0,24.7,1314,1193,118,47,14,25,117,15,55,14,36,0,940,3,28,Matches
+Mateo Coronel,ar ARG,FW,24.0,21.5,521,500,19,2,3,2,34,0,8,2,3,0,362,2,21,Matches
+Bruno Bianchi,ar ARG,DF,33.0,24.0,904,851,52,49,0,10,0,2,0,0,0,0,680,1,9,Matches
+Guillermo Acosta,ar ARG,MF,34.0,20.8,925,897,24,22,2,7,11,2,0,0,0,0,754,4,20,Matches
+Nicolás Romero,ar ARG,DF,19.0,21.1,721,664,55,25,0,7,0,30,0,0,0,0,525,2,12,Matches
+Marcelo Estigarribia,ar ARG,FW,27.0,19.3,548,507,34,1,1,4,9,2,0,0,0,0,309,7,23,Matches
+Renzo Tesuri,ar ARG,"DF,MF",26.0,19.6,780,666,109,9,0,10,32,100,0,0,0,0,534,5,43,Matches
+Adrián Guillermo Sánchez,ar ARG,MF,23.0,16.3,710,658,50,17,2,5,45,20,13,2,9,0,554,2,13,Matches
+Bautista Kociubinski,ar ARG,MF,21.0,14.1,685,651,31,15,1,6,21,1,15,0,13,0,568,3,8,Matches
+Marcelo Ortiz,ar ARG,DF,29.0,11.9,455,365,89,9,0,7,6,80,0,0,0,0,304,1,7,Matches
+Ramiro Ruiz,ar ARG,"FW,MF",22.0,11.5,284,277,6,1,1,4,21,3,0,0,0,0,187,1,14,Matches
+Hernán De La Fuente,ar ARG,DF,26.0,6.4,312,228,82,5,0,1,11,77,0,0,0,0,222,2,7,Matches
+Francisco Di Franco,ar ARG,"MF,DF",28.0,5.5,181,177,4,1,0,0,2,1,2,0,1,0,148,0,5,Matches
+Yonathan Cabral,ar ARG,DF,30.0,5.4,220,212,8,7,0,1,0,0,0,0,0,0,176,0,4,Matches
+Francisco Flores,ar ARG,DF,21.0,3.0,135,131,4,3,0,1,0,1,0,0,0,0,117,0,0,Matches
+Marcelo González,py PAR,MF,26.0,2.7,105,98,6,2,0,0,11,3,1,0,1,0,78,1,5,Matches
+Moisés Brandán,ar ARG,DF,22.0,2.3,105,74,31,1,0,2,4,30,0,0,0,0,68,0,7,Matches
+Cristian Menéndez,ar ARG,FW,34.0,4.2,105,96,7,0,0,0,4,1,0,0,0,0,62,2,2,Matches
+Ignacio Maestro Puch,ar ARG,"FW,MF",19.0,4.0,69,64,5,0,0,0,1,0,0,0,0,0,47,0,1,Matches
+Braian Guille,ar ARG,"MF,FW",25.0,3.8,196,172,23,6,2,3,30,4,13,3,7,0,120,1,7,Matches
+Wilson Ibarrola,py PAR,DF,26.0,1.8,57,40,15,0,0,0,9,15,0,0,0,0,31,2,2,Matches
+Lucas Naranjo,ar ARG,MF,21.0,0.1,15,15,0,0,0,0,0,0,0,0,0,0,14,0,0,Matches
+Maximiliano Alanís,ar ARG,DF,19.0,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Kevin Isa,ar ARG,MF,21.0,0.0,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Squad Total,,,26.9,27.0,11046,9665,1336,307,28,98,424,613,107,21,70,0,7959,45,268,
+Opponent Total,,,27.3,27.0,12009,10649,1319,348,16,103,569,577,126,32,73,0,9081,41,289,

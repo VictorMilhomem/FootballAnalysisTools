@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Alejandro Medina,ar ARG,GK,35.0,27,27,2430,27.0,34,1.26,124,95,76.6,6,4,17,5,18.5,5,5,0,0,0.0,Matches
+Squad Total,,,25.4,27,27,2430,27.0,34,1.26,124,95,76.6,6,4,17,5,18.5,5,5,0,0,0.0,
+Opponent Total,,,27.2,27,27,2430,27.0,18,0.67,78,61,79.5,17,4,6,15,55.6,3,2,1,0,33.3,

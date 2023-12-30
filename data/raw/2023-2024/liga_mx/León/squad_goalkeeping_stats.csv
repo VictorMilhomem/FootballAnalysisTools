@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Rodolfo Cota,mx MEX,GK,36-180,16,16,1440,16.0,21,1.31,55,35,65.5,5,5,6,4,25.0,2,2,0,0,0.0,Matches
+Alfonso Blanco Antúnez,mx MEX,GK,36-152,1,1,90,1.0,1,1.0,4,3,75.0,1,0,0,0,0.0,1,0,0,1,,Matches
+Squad Total,,,29.0,17,17,1530,17.0,22,1.29,59,38,66.1,6,5,6,4,23.5,3,2,0,1,0.0,
+Opponent Total,,,28.1,17,17,1529,17.0,23,1.35,100,78,77.0,6,5,6,3,17.6,0,0,0,0,,

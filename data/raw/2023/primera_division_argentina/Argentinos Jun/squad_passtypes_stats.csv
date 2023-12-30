@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Lucas Villalba,ar ARG,DF,28.0,23.8,1807,1691,109,65,2,29,45,41,3,0,3,0,1379,7,25,Matches
+Gabriel Ávalos,py PAR,FW,32.0,19.7,490,448,35,0,2,0,9,0,0,0,0,0,303,7,18,Matches
+Kevin Mac Allister,ar ARG,DF,25.0,19.2,1256,1023,231,22,0,5,17,209,0,0,0,0,947,2,20,Matches
+Francisco González,ar ARG,MF,25.0,17.6,620,571,44,13,1,1,40,6,25,4,10,1,470,5,15,Matches
+Javier Cabrera,uy URU,"DF,MF",30.0,17.3,731,677,50,6,3,4,132,16,28,0,24,0,475,4,38,Matches
+Santiago Gabriel,ar ARG,"DF,MF",22.0,18.0,848,640,205,19,0,13,104,155,31,2,24,1,557,3,52,Matches
+Franco Moyano,ar ARG,MF,25.0,17.4,1113,1036,76,50,1,7,42,2,24,1,22,0,965,1,3,Matches
+Miguel Ángel Torrén,ar ARG,DF,34.0,13.8,970,896,74,71,0,12,10,3,0,0,0,0,806,0,2,Matches
+Gastón Verón,ar ARG,"FW,MF",21.0,14.5,514,505,3,0,2,2,7,1,0,0,0,0,385,6,17,Matches
+Federico Lanzillota,ar ARG,GK,30.0,14.0,423,307,116,25,0,0,0,0,0,0,0,0,353,0,0,Matches
+Federico Redondo,ar ARG,MF,20.0,14.2,881,866,15,11,2,4,4,3,1,0,1,0,768,0,7,Matches
+Alexis Martin Arias,ar ARG,GK,30.0,13.0,394,282,112,14,0,1,0,0,0,0,0,0,333,0,0,Matches
+Alan Rodríguez,uy URU,MF,23.0,12.9,530,521,7,2,0,1,11,2,3,0,0,0,399,2,19,Matches
+Marco Di Cesare,ar ARG,DF,22.0,12.1,854,806,47,43,0,5,0,2,0,0,0,0,687,1,5,Matches
+Thiago Nuss,ar ARG,"FW,MF",21.0,10.1,198,192,5,1,0,0,33,2,2,0,1,0,114,1,13,Matches
+Luciano Sánchez,ar ARG,"DF,FW",29.0,9.5,513,414,97,12,0,5,15,84,1,1,0,0,399,2,15,Matches
+Rodrigo Cabral,ar ARG,"DF,MF",22.0,8.7,262,249,11,2,0,3,49,4,5,4,0,0,168,2,16,Matches
+Fabricio Domínguez,uy URU,"MF,DF",24.0,8.6,342,317,21,11,2,3,41,1,9,2,7,0,226,4,14,Matches
+Leonardo Heredia,ar ARG,"FW,MF",27.0,7.3,256,241,11,1,0,3,9,0,3,0,3,0,191,4,8,Matches
+Matías Vera,ar ARG,MF,27.0,5.8,333,324,8,6,0,2,1,1,1,0,0,0,292,1,4,Matches
+Leonel González,ar ARG,DF,28.0,4.3,318,289,28,10,0,3,3,18,0,0,0,0,253,1,6,Matches
+Mariano Bíttolo,ar ARG,"DF,MF",32.0,3.9,182,148,33,2,0,0,11,29,2,0,2,0,130,1,3,Matches
+Pablo Minissale,ar ARG,DF,22.0,4.1,288,247,41,10,0,2,3,31,0,0,0,0,229,0,5,Matches
+José Herrera,ar ARG,"DF,FW",17.0,3.5,127,120,7,1,0,0,16,2,4,3,0,0,91,0,5,Matches
+Facundo Ferreyra,ar ARG,"FW,MF",31.0,2.1,66,61,5,1,2,0,1,1,0,0,0,0,38,0,3,Matches
+Román Riquelme,ar ARG,DF,20.0,0.5,34,33,1,1,0,0,0,0,0,0,0,0,31,0,0,Matches
+Squad Total,,,26.5,27.0,14350,12904,1392,399,17,105,603,613,142,17,97,2,10989,54,313,
+Opponent Total,,,27.0,27.0,9037,7702,1297,352,25,58,396,547,99,26,57,1,5994,38,252,

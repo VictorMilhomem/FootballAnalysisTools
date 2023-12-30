@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Augusto Batalla,ar ARG,GK,26.0,22,22,1980,22.0,9,0.41,59,48,86.4,9,10,3,14,63.6,3,1,2,0,66.7,Matches
+Facundo Altamirano,ar ARG,GK,26.0,5,5,450,5.0,4,0.8,29,25,89.7,3,0,2,3,60.0,1,1,0,0,0.0,Matches
+Squad Total,,,26.4,27,27,2430,27.0,13,0.48,88,73,87.5,12,10,5,17,63.0,4,2,2,0,50.0,
+Opponent Total,,,27.2,27,27,2419,27.0,23,0.86,90,68,78.9,5,10,12,11,40.7,4,4,0,0,0.0,

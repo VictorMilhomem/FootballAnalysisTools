@@ -1,0 +1,25 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+João Gonçalves,pt POR,GK,23-055,14.0,366,209,156,32,0,0,0,0,0,0,0,0,251,1,1,Matches
+Róbert Boženík,sk SVK,FW,24-042,13.4,183,160,21,0,1,1,8,0,0,0,0,0,131,2,8,Matches
+Salvador Agra,pt POR,"DF,FW",32-049,12.5,610,482,128,22,1,2,93,72,34,16,12,3,470,0,10,Matches
+Gaius Makouta,cg CGO,MF,26-158,12.4,527,507,19,7,1,2,14,10,2,0,0,0,424,1,9,Matches
+Chidozie Awaziem,ng NGA,DF,26-363,13.0,779,749,29,27,0,16,1,2,0,0,0,0,656,1,1,Matches
+Sebastián Pérez Cardona,co COL,MF,30-276,11.3,769,714,50,36,5,6,5,4,0,0,0,0,657,5,4,Matches
+Bruno Onyemaechi,ng NGA,DF,24-271,11.5,648,498,148,9,1,7,52,134,5,1,4,0,452,2,23,Matches
+Tiago Fonseca Morais,pt POR,FW,20-118,10.5,293,272,17,5,2,6,22,6,6,5,0,0,196,4,11,Matches
+Rodrigo Abascal,uy URU,DF,29-350,10.7,666,624,40,33,0,9,8,7,0,0,0,0,555,2,1,Matches
+Miguel Reisinho,pt POR,MF,24-265,9.8,388,366,18,9,0,8,3,2,2,2,0,0,320,4,3,Matches
+Pedro Malheiro,pt POR,DF,22-343,6.4,365,307,56,15,0,5,17,41,0,0,0,0,294,2,6,Matches
+Filipe Ferreira,pt POR,DF,33-094,6.3,400,355,45,19,0,2,10,22,4,4,0,0,323,0,3,Matches
+Bruno Lourenço,pt POR,"FW,MF",25-331,5.9,155,136,16,5,3,2,15,0,10,4,3,0,104,3,5,Matches
+Masaki Watai,jp JPN,"FW,MF",24-165,2.7,88,88,0,0,0,0,5,0,0,0,0,0,75,0,3,Matches
+Ilija Vukotić,me MNE,MF,24-357,3.6,152,146,6,5,0,0,6,1,0,0,0,0,131,0,1,Matches
+Martim Tavares,pt POR,"FW,MF",20-050,1.5,35,33,2,0,0,2,2,0,0,0,0,0,28,0,1,Matches
+Ibrahima Camará,gn GUI,MF,24-339,1.3,62,60,2,0,1,2,4,2,0,0,0,0,47,0,1,Matches
+Berna,pt POR,"FW,DF",20-106,2.4,130,117,12,2,0,0,9,10,0,0,0,0,97,1,4,Matches
+Luís Santos,pt POR,"DF,FW",23-344,2.1,101,93,8,0,0,0,12,7,1,0,0,0,77,0,1,Matches
+Jeriel Córdova,ve VEN,"FW,MF",21-195,1.3,31,28,3,1,1,0,1,0,0,0,0,0,23,0,1,Matches
+Joel silva,pt POR,"MF,FW",20-322,0.5,29,27,2,2,0,0,0,0,0,0,0,0,22,0,2,Matches
+Vincent Sasso,fr FRA,MF,32-317,0.0,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Squad Total,,,26.1,14.0,6781,5975,778,229,16,70,287,320,64,32,19,3,5337,28,99,
+Opponent Total,,,26.6,14.0,6260,5478,756,230,14,46,258,310,80,39,30,1,4888,26,100,

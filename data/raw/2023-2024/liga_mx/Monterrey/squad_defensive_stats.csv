@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,Int,Tkl+Int,Clr,Err,Matches
+Esteban Andrada,ar ARG,GK,32-338,16.0,1,1,1,0,0,0,0,,0,1,0,1,0,1,4,1,Matches
+Maximiliano Meza,ar ARG,"MF,FW",31-015,12.3,27,18,14,7,6,13,32,40.6,19,9,0,9,9,36,9,0,Matches
+Stefan Medina,co COL,DF,31-199,13.0,34,22,20,12,2,19,30,63.3,11,13,9,4,15,49,38,0,Matches
+Luis Romo,mx MEX,MF,28-208,12.8,27,14,5,15,7,11,22,50.0,11,12,4,8,7,34,10,1,Matches
+Víctor Guzmán,mx MEX,DF,21-298,12.5,22,12,16,6,0,9,9,100.0,0,15,7,8,16,38,37,1,Matches
+Rogelio Funes Mori,mx MEX,FW,32-300,11.4,4,1,0,2,2,1,5,20.0,4,4,0,4,1,5,8,0,Matches
+Sebastián Vegas,cl CHI,DF,27-026,13.2,19,14,10,9,0,9,26,34.6,17,17,10,7,14,33,46,0,Matches
+Jesús Gallardo,mx MEX,DF,29-137,12.1,29,14,12,13,4,13,24,54.2,11,15,3,12,10,39,23,0,Matches
+Jordi Cortizo,mx MEX,"MF,FW",27-183,7.6,20,11,9,6,5,7,22,31.8,15,9,0,9,6,26,0,0,Matches
+Omar Govea,mx MEX,MF,27-346,9.9,13,10,4,8,1,5,10,50.0,5,12,3,9,11,24,9,0,Matches
+Héctor Moreno,mx MEX,DF,35-347,7.7,4,1,3,0,1,3,6,50.0,3,8,4,4,10,14,19,0,Matches
+Jesús Corona,mx MEX,"MF,FW",30-358,6.6,8,5,2,3,3,3,8,37.5,5,8,0,8,3,11,3,0,Matches
+Jonathan González,mx MEX,MF,24-261,6.6,10,6,5,5,0,5,10,50.0,5,5,2,3,13,23,10,0,Matches
+Alfonso González,mx MEX,"MF,FW",29-116,5.6,11,7,1,6,4,4,8,50.0,4,6,1,5,4,15,2,0,Matches
+Germán Berterame,ar ARG,"FW,MF",25-047,6.1,4,1,1,3,0,0,4,0.0,4,5,0,5,3,7,5,0,Matches
+Érick Aguirre,mx MEX,DF,26-310,5.1,19,11,14,4,1,13,16,81.3,3,6,0,6,4,23,14,0,Matches
+Sergio Canales,es ESP,"FW,MF",32-317,4.2,4,2,1,3,0,3,8,37.5,5,1,0,1,0,4,1,0,Matches
+Joao Joshimar Rojas,ec ECU,"MF,FW",26-136,4.4,4,3,0,3,1,2,6,33.3,4,2,0,2,2,6,1,0,Matches
+César Bustos,mx MEX,DF,18-125,3.1,10,6,6,4,0,5,7,71.4,2,4,0,4,2,12,3,0,Matches
+Ali Ávila,mx MEX,FW,20-098,3.0,3,0,1,0,2,3,4,75.0,1,1,0,1,0,3,2,0,Matches
+Celso Ortiz,py PAR,MF,34-338,2.1,3,0,2,1,0,2,5,40.0,3,1,1,0,8,11,1,0,Matches
+César Garza,mx MEX,"MF,FW",18-182,2.8,5,2,0,5,0,1,2,50.0,1,2,0,2,2,7,4,0,Matches
+Daniel Alexis Parra,mx MEX,DF,24-163,1.0,0,0,0,0,0,0,2,0.0,2,0,0,0,2,2,2,0,Matches
+Luis Cárdenas,mx MEX,GK,30-106,1.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0,Matches
+Victor Lopez,mx MEX,"MF,FW",20-236,2.3,6,3,2,2,2,2,5,40.0,3,5,0,5,2,8,0,0,Matches
+Rodrigo Aguirre,uy URU,"FW,MF",29-090,1.7,2,1,0,1,1,0,2,0.0,2,0,0,0,1,3,0,0,Matches
+Ángel Jordán Acosta,mx MEX,"MF,FW",18-241,0.5,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,0,0,Matches
+Edson Gutiérrez,mx MEX,DF,27-345,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,3,0,Matches
+Isidro Suárez,mx MEX,FW,20-163,0.2,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0,Matches
+Joaquín Moxica,mx MEX,FW,17-337,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Kevin Ortega,mx MEX,"MF,FW",21-360,0.2,2,1,1,0,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
+Ricardo Rentería,mx MEX,FW,21-189,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Squad Total,,,28.6,17.0,293,168,130,120,43,135,277,48.7,142,162,44,118,147,440,259,3,
+Opponent Total,,,28.1,17.0,266,159,133,110,23,119,284,41.9,165,172,57,115,155,421,325,4,

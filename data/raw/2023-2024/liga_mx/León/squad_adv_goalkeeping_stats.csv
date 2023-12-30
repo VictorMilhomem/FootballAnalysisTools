@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Rodolfo Cota,mx MEX,GK,36-180,16.0,21,2,0,2,1,19.3,0.32,-0.7,-0.05,33,84,39.3,296,94,21.6,30.3,121,16.5,27.0,187,13,7.0,25,1.56,16.1,Matches
+Alfonso Blanco Antúnez,mx MEX,GK,36-152,1.0,1,0,0,0,0,1.7,0.42,0.7,0.67,3,4,75.0,17,7,11.8,23.5,5,40.0,32.8,10,1,10.0,1,1.0,19.5,Matches
+Squad Total,,,29.0,17.0,22,2,0,2,1,20.9,0.32,-0.1,0.0,36,88,40.9,307,101,21.5,,132,16.7,26.5,197,14,7.1,26,1.53,,
+Opponent Total,,,28.1,17.0,23,0,0,4,1,26.5,0.27,4.5,0.26,118,295,40.0,387,47,47.0,40.7,183,61.7,48.6,295,10,3.4,12,0.71,11.9,

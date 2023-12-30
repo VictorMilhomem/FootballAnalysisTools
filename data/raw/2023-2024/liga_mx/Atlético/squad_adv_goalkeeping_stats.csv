@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Andrés Sánchez,mx MEX,GK,26-088,9.0,16,0,0,2,0,9.6,0.31,-6.4,-0.71,17,36,47.2,185,47,14.6,25.3,79,11.4,19.0,131,8,6.1,11,1.22,15.2,Matches
+Diego Urtiaga,mx MEX,GK,25-082,8.0,10,1,0,1,0,11.0,0.25,1.0,0.13,21,57,36.8,154,38,27.3,31.3,74,20.3,23.2,141,3,2.1,0,0.0,8.7,Matches
+Squad Total,,,28.8,17.0,26,1,0,3,0,20.6,0.28,-5.4,-0.32,38,93,40.9,331,85,20.8,,161,14.9,20.8,272,11,4.0,11,0.65,,
+Opponent Total,,,27.8,17.0,31,4,0,5,2,26.3,0.26,-2.7,-0.16,83,202,41.1,387,65,32.8,34.3,143,52.4,43.4,213,8,3.8,27,1.59,17.5,

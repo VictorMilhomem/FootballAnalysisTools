@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Alexis Francisco Peña,mx MEX,DF,27-351,17.0,612,565,45,30,1,8,4,13,0,0,0,0,500,2,3,Matches
+Bryan Garnica,mx MEX,MF,27-217,14.9,494,393,99,17,1,2,140,23,52,14,35,0,317,2,26,Matches
+Alán Montes,mx MEX,DF,23-065,14.6,603,567,32,27,1,16,3,4,0,0,0,0,436,4,7,Matches
+Facundo Batista,uy URU,FW,24-348,12.3,159,141,18,0,0,1,2,5,0,0,0,0,105,0,2,Matches
+Fernando Arce Jr.,us USA,MF,27-033,10.9,357,340,15,12,0,3,4,3,0,0,0,0,268,2,7,Matches
+Raúl Gudiño,mx MEX,GK,27-252,9.5,294,166,126,30,0,1,0,0,0,0,0,0,179,2,0,Matches
+Jorge Rodríguez,mx MEX,DF,22-118,9.5,363,260,103,9,0,2,16,93,1,1,0,0,235,0,7,Matches
+Édgar Méndez,es ESP,"FW,MF",33-362,8.5,177,165,11,0,0,3,18,6,0,0,0,0,107,1,7,Matches
+Heriberto Jurado,mx MEX,MF,18-361,6.6,154,130,24,10,0,1,36,1,10,2,6,0,93,0,8,Matches
+Jair Cortés,mx MEX,"DF,MF",23-039,8.3,342,273,69,3,0,3,25,66,0,0,0,0,218,0,16,Matches
+Emilio Martínez González,mx MEX,DF,20-331,7.5,290,211,78,6,1,1,18,72,0,0,0,0,187,1,7,Matches
+Ezequiel Unsain,ar ARG,GK,28-296,7.5,206,123,83,13,0,0,0,0,0,0,0,0,119,0,0,Matches
+Ricardo Monreal,mx MEX,FW,22-323,6.3,177,172,5,0,2,2,9,2,0,0,0,0,119,0,12,Matches
+Agustín Oliveros,uy URU,DF,25-135,6.0,198,154,42,6,0,0,12,36,0,0,0,0,130,2,5,Matches
+Vicente Poggi,uy URU,MF,21-172,5.8,227,218,8,3,0,0,2,1,0,0,0,0,185,1,3,Matches
+Andrés Colorado,co COL,MF,25-029,5.7,178,171,7,3,1,0,0,0,0,0,0,0,149,0,0,Matches
+Alejandro Andrade,mx MEX,MF,22-136,4.3,120,115,4,3,0,0,3,0,0,0,0,0,78,1,4,Matches
+Cristian González Bautista,mx MEX,"DF,MF",25-307,4.4,158,113,42,6,0,3,22,33,3,1,2,0,102,3,6,Matches
+Jhon Chancellor,ve VEN,DF,31-362,4.3,139,134,5,3,0,2,0,2,0,0,0,0,114,0,2,Matches
+Diego Gómez,mx MEX,"MF,FW",20-111,3.4,85,83,2,0,2,1,1,0,0,0,0,0,63,0,2,Matches
+José Joaquín Esquivel,mx MEX,MF,25-357,3.0,86,83,3,3,0,2,0,0,0,0,0,0,65,0,1,Matches
+Fabricio Formiliano,uy URU,DF,30-350,2.8,100,98,2,2,0,0,0,0,0,0,0,0,82,0,2,Matches
+Braian Samudio,py PAR,"MF,FW",28-007,3.8,170,164,4,0,0,1,10,3,1,0,0,0,118,2,5,Matches
+Daniel Mantilla,co COL,"MF,FW",27-005,3.0,81,77,4,0,0,1,8,3,1,0,1,0,58,0,3,Matches
+Rogelio Cortéz Pineda,mx MEX,MF,19-176,2.1,58,52,6,4,0,0,4,0,1,0,1,0,44,0,0,Matches
+Maximiliano Silvera,uy URU,FW,26-116,1.2,13,12,1,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+Alfredo Gutierrez,mx MEX,DF,20-249,0.9,23,22,1,1,0,0,0,0,0,0,0,0,17,0,1,Matches
+Misael Domínguez,mx MEX,"MF,DF",24-064,1.2,70,60,10,2,0,1,8,5,3,2,1,0,55,0,2,Matches
+Waldo Madrid,mx MEX,"DF,FW",20-127,0.5,16,14,2,0,0,0,0,2,0,0,0,0,7,0,1,Matches
+Arath Moreno,mx MEX,MF,18-041,0.4,18,16,2,2,0,0,2,0,0,0,0,0,11,0,1,Matches
+César López,mx MEX,FW,21-298,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Alek Álvarez,mx MEX,DF,20-272,0.1,7,6,1,0,0,0,1,1,0,0,0,0,7,0,0,Matches
+Squad Total,,,25.5,17.0,5975,5098,854,195,9,54,348,374,72,20,46,0,4179,23,140,
+Opponent Total,,,28.2,17.0,9427,8482,921,231,13,72,363,377,109,45,45,0,7665,24,179,

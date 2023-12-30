@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Sergio Romero,ar ARG,GK,35.0,23,23,2070,23.0,20,0.87,83,62,79.5,11,4,8,10,43.5,6,3,3,0,50.0,Matches
+Javier Hernán García,ar ARG,GK,36.0,4,4,360,4.0,4,1.0,10,6,60.0,2,1,1,1,25.0,0,0,0,0,,Matches
+Squad Total,,,27.8,27,27,2430,27.0,24,0.89,93,68,77.4,13,5,9,11,40.7,6,3,3,0,50.0,
+Opponent Total,,,27.2,27,27,2430,27.0,33,1.22,99,67,66.7,9,5,13,9,33.3,0,0,0,0,,

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+José Antonio Rodríguez,mx MEX,GK,31-179,14,14,1260,14.0,21,1.5,71,50,70.4,5,1,8,2,14.3,1,0,1,0,100.0,Matches
+José Corona,mx MEX,GK,42-338,3,3,270,3.0,5,1.67,14,9,71.4,1,1,1,0,0.0,1,1,0,0,0.0,Matches
+Squad Total,,,27.7,17,17,1530,17.0,26,1.53,85,59,70.6,6,2,9,2,11.8,2,1,1,0,50.0,
+Opponent Total,,,28.2,17,17,1530,17.0,23,1.35,77,54,71.4,9,2,6,5,29.4,2,1,1,0,50.0,

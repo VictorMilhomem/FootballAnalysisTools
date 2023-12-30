@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Esteban Andrada,ar ARG,GK,32-338,16.0,15,3,0,1,0,18.6,0.23,3.6,0.23,91,196,46.4,585,93,26.7,31.1,80,50.0,44.4,219,25,11.4,18,1.13,14.0,Matches
+Luis Cárdenas,mx MEX,GK,30-106,1.0,0,0,0,0,0,1.2,0.43,1.2,1.24,7,13,53.8,52,4,17.3,27.0,5,80.0,44.6,11,2,18.2,1,1.0,11.9,Matches
+Squad Total,,,28.6,17.0,15,3,0,1,0,19.9,0.24,4.9,0.29,98,209,46.9,585,97,28.2,,137,32.1,30.4,230,27,11.7,19,1.12,,
+Opponent Total,,,28.1,17.0,27,3,0,3,1,25.0,0.29,-1.0,-0.06,87,204,42.6,363,67,37.2,35.3,141,48.9,40.1,258,15,5.8,11,0.65,12.1,

@@ -171,14 +171,14 @@ def pass_network_visualization(ax, passes_between_df, average_locs_and_count_df,
                              passes_between_df.x_end, passes_between_df.y_end, lw=passes_between_df.width,
                              color=color, zorder=1, ax=ax)
     pass_nodes = pitch.scatter(average_locs_and_count_df.x, average_locs_and_count_df.y,
-                               s=average_locs_and_count_df.marker_size, marker='h',
-                               color='#FEFEFC', edgecolors='#FEFEFC', linewidth=1, alpha=1, ax=ax)
+                               s=average_locs_and_count_df.marker_size,
+                               color=color_palette["color1"], edgecolors=color_palette["color3"], linewidth=1, alpha=1, ax=ax)
     for _, row in average_locs_and_count_df.iterrows():
         #print(row)
         #player_name = row["name"].split()
         #player_initials = "".join(word[0] for word in player_name).upper()
         player_shirt = row["shirtNo"]
-        pitch.annotate(player_shirt, xy=(row.x, row.y), c='#706f6f', va='center',
+        pitch.annotate(player_shirt, xy=(row.x, row.y), c=color_palette["color3"], va='center',
                        ha='center', size=14, ax=ax)
 
     return pitch

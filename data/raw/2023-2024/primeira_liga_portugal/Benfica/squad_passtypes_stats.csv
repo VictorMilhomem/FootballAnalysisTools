@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Fredrik Aursnes,no NOR,"DF,MF",28-020,14.8,1023,906,115,6,2,6,30,108,1,0,0,0,827,2,27,Matches
+Rafa Silva,pt POR,MF,30-227,14.7,590,571,17,1,7,3,9,3,0,0,0,0,482,2,27,Matches
+António Silva,pt POR,DF,20-061,14.0,832,798,32,27,1,6,0,4,0,0,0,0,771,2,1,Matches
+Nicolás Otamendi,ar ARG,DF,35-321,13.9,890,847,38,28,0,7,0,7,0,0,0,0,796,5,6,Matches
+João Mário,pt POR,"FW,MF",30-345,11.9,699,669,28,12,5,2,26,12,4,1,0,0,582,2,9,Matches
+João Neves,pt POR,MF,19-094,11.5,938,861,75,28,1,7,32,28,19,11,1,0,820,2,7,Matches
+Anatolii Trubin,ua UKR,GK,22-151,11.0,301,198,102,20,0,0,0,0,0,0,0,0,245,1,1,Matches
+Ángel Di María,ar ARG,FW,35-319,10.4,606,526,73,24,10,11,96,8,41,29,0,0,431,7,23,Matches
+Orkun Kökçü,tr TUR,MF,23-001,9.3,718,670,45,23,6,7,27,3,19,12,0,0,600,3,13,Matches
+Morato,br BRA,DF,22-183,7.5,390,350,39,10,1,2,10,28,0,0,0,0,316,1,10,Matches
+Florentino Luís,pt POR,MF,24-133,6.6,545,529,16,16,0,2,0,0,0,0,0,0,481,0,13,Matches
+Alexander Bah,dk DEN,DF,26-021,6.2,433,363,68,2,0,1,15,66,0,0,0,0,336,2,11,Matches
+Petar Musa,hr CRO,FW,25-301,5.5,110,103,6,0,1,1,2,1,0,0,0,0,80,1,0,Matches
+Arthur,br BRA,FW,25-249,5.1,85,80,3,0,0,0,1,1,0,0,0,0,66,2,1,Matches
+David Neres,br BRA,FW,26-302,4.6,283,259,23,5,1,0,31,5,10,5,1,0,217,1,8,Matches
+Casper Tengstedt,dk DEN,FW,23-212,4.1,77,73,4,0,0,0,6,2,0,0,0,0,53,0,5,Matches
+Samuel Soares,pt POR,GK,21-198,3.0,81,57,24,4,0,0,0,0,0,0,0,0,69,0,0,Matches
+David Jurásek,cz CZE,DF,23-145,2.9,188,152,35,1,0,0,10,34,0,0,0,0,149,1,3,Matches
+Chiquinho,pt POR,MF,28-164,2.1,196,176,20,7,2,1,7,3,10,5,0,0,162,0,3,Matches
+Gonçalo Guedes,pt POR,"FW,MF",27-031,1.3,77,71,6,1,0,1,5,4,1,0,0,0,57,0,2,Matches
+Tomás Araújo,pt POR,"DF,MF",21-228,1.0,66,65,1,1,0,0,0,0,0,0,0,0,59,0,0,Matches
+Odisseas Vlachodimos,gr GRE,GK,29-248,1.0,20,13,7,2,0,0,0,0,0,0,0,0,16,0,0,Matches
+Juan Bernat,es ESP,DF,30-304,0.9,44,40,4,1,0,0,0,3,0,0,0,0,42,0,0,Matches
+Tiago Gouveia,pt POR,FW,22-195,0.8,27,26,0,0,1,0,1,0,0,0,0,0,24,1,0,Matches
+João Victor,br BRA,DF,25-166,0.3,28,22,6,0,0,0,0,6,0,0,0,0,24,0,0,Matches
+Gustavo Marques,br BRA,DF,22-082,0.0,3,2,1,0,0,0,0,1,0,0,0,0,3,0,0,Matches
+Mihailo Ristić,rs SRB,DF,28-060,0.0,13,10,3,1,0,1,4,2,0,0,0,0,10,0,0,Matches
+Squad Total,,,26.7,15.0,9263,8437,791,220,38,58,312,329,105,63,2,0,7718,35,170,
+Opponent Total,,,26.5,15.0,5882,5113,745,200,18,56,221,291,47,25,9,0,4452,24,151,

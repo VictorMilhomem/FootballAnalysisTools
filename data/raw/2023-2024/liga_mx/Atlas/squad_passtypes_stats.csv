@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+José Abella,mx MEX,DF,29-323,17.0,928,734,189,18,0,7,50,171,0,0,0,0,708,5,21,Matches
+Hugo Nervo,ar ARG,DF,32-358,17.0,878,841,36,32,2,3,0,0,0,0,0,0,715,1,10,Matches
+Camilo Vargas,co COL,GK,34-296,17.0,639,453,185,38,0,2,0,0,0,0,0,0,463,1,1,Matches
+Luis Ricardo Reyes,mx MEX,DF,32-271,15.8,899,668,230,35,2,8,112,140,55,21,25,0,666,1,14,Matches
+Jordy Caicedo,ec ECU,FW,26-042,12.8,209,176,33,0,0,3,4,0,0,0,0,0,146,0,8,Matches
+Aldo Rocha,mx MEX,MF,31-054,12.2,760,736,23,22,0,12,5,1,0,0,0,0,661,1,8,Matches
+Juan Zapata,co COL,MF,23-225,11.2,516,489,26,7,2,14,19,6,13,1,6,0,438,1,3,Matches
+Augusto Solari,ar ARG,"FW,MF",31-361,7.9,237,233,3,1,1,1,19,2,0,0,0,0,150,1,10,Matches
+Ángel Márquez,mx MEX,MF,23-192,8.4,388,376,12,4,0,4,14,5,3,0,2,0,319,0,8,Matches
+Anderson Santamaría,pe PER,DF,31-354,8.0,348,339,8,8,1,7,2,0,0,0,0,0,296,1,3,Matches
+Edgar Zaldívar,mx MEX,MF,27-074,5.6,273,272,1,1,0,3,4,0,0,0,0,0,230,0,3,Matches
+Eduardo Aguirre,mx MEX,"FW,MF",25-149,6.8,159,153,6,2,1,2,19,2,1,0,1,0,108,0,7,Matches
+Jorge Guzmán,mx MEX,FW,20-017,6.3,208,201,7,0,0,3,19,6,1,0,1,0,153,0,10,Matches
+Jaziel Martínez,mx MEX,MF,23-088,6.1,302,297,4,1,4,3,5,2,0,0,0,0,252,1,5,Matches
+José Lozano,mx MEX,"DF,FW",25-086,5.2,217,193,23,1,0,2,18,22,0,0,0,0,159,1,10,Matches
+Brian Lozano,uy URU,FW,29-310,4.6,236,218,18,3,2,11,20,5,10,2,6,0,172,0,7,Matches
+Gaddi Aguirre,mx MEX,DF,27-274,5.2,294,285,8,7,0,1,1,0,1,1,0,0,268,1,1,Matches
+Carlos Robles,mx MEX,DF,23-172,4.3,229,220,9,5,0,0,0,4,0,0,0,0,196,0,0,Matches
+Mateo García,ar ARG,"MF,FW",27-111,5.4,270,261,9,2,0,1,6,4,2,0,2,0,225,0,3,Matches
+Abraham Bass,mx MEX,MF,22-143,2.7,157,151,5,4,0,7,1,1,0,0,0,0,127,1,4,Matches
+Julio Furch,ar ARG,FW,34-154,2.0,58,53,5,1,1,1,2,1,0,0,0,0,40,0,2,Matches
+Mauro Manotas,co COL,"FW,MF",28-168,2.3,48,46,2,0,0,1,0,1,0,0,0,0,39,0,1,Matches
+Christopher Trejo,mx MEX,"FW,MF",24-028,2.5,103,92,11,2,0,1,10,3,5,2,2,0,79,0,4,Matches
+Israel Larios,mx MEX,MF,20-233,0.3,16,15,1,0,0,0,0,1,0,0,0,0,14,0,0,Matches
+Squad Total,,,28.8,17.0,8372,7502,854,194,16,97,330,377,91,27,45,0,6624,16,143,
+Opponent Total,,,28.1,17.0,7433,6588,828,190,10,56,277,383,70,16,47,0,5801,17,143,

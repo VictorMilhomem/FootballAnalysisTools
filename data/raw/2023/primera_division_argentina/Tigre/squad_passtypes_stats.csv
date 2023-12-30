@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Gonzalo Marinelli,ar ARG,GK,33.0,25.0,858,655,203,69,0,3,2,0,0,0,0,0,596,0,0,Matches
+Brian Luciatti,ar ARG,DF,29.0,22.7,1051,977,72,22,1,10,6,3,0,0,0,0,877,2,13,Matches
+Mateo Retegui,it ITA,FW,23.0,19.9,342,303,38,0,1,2,21,5,0,0,0,0,224,1,12,Matches
+Facundo Colidio,ar ARG,"MF,FW",23.0,18.5,598,570,25,3,12,2,25,12,1,0,0,0,412,3,33,Matches
+Alexis Castro,ar ARG,"MF,FW",28.0,16.6,768,701,63,19,5,4,95,1,42,8,32,0,550,4,19,Matches
+Lucas Menossi,ar ARG,"MF,FW",30.0,16.9,922,863,57,19,7,9,58,5,31,4,24,0,681,2,22,Matches
+Blas Armoa,py PAR,"FW,MF",22.0,15.9,348,347,0,0,1,0,50,0,0,0,0,0,222,1,10,Matches
+Sebastián Prieto,ar ARG,DF,29.0,16.2,922,716,202,12,1,10,53,184,6,0,5,0,672,4,22,Matches
+Lucas Blondel,ar ARG,DF,26.0,13.9,711,566,145,8,1,8,44,135,2,0,2,0,506,0,29,Matches
+Emanuel Aguilera,ar ARG,DF,33.0,14.0,697,659,37,24,0,4,3,3,0,0,0,0,575,1,8,Matches
+Aaron Nicolás Molinas,ar ARG,"MF,FW",22.0,13.1,779,717,59,11,3,9,65,12,34,8,22,0,594,3,13,Matches
+Sebastián Prediger,ar ARG,MF,36.0,12.4,623,592,30,29,1,5,3,1,0,0,0,0,536,1,15,Matches
+Agustín Cardozo,ar ARG,MF,25.0,15.0,864,841,23,21,0,9,1,2,0,0,0,0,744,0,5,Matches
+Víctor Cabrera,ar ARG,DF,29.0,11.7,570,523,44,12,0,7,3,28,0,0,0,0,447,3,10,Matches
+Cristian Zabala,ar ARG,MF,24.0,11.7,674,646,26,20,2,8,19,1,5,0,3,0,546,2,5,Matches
+Lautaro Montoya,ar ARG,DF,28.0,8.5,474,386,85,3,0,0,39,80,2,0,2,0,339,3,17,Matches
+Martín Ortega,ar ARG,"DF,MF",23.0,8.3,433,341,92,8,0,0,38,84,0,0,0,0,326,0,16,Matches
+Brian Alexis Leizza,ar ARG,DF,22.0,8.8,412,398,13,9,0,5,1,2,0,0,0,0,328,1,5,Matches
+Tomás Badaloni,ar ARG,FW,22.0,7.5,138,129,7,0,0,0,2,0,0,0,0,0,89,2,4,Matches
+Martin Garay,ar ARG,"DF,MF",23.0,7.6,441,369,71,1,2,3,31,70,0,0,0,0,318,1,20,Matches
+Gonzalo Flores,ar ARG,"FW,MF",20.0,4.4,106,106,0,0,0,0,8,0,0,0,0,0,76,0,4,Matches
+Santiago Rojas,py PAR,GK,26.0,2.0,44,23,21,5,0,0,0,0,0,0,0,0,24,0,0,Matches
+Ezequiel Forclaz,ar ARG,"MF,FW",19.0,2.0,99,95,4,0,0,0,10,3,1,1,0,0,68,0,2,Matches
+Agustín Obando,ar ARG,"MF,FW",22.0,2.4,90,81,9,2,0,0,19,1,6,1,5,0,46,0,3,Matches
+Sebastián Medina,ar ARG,MF,22.0,1.3,73,66,7,1,0,1,9,2,4,1,3,0,45,0,4,Matches
+Mateo Caceres,ar ARG,FW,20.0,0.1,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Ijiel Protti,ar ARG,MF,28.0,0.0,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches
+Squad Total,,,27.4,27.0,13046,11679,1333,298,37,99,605,634,134,23,98,0,9849,34,292,
+Opponent Total,,,26.9,27.0,10365,9056,1259,285,43,116,480,597,104,31,54,2,7304,50,292,

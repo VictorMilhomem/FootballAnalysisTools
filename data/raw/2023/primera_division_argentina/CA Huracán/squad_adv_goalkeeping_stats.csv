@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Lucas Chávez,ar ARG,GK,27.0,25.0,26,2,0,3,1,23.9,0.25,-1.1,-0.05,159,398,39.9,720,93,42.5,37.3,146,63.0,48.7,298,26,8.7,53,2.12,19.6,Matches
+Dante Campisi,ar ARG,GK,26.0,2.0,3,0,0,1,0,2.6,0.32,-0.4,-0.21,17,36,47.2,50,7,46.0,37.9,18,72.2,55.4,40,2,5.0,2,1.0,12.5,Matches
+Squad Total,,,26.8,27.0,29,2,0,4,1,26.5,0.25,-1.5,-0.06,176,434,40.6,740,100,44.5,,194,54.1,43.1,338,28,8.3,55,2.04,,
+Opponent Total,,,27.3,27.0,18,3,0,3,0,20.6,0.19,2.6,0.09,142,354,40.1,511,86,44.8,38.2,223,56.1,45.7,457,44,9.6,30,1.11,12.9,

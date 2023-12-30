@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Leonardo Burián,uy URU,GK,39.0,18.5,16,2,0,2,2,14.0,0.24,0.0,0.0,92,215,42.8,321,51,39.9,36.6,167,52.1,42.5,255,9,3.5,8,0.43,12.2,Matches
+Gastón Gómez,ar ARG,GK,26.0,8.5,11,1,0,2,0,11.3,0.28,0.3,0.03,38,88,43.2,140,34,44.3,37.6,56,46.4,39.5,108,2,1.9,3,0.35,12.8,Matches
+Squad Total,,,25.9,27.0,27,3,0,4,2,25.3,0.26,0.3,0.01,130,303,42.9,460,85,41.3,,224,50.4,41.6,363,11,3.0,11,0.41,,
+Opponent Total,,,27.1,27.0,24,2,0,2,1,21.2,0.24,-1.8,-0.07,107,359,29.8,555,89,41.6,37.2,196,65.3,48.6,322,24,7.5,27,1.0,14.4,

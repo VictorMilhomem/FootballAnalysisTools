@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Guillermo Allison,mx MEX,GK,33-096,12.0,17,3,0,2,1,22.2,0.28,6.2,0.52,97,230,42.2,235,32,60.4,45.1,119,73.9,55.0,187,10,5.3,3,0.25,11.3,Matches
+Fernando Tapia Méndez,mx MEX,GK,22-196,5.0,12,2,0,3,0,10.5,0.32,-1.5,-0.29,30,84,35.7,100,16,55.0,41.8,39,74.4,52.2,63,1,1.6,1,0.2,11.1,Matches
+Squad Total,,,29.8,17.0,29,5,0,5,1,32.7,0.29,4.7,0.28,127,314,40.4,334,48,59.0,,159,73.6,54.1,250,11,4.4,4,0.24,,
+Opponent Total,,,28.0,17.0,18,1,1,2,0,22.4,0.32,4.4,0.26,69,175,39.4,414,87,27.1,31.8,142,44.4,38.4,246,22,8.9,18,1.06,14.2,

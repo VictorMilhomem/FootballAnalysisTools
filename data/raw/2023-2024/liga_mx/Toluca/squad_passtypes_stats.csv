@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Tiago Volpi,br BRA,GK,33-011,17.0,585,428,156,43,0,1,0,0,0,0,0,0,447,1,0,Matches
+Andrés Mosquera Guardia,co COL,DF,33-313,15.6,1057,999,57,26,0,3,0,16,0,0,0,0,959,1,3,Matches
+Valber Huerta,cl CHI,DF,30-126,15.3,1149,1079,68,28,1,6,4,5,0,0,0,0,1024,2,3,Matches
+Maximiliano Araújo,uy URU,"DF,FW",23-318,13.9,637,556,77,17,0,2,31,53,7,3,3,0,522,4,8,Matches
+Marcel Ruiz,mx MEX,MF,23-065,13.2,748,728,17,12,3,3,5,3,1,0,1,0,648,3,11,Matches
+Brian García,mx MEX,DF,26-060,14.2,983,862,118,17,2,12,39,94,7,2,5,0,817,3,4,Matches
+Juan Domínguez,mx MEX,"FW,MF",25-061,10.9,455,411,43,12,1,2,32,11,20,6,11,0,370,1,11,Matches
+Claudio Baeza,cl CHI,MF,30-007,10.7,731,707,23,18,0,10,1,5,0,0,0,0,667,1,8,Matches
+Jean Meneses,cl CHI,"FW,MF",30-289,10.5,566,516,47,5,4,2,44,21,21,11,5,0,426,3,15,Matches
+Edgar López,mx MEX,"FW,MF",24-253,9.7,254,235,19,0,2,0,4,1,0,0,0,0,202,0,11,Matches
+Robert Morales,py PAR,FW,24-288,8.4,172,160,11,2,0,1,2,0,0,0,0,0,126,1,10,Matches
+Jesús Angulo,mx MEX,"MF,FW",26-313,8.3,505,461,43,15,1,8,21,11,17,7,7,0,437,1,9,Matches
+Jesús Venegas,mx MEX,MF,28-275,6.7,403,396,7,7,0,4,0,0,0,0,0,0,349,0,2,Matches
+Pedro Raul,br BRA,"FW,MF",27-055,5.9,128,119,8,0,0,0,2,0,0,0,0,0,85,1,4,Matches
+Mauricio Isais,mx MEX,"DF,MF",22-265,5.5,331,280,50,1,1,2,12,49,0,0,0,0,252,1,14,Matches
+Tomás Belmonte,ar ARG,MF,25-217,5.5,351,342,6,5,0,1,0,1,0,0,0,0,304,3,4,Matches
+Carlos Orrantía,mx MEX,"DF,MF",32-332,2.9,170,141,27,2,0,0,10,25,0,0,0,0,137,2,2,Matches
+Abraham Villegas,,DF,21-013,2.8,151,130,21,3,0,1,3,18,0,0,0,0,128,0,5,Matches
+Juan Gamboa,mx MEX,"MF,FW",22-318,1.7,50,49,1,0,0,0,7,1,0,0,0,0,35,0,4,Matches
+Jesús Piñuelas,mx MEX,DF,25-278,1.7,105,102,3,2,0,0,0,0,0,0,0,0,94,0,0,Matches
+Adrián Mora,mx MEX,DF,26-137,1.7,86,78,8,1,0,1,0,0,0,0,0,0,75,0,0,Matches
+Everardo Del Villar,mx MEX,DF,18-282,1.2,74,68,6,1,1,1,0,5,0,0,0,0,56,0,2,Matches
+Fernando Navarro Morán,mx MEX,MF,34-256,1.0,88,80,8,3,0,0,5,3,2,0,2,0,76,0,1,Matches
+Isaías Violante,mx MEX,"MF,FW",20-071,1.1,54,53,1,0,0,0,3,1,0,0,0,0,42,0,2,Matches
+Sait Tlaxcalteco,mx MEX,"MF,FW",20-356,0.2,12,12,0,0,0,0,1,0,0,0,0,0,8,0,1,Matches
+Víctor Arteaga,mx MEX,MF,19-307,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,27.7,17.0,9846,8993,825,220,16,60,226,323,75,29,34,0,8287,28,134,
+Opponent Total,,,27.8,17.0,7249,6463,750,206,14,82,295,298,84,26,36,1,5646,36,159,

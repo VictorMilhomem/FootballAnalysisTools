@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Costinha,pt POR,"MF,DF",23-279,15.0,639,476,162,16,2,8,61,146,0,0,0,0,435,1,24,Matches
+Aderlan Santos,br BRA,DF,34-265,15.0,905,879,26,25,0,0,0,1,0,0,0,0,753,0,0,Matches
+Fábio Conceição,pt POR,"MF,DF",22-246,14.8,634,497,132,7,1,4,26,125,0,0,0,0,494,5,15,Matches
+Amine Oudrhiri,ma MAR,MF,31-056,12.9,563,538,24,24,2,6,1,0,0,0,0,0,490,1,8,Matches
+Josué Sá,pt POR,DF,31-196,11.7,649,615,32,28,0,4,6,4,0,0,0,0,553,2,6,Matches
+Gonçalo Rodrigues,pt POR,MF,26-165,10.8,467,396,70,38,1,4,53,2,30,7,19,0,363,1,10,Matches
+Emmanuel Boateng,gh GHA,FW,27-221,9.6,150,134,15,0,0,3,5,2,0,0,0,0,110,1,4,Matches
+Joca,pt POR,"FW,MF",27-334,6.9,193,182,9,2,2,4,17,3,2,2,0,0,128,2,3,Matches
+Jhonatan,br BRA,GK,32-236,8.0,254,167,86,28,0,0,0,0,0,0,0,0,167,1,1,Matches
+Miguel Nóbrega,pt POR,DF,23-257,7.9,449,424,25,22,0,5,6,3,0,0,0,0,350,0,11,Matches
+Magrão,br BRA,GK,23-229,7.0,223,148,74,20,0,1,0,0,0,0,0,0,172,1,0,Matches
+André Pereira,pt POR,FW,28-239,6.5,166,156,9,0,2,0,3,5,0,0,0,0,115,1,5,Matches
+Renato Pantalon,hr CRO,DF,26-064,6.3,374,360,14,14,0,1,3,0,0,0,0,0,313,0,5,Matches
+Leonardo Ruíz,co COL,FW,27-256,6.4,168,147,20,1,1,2,7,1,0,0,0,0,122,1,7,Matches
+Bruno Ventura,pt POR,"FW,MF",22-306,5.3,153,123,26,9,1,0,23,0,17,4,13,0,112,4,3,Matches
+João Graça,pt POR,"MF,FW",28-195,5.2,211,204,4,2,0,2,8,2,0,0,0,0,161,3,5,Matches
+Zé Manuel,pt POR,"MF,FW",33-068,4.5,107,105,2,0,2,0,8,1,1,0,0,0,75,0,6,Matches
+Hernâni Fortes,pt POR,FW,32-132,3.8,88,64,23,7,0,2,36,2,12,10,2,0,53,1,2,Matches
+Savio,br BRA,"DF,MF",28-218,2.8,258,219,39,21,0,1,17,12,6,0,4,0,199,0,2,Matches
+Patrick,br BRA,DF,26-210,1.6,109,101,8,6,0,3,0,2,0,0,0,0,89,0,0,Matches
+Vítor Gomes,pt POR,MF,36-005,1.9,107,102,5,5,0,0,0,0,0,0,0,0,81,0,1,Matches
+Ukra,pt POR,"MF,FW",35-289,0.7,17,16,1,0,0,1,3,1,0,0,0,0,13,0,0,Matches
+Nuno Namora,pt POR,"DF,MF",25-321,0.3,36,26,10,0,0,0,1,10,0,0,0,0,27,0,0,Matches
+Julien Lomboto,cd COD,MF,21-231,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,28.1,15.0,6923,6082,816,275,14,51,284,322,68,23,38,0,5378,25,118,
+Opponent Total,,,26.9,15.0,7004,6085,866,248,27,55,261,380,75,43,14,0,5359,53,138,

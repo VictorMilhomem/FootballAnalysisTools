@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,Int,Tkl+Int,Clr,Err,Matches
+Diogo Costa,pt POR,GK,24-102,15.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,9,2,Matches
+Pepê,br BRA,"MF,DF",26-309,13.2,14,7,7,5,2,5,17,29.4,12,15,2,13,14,28,3,0,Matches
+Stephen Eustáquio,ca CAN,MF,27-009,13.1,32,21,14,14,4,17,30,56.7,13,18,4,14,14,46,18,0,Matches
+Mehdi Taremi,ir IRN,FW,31-165,12.9,21,15,8,8,5,8,18,44.4,10,12,2,10,7,28,17,0,Matches
+João Mário Lopes,pt POR,DF,23-361,10.6,11,7,5,4,2,9,20,45.0,11,10,2,8,4,15,9,0,Matches
+Alan Varela,ar ARG,MF,22-179,9.2,13,7,7,4,2,6,15,40.0,9,17,5,12,12,25,13,0,Matches
+Galeno,br BRA,"MF,DF",26-069,10.1,11,7,7,2,2,3,12,25.0,9,11,2,9,7,18,11,0,Matches
+Pepe,pt POR,DF,40-307,7.2,16,10,10,6,0,8,14,57.1,6,6,4,2,11,27,28,1,Matches
+Evanilson,br BRA,FW,24-085,7.0,3,1,0,0,3,0,3,0.0,3,3,1,2,1,4,4,0,Matches
+Fábio Cardoso,pt POR,DF,29-255,6.9,2,2,0,2,0,0,2,0.0,2,8,4,4,5,7,22,0,Matches
+David Carmo,pt POR,DF,24-164,6.8,5,4,2,2,1,4,5,80.0,1,11,7,4,2,7,31,1,Matches
+Wendell,br BRA,DF,30-163,6.9,14,8,5,8,1,8,10,80.0,2,8,2,6,3,17,12,0,Matches
+Iván Marcano,es ESP,DF,36-190,4.1,9,4,5,4,0,5,7,71.4,2,1,1,0,4,13,9,0,Matches
+Zé Pedro Figueiredo,pt POR,DF,26-207,4.7,6,3,3,2,1,5,8,62.5,3,3,1,2,6,12,17,0,Matches
+André Franco,pt POR,"MF,FW",25-262,4.1,6,5,3,3,0,4,10,40.0,6,1,0,1,4,10,4,0,Matches
+Nicolás González,es ESP,MF,21-361,4.1,12,8,4,6,2,7,11,63.6,4,3,0,3,1,13,5,0,Matches
+Toni Martínez,es ESP,FW,26-183,4.0,1,0,0,0,1,1,2,50.0,1,2,0,2,0,1,0,0,Matches
+Jorge Eduardo Sánchez,mx MEX,DF,26-020,3.9,11,6,8,1,2,10,18,55.6,8,1,0,1,4,15,6,0,Matches
+Zaidu Sanusi,ng NGA,DF,26-200,2.8,3,2,1,2,0,2,3,66.7,1,3,1,2,4,7,4,0,Matches
+Francisco Conceição,pt POR,"MF,FW",21-016,3.7,8,5,2,4,2,4,8,50.0,4,2,0,2,0,8,0,0,Matches
+Ivan Jaime Pajuelo,es ESP,MF,23-095,2.9,5,3,0,3,2,2,5,40.0,3,2,1,1,2,7,1,0,Matches
+João Miguel,pt POR,DF,23-261,2.1,2,1,1,1,0,2,3,66.7,1,4,2,2,2,4,0,0,Matches
+Romário Baró,pt POR,"MF,FW",23-339,1.4,1,1,1,0,0,0,3,0.0,3,0,0,0,0,1,1,0,Matches
+Gonçalo Borges,pt POR,"MF,DF",22-276,2.3,4,3,3,1,0,3,5,60.0,2,2,0,2,0,4,2,0,Matches
+Fran Navarro,es ESP,"FW,MF",25-330,1.9,1,0,1,0,0,0,3,0.0,3,1,0,1,3,4,3,0,Matches
+Marko Grujić,rs SRB,MF,27-261,1.3,7,5,3,4,0,7,7,100.0,0,3,1,2,1,8,1,0,Matches
+Otávio,pt POR,"MF,FW",28-324,1.0,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,0,0,Matches
+Danny Loader,eng ENG,"FW,DF",23-124,0.5,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0,Matches
+Squad Total,,,26.9,15.0,218,135,100,86,32,120,242,49.6,122,148,42,106,111,329,232,4,
+Opponent Total,,,26.5,15.0,216,130,107,82,27,118,259,45.6,141,177,50,127,114,330,382,2,

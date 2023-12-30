@@ -1,0 +1,27 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Omar Campos,mx MEX,DF,21-163,16.7,679,517,161,5,0,1,25,154,2,0,2,0,519,1,15,Matches
+Harold Preciado,co COL,FW,29-212,15.7,329,296,30,0,0,0,2,6,0,0,0,0,231,3,10,Matches
+Alan Cervantes,mx MEX,MF,25-347,15.4,607,588,19,8,0,7,7,10,0,0,0,0,523,0,7,Matches
+Emerson Rodríguez,co COL,"FW,MF",23-127,13.6,309,301,7,1,1,1,20,6,0,0,0,0,200,1,18,Matches
+Juan Brunetta,ar ARG,"MF,FW",26-232,15.7,708,535,170,53,12,19,123,10,86,35,48,0,522,3,18,Matches
+Félix Torres Caicedo,ec ECU,DF,26-353,15.1,590,573,17,16,0,12,1,1,0,0,0,0,426,0,9,Matches
+Duván Vergara,co COL,"FW,MF",27-112,11.0,342,319,21,4,3,0,22,13,4,4,0,0,253,2,11,Matches
+Pedro Aquino,pe PER,MF,28-261,9.8,562,544,14,13,2,2,0,1,0,0,0,0,468,4,4,Matches
+Gibran Lajud,mx MEX,GK,30-005,9.0,227,133,94,18,0,0,0,0,0,0,0,0,125,0,0,Matches
+Dória,br BRA,DF,29-052,9.0,366,338,26,26,1,5,1,0,0,0,0,0,263,2,5,Matches
+Ismael Govea,mx MEX,DF,26-313,7.8,321,244,75,2,0,0,12,73,0,0,0,0,229,2,7,Matches
+Aldo López,mx MEX,MF,23-221,9.3,304,294,9,5,1,1,1,4,0,0,0,0,275,1,3,Matches
+Raúl López Gómez,mx MEX,DF,30-310,9.1,369,285,82,6,0,0,20,75,1,0,1,0,300,2,6,Matches
+Carlos Acevedo,mx MEX,GK,27-255,6.0,147,84,63,11,0,0,0,0,0,0,0,0,84,0,0,Matches
+Hugo Isaác Rodríguez,mx MEX,DF,33-205,5.2,178,169,7,6,0,1,0,1,0,0,0,0,145,2,1,Matches
+Ronaldo Prieto,mx MEX,DF,26-302,4.9,220,191,29,11,0,2,1,17,1,0,1,0,159,0,0,Matches
+Diego Medina,mx MEX,"FW,MF",22-293,5.9,169,164,5,2,1,1,26,0,3,0,3,0,116,0,12,Matches
+Héctor Holguín,mx MEX,GK,22-250,2.0,53,32,21,3,0,0,0,0,0,0,0,0,38,0,0,Matches
+Javier Marcelo Correa,ar ARG,"FW,DF",31-068,1.8,58,53,5,0,0,4,0,0,0,0,0,0,39,0,4,Matches
+Santiago Muñóz,mx MEX,"MF,FW",21-138,1.4,74,71,3,1,2,0,0,1,1,0,0,0,68,0,0,Matches
+Jair González,mx MEX,"FW,MF",21-301,1.0,35,30,5,0,0,0,2,5,0,0,0,0,22,0,2,Matches
+Salvador Mariscal,mx MEX,MF,20-252,0.3,14,14,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+Emmanuel Echeverría,mx MEX,DF,20-087,0.2,9,8,1,0,0,0,0,1,0,0,0,0,8,0,0,Matches
+Alberto Ocejo,mx MEX,"FW,DF",25-197,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,26.7,17.0,6673,5786,864,191,23,56,263,378,98,39,55,0,5024,23,132,
+Opponent Total,,,27.9,17.0,8642,7779,841,203,19,100,341,336,96,40,43,1,6879,22,149,

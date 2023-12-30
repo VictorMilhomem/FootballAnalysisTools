@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Lucas Acosta,ar ARG,GK,27.0,18,18,1620,18.0,17,0.94,65,48,75.4,7,7,4,7,38.9,1,1,0,0,0.0,Matches
+Lautaro Morales,ar ARG,GK,23.0,9,9,802,8.9,9,1.01,19,11,52.6,5,2,2,2,22.2,0,0,0,0,,Matches
+Squad Total,,,26.9,27,27,2422,27.0,27,1.0,85,59,69.4,12,9,6,9,33.3,1,1,0,0,0.0,
+Opponent Total,,,27.1,27,27,2430,27.0,38,1.41,106,70,69.8,6,9,12,5,18.5,8,6,1,1,14.3,

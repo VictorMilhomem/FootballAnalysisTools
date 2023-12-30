@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,Matches
+Fernando Beltrán,mx MEX,MF,25-236,15.9,3,19,7,36.8,1.19,0.44,0.16,0.43,19.6,0,0,0,1.9,1.9,0.1,1.1,1.1,Matches
+Miguel Jiménez Ponce,mx MEX,GK,33-291,15.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Ricardo Marín,mx MEX,FW,25-287,12.7,4,25,6,24.0,1.98,0.47,0.16,0.67,14.0,0,0,0,3.3,3.2,0.13,0.7,0.8,Matches
+Gilberto Sepúlveda,mx MEX,DF,24-329,14.4,0,3,0,0.0,0.21,0.0,0.0,,11.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Matches
+Alan Mozo,mx MEX,DF,26-269,14.3,0,9,1,11.1,0.63,0.07,0.0,0.0,25.0,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches
+Roberto Alvarado,mx MEX,"FW,MF",25-114,12.6,6,20,9,45.0,1.58,0.71,0.1,0.22,22.8,2,4,4,4.7,1.5,0.08,1.3,0.5,Matches
+Fernando Rubén González,mx MEX,MF,29-337,12.1,0,3,1,33.3,0.25,0.08,0.0,0.0,25.4,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+Jesús Orozco,mx MEX,DF,21-314,11.1,0,6,0,0.0,0.54,0.0,0.0,,15.7,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Matches
+Cristian Calderón,mx MEX,DF,26-220,11.2,0,7,0,0.0,0.63,0.0,0.0,,16.7,0,0,0,0.4,0.4,0.05,-0.4,-0.4,Matches
+Antonio Briseño,mx MEX,DF,29-328,9.5,1,7,3,42.9,0.74,0.32,0.14,0.33,12.5,0,0,0,0.5,0.5,0.07,0.5,0.5,Matches
+Víctor Guzmán,mx MEX,MF,28-330,8.5,0,16,5,31.3,1.87,0.59,0.0,0.0,24.2,0,0,1,1.7,0.9,0.05,-1.7,-0.9,Matches
+Isaác Brizuela,mx MEX,"FW,MF",33-124,7.5,0,11,2,18.2,1.47,0.27,0.0,0.0,17.0,0,0,0,0.7,0.7,0.06,-0.7,-0.7,Matches
+Erick Gutiérrez,mx MEX,MF,28-198,7.0,1,15,4,26.7,2.14,0.57,0.07,0.25,21.2,0,0,0,1.7,1.7,0.11,-0.7,-0.7,Matches
+Jonathan Padilla,mx MEX,"MF,FW",18-011,6.3,3,16,8,50.0,2.52,1.26,0.19,0.38,21.4,0,0,0,1.1,1.1,0.07,1.9,1.9,Matches
+Alejandro Mayorga,mx MEX,DF,26-215,4.4,0,6,1,16.7,1.37,0.23,0.0,0.0,20.8,0,0,0,0.6,0.6,0.09,-0.6,-0.6,Matches
+Alexis Vega,mx MEX,FW,26-035,4.3,1,11,6,54.5,2.58,1.41,0.09,0.17,23.5,3,0,1,1.7,1.0,0.09,-0.7,0.0,Matches
+Ronaldo Cisneros,mx MEX,"FW,MF",26-356,4.5,2,13,4,30.8,2.86,0.88,0.15,0.5,16.2,0,0,0,1.0,1.0,0.08,1.0,1.0,Matches
+Raúl Martínez,mx MEX,DF,20-300,3.0,0,1,0,0.0,0.33,0.0,0.0,,11.0,0,0,0,0.0,0.0,0.04,0.0,0.0,Matches
+Jesús Sánchez García,mx MEX,DF,34-121,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Juan Brigido,mx MEX,"FW,DF",22-092,3.0,1,3,3,100.0,1.02,1.02,0.33,0.33,16.6,0,0,0,0.5,0.5,0.15,0.5,0.5,Matches
+Pavel Pérez,mx MEX,"FW,MF",25-187,2.1,0,5,1,20.0,2.43,0.49,0.0,0.0,18.6,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches
+José Rangel Aguilar,mx MEX,GK,23-308,1.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Alan Torres,mx MEX,MF,23-314,1.8,0,1,1,100.0,0.56,0.56,0.0,0.0,34.1,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+Daniel Armando Ríos,mx MEX,"FW,DF",28-311,0.8,0,2,1,50.0,2.61,1.3,0.0,0.0,19.0,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Zahid Muñoz,mx MEX,MF,22-335,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Hiram Mier,mx MEX,MF,34-127,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Squad Total,,,27.0,17.0,22,199,63,31.7,11.71,3.71,0.09,0.29,19.4,5,4,6,20.7,15.9,0.08,1.3,2.1,
+Opponent Total,,,28.1,17.0,22,225,70,31.1,13.24,4.12,0.08,0.26,18.9,9,4,5,21.2,17.3,0.08,0.8,0.7,

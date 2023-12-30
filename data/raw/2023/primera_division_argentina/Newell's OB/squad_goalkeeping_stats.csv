@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Lucas Hoyos,ar ARG,GK,33.0,27,27,2430,27.0,24,0.89,88,61,75.0,8,11,8,12,44.4,5,2,3,0,60.0,Matches
+Squad Total,,,26.1,27,27,2430,27.0,24,0.89,88,61,75.0,8,11,8,12,44.4,5,2,3,0,60.0,
+Opponent Total,,,27.3,27,27,2430,27.0,24,0.89,107,84,79.4,8,11,8,10,37.0,3,2,1,0,33.3,

@@ -2,7 +2,7 @@ import sys
 import time
 from bs4 import BeautifulSoup
 import requests
-from tqdm.notebook import tqdm
+from tqdm import tqdm
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -57,18 +57,6 @@ class FbrefScraper:
         'squad_possesion_stats.csv',
         'squad_playingtime_stats.csv',
         'squad_miscellaneous_stats.csv',
-        'regular_season.csv',
-        'home_away.csv'
-    ]
-
-    SIMPLE_TEAMS_FILE_NAMES = [
-        'squad_std_stats.csv',
-        'score_fixtures.csv',
-        'squad_goalkeeping_stats.csv',
-        'squad_shooting_stats.csv',
-        'squad_playingtime_stats.csv',
-        'squad_miscellaneous_stats.csv',
-        'regular_season.csv',
     ]
 
     CHAMPIONSHIP = None
@@ -91,18 +79,7 @@ class FbrefScraper:
         33: '2bundesliga',
         37: 'belgium_pro',
         60: 'ligue2',
-        # without advanced stats
-        15:'efl_league_one',
-        16:'efl_league_two',
-        35: 'chile_primera_division',
-        38: 'brazil_serie_B',
-        41: 'colombian_primera_division',
-        50: 'denish_first',
-        25: 'j1_league',
-        70: 'saudi_first'
     }
-
-    LEAGUES_WITHOUT_ADV_STATS = [15, 16, 35, 38, 41, 50, 25, 70]
 
     BASE_DIR = os.path.join('..', 'data')
     RAW_DIR = os.path.join(BASE_DIR, 'raw')
@@ -128,16 +105,6 @@ class FbrefScraper:
                             33: f'https://fbref.com/en/comps/33/{season}/{season}-2-Bundesliga-Stats',
                             37: f'https://fbref.com/en/comps/37/{season}/{season}-Belgian-Pro-League-Stats',
                             60: f'https://fbref.com/en/comps/60/{season}/{season}-Ligue-2-Stats',
-
-                            # without advanced stats
-                            15: f'https://fbref.com/en/comps/15/{season}/{season}-League-One-Stats',
-                            16: f'https://fbref.com/en/comps/16/{season}/{season}-League-Two-Stats',
-                            35: f'https://fbref.com/en/comps/35/{season}/{season}-Primera-Division-Stats',
-                            38: f'https://fbref.com/en/comps/38/{season}/{season}-Serie-B-Stats',
-                            41: f'https://fbref.com/en/comps/41/{season}/{season}-Primera-A-Stats',
-                            50: f'https://fbref.com/en/comps/50/{season}/{season}-Superliga-Stats',
-                            25: f'https://fbref.com/en/comps/25/{season}/{season}-J1-League-Stats',
-                            70: f'https://fbref.com/en/comps/70/{season}/{season}-Saudi-Professional-League-Stats'
                         }
         self.comp_id = comp_id
         self.comp_url = self.CHAMPIONSHIP[comp_id]
@@ -177,10 +144,13 @@ class FbrefScraper:
 
     def generate_dataframes(self, web_page: list) -> list:
         dfs = []
+        i = 0
         for tb in web_page:
-            if isinstance(tb.keys(), pd.core.indexes.multi.MultiIndex):
-                tb.columns = self.remove_level_columns(tb)
-            dfs.append(tb)
+            if i < len(self.ADV_TEAMS_FILE_NAMES):
+                if isinstance(tb.keys(), pd.core.indexes.multi.MultiIndex):
+                    tb.columns = self.remove_level_columns(tb)
+                dfs.append(tb)
+            i += 1
         return dfs
 
 
@@ -285,7 +255,7 @@ class FbrefScraper:
     
     def __run_data_transform(self):
         for file in self.ADV_TEAMS_FILE_NAMES:
-            if not file in ['regular_season.csv', 'score_fixtures.csv', 'home_away.csv']:
+            if file != 'score_fixtures.csv':
                 datas, teams = self.__read_files(self.COMP_DIR, file)
                 new = self.__transform(datas, teams)
                 transformed_df = self.__concat_dfs(new)
@@ -311,17 +281,14 @@ class FbrefScraper:
         if not os.path.exists(self.COMP_DIR):
             os.mkdir(self.COMP_DIR)
         urls = self.get_teams_urls(self.comp_url) if squad_stats else self.comp_url
-        if squad_stats:
-            file_names = self.SIMPLE_TEAMS_FILE_NAMES if self.comp_id in self.LEAGUES_WITHOUT_ADV_STATS else self.ADV_TEAMS_FILE_NAMES
-        else:
-            file_names = self.ADV_COMP_FILE_NAMES
+        file_names = self.ADV_TEAMS_FILE_NAMES if squad_stats else self.ADV_COMP_FILE_NAMES
         dir = self.comp_dir
         for dir, url in tqdm(urls.items()):
             web_page = pd.read_html(url)
             dfs = self.generate_dataframes(web_page)
             self.generate_files(dir, dfs, file_names)
             time.sleep(0.5)
-        if transform and  not (self.comp_id in self.LEAGUES_WITHOUT_ADV_STATS):
+        if transform:
             self.__run_data_transform()
 
 class SoccerPlot:
@@ -635,6 +602,20 @@ class SoccerPlot:
 
 
 if __name__ == "__main__":
-    brazil_id = 24
-    scrape = FbrefScraper(comp_id=brazil_id)
-    urls = scrape.run(squad_stats=True)
+    
+    brazil = 24
+    scrape = FbrefScraper(comp_id=brazil)
+    scrape.run(squad_stats=True)
+
+    argentina = 21
+    scrape = FbrefScraper(comp_id=argentina)
+    scrape.run(squad_stats=True)
+
+    mex = 31
+    scrape = FbrefScraper(comp_id=mex, season='2023-2024')
+    scrape.run(squad_stats=True)
+
+    portugal = 32
+    scrape = FbrefScraper(comp_id=portugal, season='2023-2024')
+    scrape.run(squad_stats=True)
+

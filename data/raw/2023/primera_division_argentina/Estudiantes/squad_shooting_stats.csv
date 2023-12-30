@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,Matches
+Jorge Agustín Rodríguez,ar ARG,"MF,DF",27.0,25.8,2,18,5,27.8,0.7,0.19,0.11,0.4,24.6,0,0,0,0.5,0.5,0.03,1.5,1.5,Matches
+Benjamín Rollheiser,ar ARG,"MF,FW",22.0,22.5,6,73,26,35.6,3.25,1.16,0.08,0.23,22.8,4,0,1,5.5,4.7,0.06,0.5,1.3,Matches
+Mariano Andújar,ar ARG,GK,39.0,25.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Santiago Ascacíbar,ar ARG,MF,25.0,24.3,4,44,12,27.3,1.81,0.49,0.09,0.33,22.6,0,0,0,3.1,3.1,0.07,0.9,0.9,Matches
+Luciano Lollo,ar ARG,DF,35.0,22.9,3,18,5,27.8,0.78,0.22,0.17,0.6,11.0,0,0,0,1.1,1.1,0.06,1.9,1.9,Matches
+Zaid Romero,ar ARG,DF,23.0,21.2,1,10,5,50.0,0.47,0.24,0.1,0.2,19.1,0,0,0,0.6,0.6,0.06,0.4,0.4,Matches
+Leonardo Godoy,ar ARG,"DF,FW",27.0,19.7,1,12,2,16.7,0.61,0.1,0.08,0.5,18.6,0,0,0,1.4,1.4,0.12,-0.4,-0.4,Matches
+Mauro Boselli,ar ARG,FW,37.0,15.2,6,36,11,30.6,2.37,0.72,0.17,0.55,12.6,0,0,1,6.3,5.4,0.15,-0.3,0.6,Matches
+Fernando Zuqui,ar ARG,MF,31.0,16.1,0,18,3,16.7,1.12,0.19,0.0,0.0,25.3,2,0,0,1.7,1.7,0.09,-1.7,-1.7,Matches
+Gastón Benedetti,ar ARG,"DF,FW",21.0,15.6,2,14,8,57.1,0.9,0.51,0.14,0.25,21.3,0,0,0,1.1,1.1,0.08,0.9,0.9,Matches
+Santiago Núñez,ar ARG,DF,22.0,14.4,0,10,1,10.0,0.7,0.07,0.0,0.0,11.4,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Matches
+Emmanuel Más,ar ARG,DF,34.0,11.8,0,8,2,25.0,0.68,0.17,0.0,0.0,15.6,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Matches
+Guido Carrillo,ar ARG,FW,31.0,8.5,1,19,8,42.1,2.25,0.95,0.05,0.13,13.3,0,0,0,1.4,1.4,0.08,-0.4,-0.4,Matches
+Mauro Méndez,uy URU,"FW,MF",24.0,8.2,4,30,12,40.0,3.68,1.47,0.13,0.33,13.3,0,0,0,4.9,4.9,0.17,-0.9,-0.9,Matches
+José Sosa,ar ARG,"MF,FW",37.0,8.9,2,13,7,53.8,1.46,0.79,0.15,0.29,22.2,4,0,0,1.0,1.0,0.07,1.0,1.0,Matches
+Eros Mancuso,ar ARG,DF,23.0,7.9,1,12,3,25.0,1.52,0.38,0.08,0.33,18.3,0,0,0,0.9,0.9,0.07,0.1,0.1,Matches
+Matías Godoy,ar ARG,"MF,FW",21.0,7.9,2,15,2,13.3,1.91,0.25,0.13,1.0,17.9,0,0,0,1.3,1.3,0.09,0.7,0.7,Matches
+Pablo Piatti,ar ARG,"MF,FW",33.0,4.1,0,9,1,11.1,2.2,0.24,0.0,0.0,22.2,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Matches
+Franco Zapiola,ar ARG,"MF,FW",21.0,3.7,0,6,2,33.3,1.61,0.54,0.0,0.0,26.0,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+Ezequiel Muñoz,ar ARG,DF,32.0,3.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Juan Guasone,ar ARG,DF,21.0,2.5,0,2,1,50.0,0.81,0.41,0.0,0.0,17.9,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Matches
+Daniel Sappa,ar ARG,GK,27.0,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Mateo Pellegrino,ar ARG,"FW,MF",21.0,2.4,0,7,0,0.0,2.88,0.0,0.0,,11.7,0,0,0,0.6,0.6,0.08,-0.6,-0.6,Matches
+Nicolás Fernández,ar ARG,"DF,FW",20.0,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Nicolás Palavecino,ar ARG,"MF,FW",19.0,0.7,0,1,1,100.0,1.45,1.45,0.0,0.0,16.5,0,0,0,0.3,0.3,0.25,-0.3,-0.3,Matches
+Martiniano Moreno,ar ARG,"FW,MF",19.0,0.7,0,6,0,0.0,8.18,0.0,0.0,,12.9,0,0,0,0.6,0.6,0.1,-0.6,-0.6,Matches
+Deian Verón,ar ARG,MF,22.0,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Axel Atum,ar ARG,"FW,MF",17.0,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Gonzalo Piñeiro,ar ARG,MF,22.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Squad Total,,,28.8,27.0,35,381,117,30.7,14.11,4.33,0.09,0.3,18.8,10,0,2,33.3,31.6,0.08,1.7,3.4,
+Opponent Total,,,26.9,27.0,23,262,70,26.7,9.7,2.59,0.07,0.27,19.7,9,4,5,23.6,19.8,0.08,-0.6,-0.8,

@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,Int,Tkl+Int,Clr,Err,Matches
+Emanuel Gularte,uy URU,DF,26-091,17.0,28,19,21,6,1,8,13,61.5,5,13,10,3,16,44,77,0,Matches
+Federico Lértora,ar ARG,MF,33-178,15.7,34,18,13,18,3,13,37,35.1,24,30,16,14,23,57,30,1,Matches
+Pablo Barrera,mx MEX,"MF,FW",36-192,14.8,23,7,5,16,2,7,22,31.8,15,10,1,9,11,34,1,0,Matches
+Kevin Escamilla,mx MEX,MF,29-312,13.1,24,16,4,18,2,13,28,46.4,15,16,4,12,11,35,14,0,Matches
+Óscar Manzanarez,mx MEX,DF,28-250,11.6,19,12,15,3,1,8,13,61.5,5,22,8,14,19,38,43,0,Matches
+Omar Israel Mendoza,mx MEX,DF,35-063,11.4,24,15,19,5,0,15,30,50.0,15,9,6,3,17,41,26,0,Matches
+Raúl Sandoval,mx MEX,"DF,MF",23-346,12.0,16,6,10,6,0,9,18,50.0,9,11,2,9,10,26,21,0,Matches
+Guillermo Allison,mx MEX,GK,33-096,12.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,4,2,Matches
+Jaime Gómez Valencia,mx MEX,"DF,MF",30-166,10.3,27,14,15,8,4,13,24,54.2,11,7,1,6,8,35,13,0,Matches
+José Zúñiga,co COL,FW,29-170,9.5,5,1,1,1,3,2,6,33.3,4,2,0,2,2,7,3,0,Matches
+Miguel Barbieri,ar ARG,DF,30-128,8.6,17,15,14,3,0,8,14,57.1,6,14,9,5,16,33,55,0,Matches
+Jordan Sierra,ec ECU,"MF,FW",26-251,9.0,19,11,7,11,1,8,22,36.4,14,9,2,7,11,30,4,0,Matches
+Camilo Sanvezzo,br BRA,"FW,MF",35-162,6.6,6,3,1,2,3,1,4,25.0,3,2,0,2,1,7,6,0,Matches
+Ettson Ayon,mx MEX,"FW,MF",22-279,5.4,1,0,1,0,0,0,4,0.0,4,2,2,0,1,2,3,0,Matches
+Fernando Tapia Méndez,mx MEX,GK,22-196,5.0,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,2,0,Matches
+Ángel Sepúlveda,mx MEX,FW,32-318,3.6,5,4,2,3,0,3,5,60.0,2,2,1,1,0,5,0,0,Matches
+Jonathan Perlaza,ec ECU,DF,26-108,3.1,13,10,7,5,1,4,6,66.7,2,3,0,3,6,19,8,0,Matches
+Marco García,mx MEX,MF,23-347,3.1,6,3,3,3,0,1,8,12.5,7,1,0,1,1,7,2,0,Matches
+Nicolás Cordero,ar ARG,FW,24-263,3.5,4,1,2,1,1,2,5,40.0,3,2,0,2,2,6,8,0,Matches
+Joaquín Montecinos,cl CHI,"FW,MF",28-023,2.6,1,0,0,1,0,1,4,25.0,3,2,0,2,2,3,2,0,Matches
+Pablo Ortiz,mx MEX,DF,21-269,2.4,9,5,7,2,0,5,10,50.0,5,3,0,3,4,13,9,1,Matches
+Rodrigo López,mx MEX,MF,36-086,1.6,4,3,1,2,1,1,4,25.0,3,3,0,3,1,5,0,0,Matches
+Mauro Laínez,mx MEX,"MF,FW",27-235,2.2,3,0,2,1,0,2,3,66.7,1,1,1,0,0,3,2,0,Matches
+Alberto García Jr.,mx MEX,"MF,FW",30-095,0.2,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
+Paolo Yrizar,mx MEX,MF,26-146,0.2,2,1,1,1,0,0,1,0.0,1,0,0,0,0,2,0,0,Matches
+Jonathan Torres,ar ARG,MF,27-001,0.1,1,1,1,0,0,0,0,,0,0,0,0,0,1,1,0,Matches
+Marco González,mx MEX,MF,21-173,0.0,1,0,1,0,0,0,1,0.0,1,0,0,0,0,1,0,0,Matches
+Squad Total,,,29.8,17.0,292,165,153,116,23,124,287,43.2,163,166,63,103,162,454,334,4,
+Opponent Total,,,28.0,17.0,252,158,112,110,30,116,241,48.1,125,162,50,112,118,370,347,6,

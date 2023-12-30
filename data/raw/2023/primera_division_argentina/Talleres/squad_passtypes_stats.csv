@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Guido Herrera,ar ARG,GK,30.0,27.0,854,571,282,85,0,3,0,0,0,0,0,0,578,1,1,Matches
+Gastón Benavídez,ar ARG,DF,27.0,26.0,1294,981,311,22,1,8,37,289,0,0,0,0,1019,2,16,Matches
+Matías Catalán,cl CHI,DF,30.0,25.2,1242,1176,62,49,1,38,12,10,0,0,0,0,928,4,15,Matches
+Rodrigo Villagra,ar ARG,MF,21.0,24.8,1223,1173,43,41,7,35,3,1,1,0,1,0,1024,7,17,Matches
+Rodrigo Garro,ar ARG,MF,25.0,23.1,1186,1010,167,56,19,21,127,8,95,21,36,22,840,9,31,Matches
+Michael Santos,uy URU,FW,29.0,20.4,244,212,31,0,1,1,12,1,0,0,0,0,140,1,7,Matches
+Ramón Sosa,py PAR,FW,23.0,16.7,491,462,25,4,1,13,39,10,10,0,4,0,337,4,20,Matches
+Juan Portillo,ar ARG,DF,22.0,15.8,786,633,151,12,1,3,9,139,0,0,0,0,599,2,16,Matches
+Diego Valoyes,co COL,FW,26.0,17.9,507,492,12,0,5,4,31,11,1,0,1,0,342,3,27,Matches
+Juan Rodríguez,ar ARG,DF,28.0,15.6,714,688,24,20,0,0,0,4,0,0,0,0,587,2,8,Matches
+Diego Ortegoza,ar ARG,MF,25.0,8.8,304,300,4,3,1,2,13,1,0,0,0,0,235,0,6,Matches
+Francisco Pizzini,ar ARG,FW,29.0,12.9,430,415,14,2,3,7,11,12,0,0,0,0,318,1,17,Matches
+Alan Franco,ec ECU,MF,24.0,11.5,414,404,10,9,2,0,5,0,1,0,0,0,348,0,3,Matches
+Lucas Suárez,ar ARG,DF,27.0,11.0,518,494,23,11,0,8,3,12,0,0,0,0,399,1,3,Matches
+Nicolás Pasquini,ar ARG,DF,32.0,6.7,293,232,59,5,0,1,9,54,0,0,0,0,215,2,5,Matches
+Valentín Depietri,ar ARG,"FW,MF",22.0,5.8,217,205,12,3,2,1,19,2,6,3,2,0,155,0,9,Matches
+Nahuel Bustos,ar ARG,"FW,MF",24.0,8.1,201,183,16,3,2,2,4,1,2,0,1,0,144,2,8,Matches
+Christian Oliva,uy URU,MF,26.0,4.9,263,236,25,15,0,4,9,4,6,2,3,0,221,2,1,Matches
+Tiago Palacios,ar ARG,DF,19.0,1.9,82,75,7,5,0,3,0,2,0,0,0,0,65,0,1,Matches
+Julio Buffarini,ar ARG,DF,34.0,1.7,49,32,17,1,0,0,1,16,0,0,0,0,31,0,2,Matches
+Maximiliano Álvez,ar ARG,FW,19.0,2.0,74,72,2,0,0,0,11,1,1,0,1,0,50,0,2,Matches
+Tomás Olmos,ar ARG,DF,18.0,1.0,28,18,10,0,0,0,2,10,0,0,0,0,17,0,1,Matches
+Ángelo Martino,ar ARG,DF,24.0,0.7,34,31,3,1,0,0,3,2,0,0,0,0,21,0,2,Matches
+José Romero,ar ARG,"FW,MF",19.0,1.9,32,31,1,0,1,0,2,1,0,0,0,0,18,0,1,Matches
+Diego Barrera,ar ARG,FW,18.0,1.4,28,27,1,0,0,0,6,1,0,0,0,0,16,0,3,Matches
+Luis Sequeira,ar ARG,"MF,DF",20.0,1.2,68,57,11,5,0,0,11,1,5,2,3,0,50,0,0,Matches
+Fabio Álvarez,ar ARG,"MF,FW",30.0,0.7,61,61,0,0,0,0,0,0,0,0,0,0,50,0,0,Matches
+Vicente Fernández,cl CHI,"MF,FW",23.0,0.5,35,24,9,2,0,0,2,7,0,0,0,0,23,2,1,Matches
+David Zalazar,ar ARG,MF,20.0,0.2,8,7,1,0,0,0,5,0,1,1,0,0,3,0,2,Matches
+Federico Girotti,ar ARG,DF,23.0,0.1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Matias Gomez,ar ARG,"MF,FW",17.0,0.0,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,26.7,27.0,11685,10307,1333,354,47,154,386,600,129,29,52,22,8774,45,225,
+Opponent Total,,,27.1,27.0,11344,9905,1399,346,26,92,502,643,121,39,68,2,8389,40,284,

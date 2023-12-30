@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Diego Barbosa,mx MEX,DF,27-096,16.5,790,611,179,12,1,2,63,166,0,0,0,0,545,0,22,Matches
+Kevin Balanta,co COL,DF,26-246,15.7,786,760,25,21,0,4,4,3,0,0,0,0,642,1,7,Matches
+Christian Rivera,co COL,MF,27-350,15.3,885,833,51,47,4,14,1,0,0,0,0,0,772,1,9,Matches
+Carlos González Espínola,py PAR,FW,30-329,15.1,383,365,17,0,4,5,0,0,0,0,0,0,234,1,12,Matches
+Nicolás Díaz Huincales,cl CHI,DF,24-224,14.9,784,743,39,22,0,4,7,11,0,0,0,0,635,2,8,Matches
+Fernando Madrigal,mx MEX,MF,32-048,12.1,391,379,12,8,2,0,7,1,1,0,0,0,316,0,8,Matches
+José Antonio Rodríguez,mx MEX,GK,31-179,14.0,475,331,142,38,0,0,0,0,0,0,0,0,355,2,0,Matches
+Lucas Rodríguez,ar ARG,"MF,FW",26-247,11.8,342,318,23,10,0,4,22,2,9,7,2,0,273,1,9,Matches
+Alejandro Martínez,ar ARG,"MF,FW",26-258,10.7,318,265,52,9,0,1,79,5,37,12,17,0,191,1,12,Matches
+Francisco Contreras,mx MEX,DF,24-198,9.7,417,347,70,6,0,1,20,64,0,0,0,0,323,0,12,Matches
+Kevin Castañeda,mx MEX,"MF,FW",24-063,8.0,377,331,45,13,2,3,35,1,27,13,11,1,289,1,10,Matches
+Domingo Blanco,ar ARG,"MF,FW",28-252,7.8,196,154,42,15,1,0,41,11,14,3,6,0,135,0,11,Matches
+Eduardo Armenta,mx MEX,"MF,FW",22-014,4.9,162,159,3,0,0,0,22,2,0,0,0,0,108,0,8,Matches
+Rafael Fernández,mx MEX,DF,23-147,4.5,180,149,30,11,1,1,1,19,0,0,0,0,138,1,1,Matches
+Jesús Vega,mx MEX,DF,23-287,4.2,187,144,43,4,1,0,28,37,2,0,2,0,120,0,2,Matches
+José Corona,mx MEX,GK,42-338,3.0,86,63,22,4,0,0,0,0,0,0,0,0,65,1,0,Matches
+Alexis Canelo,ar ARG,FW,31-330,2.7,94,91,3,0,1,1,18,3,0,0,0,0,60,0,4,Matches
+Rodrigo Godínez,mx MEX,DF,31-100,2.4,121,112,9,6,0,1,0,3,0,0,0,0,103,0,0,Matches
+Lucas Cavallini,ca CAN,"FW,MF",31-002,4.2,83,76,6,0,0,0,4,0,0,0,0,0,52,1,5,Matches
+Aaron Mejía Montoya,mx MEX,DF,22-207,2.0,98,81,17,1,0,0,3,16,0,0,0,0,75,0,2,Matches
+Iván Tona,mx MEX,MF,23-273,2.5,140,133,7,3,0,2,7,2,2,0,1,0,110,0,3,Matches
+Daniel Vázquez,mx MEX,FW,20-209,0.8,18,17,1,0,0,0,0,0,0,0,0,0,18,0,0,Matches
+Efrain Alvarez,mx MEX,MF,21-194,1.4,56,50,6,0,0,1,12,0,6,2,4,0,28,0,4,Matches
+Braian Romero,ar ARG,"FW,MF",32-198,0.6,12,11,1,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Rodrigo Parra,mx MEX,DF,20-122,0.3,22,21,1,1,0,0,0,0,0,0,0,0,22,0,0,Matches
+Abraham Flores,mx MEX,DF,21-169,0.3,15,12,3,1,0,0,2,2,0,0,0,0,11,0,1,Matches
+Carlos Galicia,mx MEX,MF,19-319,0.2,11,9,2,1,0,0,1,0,1,0,1,0,10,0,0,Matches
+Squad Total,,,27.7,17.0,7429,6565,851,233,17,44,377,348,99,37,44,1,5637,13,150,
+Opponent Total,,,28.2,17.0,8208,7343,846,222,13,76,231,348,73,21,34,0,6596,19,120,

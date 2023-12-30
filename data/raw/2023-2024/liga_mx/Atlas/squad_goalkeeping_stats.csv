@@ -1,0 +1,4 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Camilo Vargas,co COL,GK,34-296,17,17,1530,17.0,24,1.41,73,49,72.6,4,5,8,5,29.4,4,4,0,0,0.0,Matches
+Squad Total,,,28.8,17,17,1530,17.0,24,1.41,73,49,72.6,4,5,8,5,29.4,4,4,0,0,0.0,
+Opponent Total,,,28.1,17,17,1530,17.0,14,0.82,68,54,79.4,8,5,4,8,47.1,0,0,0,0,,

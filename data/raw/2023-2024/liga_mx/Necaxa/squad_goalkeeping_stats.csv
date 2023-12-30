@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Raúl Gudiño,mx MEX,GK,27-252,10,10,855,9.5,15,1.58,41,30,65.9,1,5,4,1,10.0,1,1,0,0,0.0,Matches
+Ezequiel Unsain,ar ARG,GK,28-296,8,7,675,7.5,12,1.6,35,23,68.6,2,1,4,3,42.9,1,1,0,0,0.0,Matches
+Squad Total,,,25.5,17,17,1530,17.0,27,1.59,76,53,67.1,3,6,8,4,23.5,2,2,0,0,0.0,
+Opponent Total,,,28.2,17,17,1530,17.0,18,1.06,57,39,71.9,8,6,3,7,41.2,2,2,0,0,0.0,

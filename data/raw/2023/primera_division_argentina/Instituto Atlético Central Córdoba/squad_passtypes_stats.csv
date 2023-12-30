@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Gastón Lodico,ar ARG,MF,24.0,25.9,1547.0,1448.0,97.0,40.0,9.0,17.0,92,13.0,43.0,10.0,24.0,3.0,1219.0,2.0,29.0,Matches
+Fernando Alarcón,ar ARG,DF,28.0,26.0,975.0,898.0,73.0,66.0,0.0,15.0,1,4.0,0.0,0.0,0.0,0.0,682.0,4.0,11.0,Matches
+Adrián Martínez,ar ARG,FW,30.0,25.3,596.0,567.0,26.0,1.0,3.0,1.0,8,4.0,0.0,0.0,0.0,0.0,402.0,3.0,16.0,Matches
+Sebastián Corda,ar ARG,DF,27.0,22.4,1014.0,803.0,209.0,7.0,0.0,4.0,58,202.0,0.0,0.0,0.0,0.0,676.0,2.0,21.0,Matches
+Gabriel Graciani,ar ARG,"MF,FW",29.0,19.6,683.0,672.0,8.0,1.0,1.0,0.0,66,6.0,1.0,0.0,1.0,0.0,386.0,3.0,38.0,Matches
+Santiago Rodriguez,ar ARG,"FW,MF",25.0,19.2,649.0,548.0,100.0,20.0,4.0,3.0,102,5.0,55.0,26.0,17.0,0.0,422.0,1.0,36.0,Matches
+Nicolás Linares,ar ARG,MF,26.0,17.9,639.0,633.0,6.0,5.0,2.0,3.0,4,1.0,0.0,0.0,0.0,0.0,489.0,0.0,13.0,Matches
+Leonel Mosevich,ar ARG,DF,25.0,17.6,622.0,595.0,27.0,23.0,0.0,4.0,0,4.0,0.0,0.0,0.0,0.0,474.0,0.0,7.0,Matches
+Jorge Carranza,ar ARG,GK,41.0,16.9,470.0,295.0,175.0,56.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,299.0,0.0,1.0,Matches
+Giuliano Cerato,ar ARG,DF,24.0,17.0,967.0,745.0,220.0,2.0,0.0,4.0,65,218.0,0.0,0.0,0.0,0.0,608.0,2.0,38.0,Matches
+Franco Watson,ar ARG,MF,23.0,13.4,,,,,,,47,,,,,,,,,Matches
+Roberto Bochi,ar ARG,MF,33.0,12.5,603.0,599.0,3.0,2.0,1.0,2.0,4,1.0,0.0,0.0,0.0,0.0,464.0,1.0,8.0,Matches
+Brian Cuello,ar ARG,MF,25.0,13.0,,,,,,,54,,,,,,,,,Matches
+Juan Franco Arrellaga,py PAR,DF,30.0,9.5,435.0,290.0,145.0,0.0,0.0,2.0,20,145.0,0.0,0.0,0.0,0.0,270.0,0.0,19.0,Matches
+Manuel Roffo,ar ARG,GK,22.0,10.1,324.0,208.0,112.0,27.0,0.0,2.0,0,0.0,0.0,0.0,0.0,0.0,186.0,4.0,0.0,Matches
+Ezequiel Parnisari,ar ARG,DF,32.0,8.3,217.0,206.0,11.0,10.0,0.0,1.0,1,1.0,0.0,0.0,0.0,0.0,152.0,0.0,6.0,Matches
+Axel Rodríguez,ar ARG,FW,25.0,5.0,100.0,92.0,8.0,1.0,0.0,0.0,8,1.0,0.0,0.0,0.0,0.0,56.0,0.0,10.0,Matches
+Jonathan Bay,ar ARG,DF,29.0,4.7,203.0,159.0,44.0,2.0,0.0,1.0,15,40.0,2.0,0.0,2.0,0.0,135.0,0.0,6.0,Matches
+Joaquín Varela,uy URU,DF,24.0,2.6,66.0,61.0,5.0,2.0,0.0,1.0,0,3.0,0.0,0.0,0.0,0.0,35.0,0.0,0.0,Matches
+Nicólas Watson,ar ARG,MF,24.0,1.3,61.0,56.0,3.0,2.0,1.0,0.0,2,0.0,1.0,1.0,0.0,0.0,46.0,2.0,1.0,Matches
+Lucas Albertengo,ar ARG,"FW,MF",32.0,2.4,83.0,83.0,0.0,0.0,0.0,1.0,2,0.0,0.0,0.0,0.0,0.0,60.0,0.0,3.0,Matches
+Garrido Bigolin,ar ARG,MF,25.0,2.4,,,,,,,3,,,,,,,,,Matches
+Nicolás Barrientos,ar ARG,"MF,FW",27.0,1.2,78.0,66.0,12.0,4.0,1.0,0.0,11,2.0,6.0,1.0,5.0,0.0,57.0,0.0,2.0,Matches
+Gregorio Rodríguez,ar ARG,"FW,MF",23.0,1.1,45.0,45.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,0.0,0.0,28.0,0.0,3.0,Matches
+Leonardo Monje,ar ARG,MF,20.0,0.4,19.0,19.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,Matches
+Jonathan Dellarossa,ar ARG,MF,23.0,0.1,,,,,,,0,,,,,,,,,Matches
+Damián Puebla,ar ARG,FW,20.0,0.1,4.0,4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,Matches
+Squad Total,,,28.1,27.0,10400.0,9092.0,1284.0,271.0,22.0,61.0,574,650.0,108.0,38.0,49.0,3.0,7164.0,24.0,269.0,
+Opponent Total,,,26.9,27.0,11419.0,10004.0,1374.0,314.0,30.0,139.0,511,658.0,111.0,38.0,64.0,0.0,8204.0,41.0,271.0,

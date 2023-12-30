@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Francisco Ortega,ar ARG,DF,23.0,24.8,1346,983,362,35,0,3,68,312,15,1,9,0,1032,1,30,Matches
+Lautaro Gianetti,ar ARG,DF,29.0,19.0,845,803,41,40,1,7,0,0,0,0,0,0,680,1,3,Matches
+Leonardo Burián,uy URU,GK,39.0,18.5,489,280,208,41,0,1,0,0,0,0,0,0,349,1,0,Matches
+Jose Florentín,py PAR,MF,26.0,16.6,757,736,19,15,1,7,9,3,0,0,0,0,592,2,18,Matches
+Tomás Guidara,ar ARG,DF,26.0,16.1,736,522,212,23,0,0,35,188,1,0,1,0,509,2,16,Matches
+Abiel Osorio,ar ARG,FW,20.0,16.0,339,314,23,0,1,1,12,1,0,0,0,0,239,2,12,Matches
+Miguel Brizuela,ar ARG,DF,26.0,14.6,742,716,24,23,0,8,0,1,0,0,0,0,591,2,10,Matches
+Lucas Janson,ar ARG,FW,28.0,14.2,401,393,6,2,0,10,13,3,0,0,0,0,291,2,19,Matches
+Lucas Pratto,ar ARG,"MF,FW",34.0,14.0,409,393,12,0,1,1,25,5,0,0,0,0,247,4,15,Matches
+Christian Ordoñez,ar ARG,MF,18.0,12.2,454,445,8,4,1,0,4,4,0,0,0,0,355,1,12,Matches
+Gianluca Prestianni,ar ARG,"FW,MF",17.0,14.6,455,412,40,13,3,2,46,16,9,2,7,0,293,3,17,Matches
+Diego Godín,uy URU,DF,36.0,12.8,625,600,24,22,0,0,1,2,0,0,0,0,525,1,5,Matches
+Valentín Gómez,ar ARG,DF,19.0,12.4,664,610,49,17,0,8,6,32,0,0,0,0,510,5,13,Matches
+Walter Bou,ar ARG,"FW,MF",29.0,10.6,412,342,68,21,3,1,68,3,36,4,27,0,265,2,25,Matches
+Elías Cabrera,ar ARG,MF,19.0,12.8,560,472,86,44,7,8,67,0,37,19,16,0,418,2,15,Matches
+Juan Ignacio Méndez,ar ARG,MF,25.0,9.4,434,420,14,11,0,5,0,1,0,0,0,0,338,0,5,Matches
+Gastón Gómez,ar ARG,GK,26.0,8.5,196,122,74,18,0,2,0,0,0,0,0,0,139,0,0,Matches
+Leonardo Jara,ar ARG,"DF,MF",31.0,7.0,377,310,66,6,0,3,9,60,0,0,0,0,261,1,8,Matches
+Damián Fernández,ar ARG,"MF,DF",22.0,6.1,254,247,6,6,0,5,2,0,0,0,0,0,194,1,13,Matches
+Julián Fernández,ar ARG,"FW,MF",19.0,7.1,267,243,23,8,2,1,28,7,7,0,7,0,186,1,10,Matches
+Roberto Joaquín García,ar ARG,DF,21.0,6.6,316,256,58,5,0,1,11,53,0,0,0,0,246,2,9,Matches
+Santiago Castro,ar ARG,"FW,MF",18.0,7.1,167,157,10,0,0,3,14,6,0,0,0,0,97,0,11,Matches
+Nicolás Garayalde,ar ARG,MF,23.0,4.9,176,169,6,6,1,0,0,0,0,0,0,0,127,1,5,Matches
+Mateo Seoane,ar ARG,MF,18.0,4.6,251,245,6,4,0,2,1,2,0,0,0,0,206,0,3,Matches
+Lenny Lobato,br BRA,"FW,MF",21.0,3.6,101,88,12,1,1,0,31,0,10,1,8,0,61,1,10,Matches
+Thiago Fernández,ar ARG,"FW,MF",18.0,1.3,53,51,2,0,1,1,3,2,0,0,0,0,35,0,2,Matches
+Patricio Pernicone,ar ARG,DF,21.0,1.1,74,67,5,2,0,0,0,3,0,0,0,0,59,2,0,Matches
+Squad Total,,,25.9,27.0,11900,10396,1464,367,23,80,453,704,115,27,75,0,8845,40,286,
+Opponent Total,,,27.1,27.0,10786,9364,1383,342,20,92,480,680,118,35,69,1,7597,39,317,

@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,Matches
+Gonzalo Marinelli,ar ARG,GK,33.0,25.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Brian Luciatti,ar ARG,DF,29.0,22.7,3,26,9,34.6,1.15,0.4,0.12,0.33,14.8,0,0,0,1.8,1.8,0.07,1.2,1.2,Matches
+Mateo Retegui,it ITA,FW,23.0,19.9,11,79,23,29.1,3.97,1.16,0.11,0.39,17.8,2,2,2,9.0,7.6,0.1,2.0,1.4,Matches
+Facundo Colidio,ar ARG,"MF,FW",23.0,18.5,2,52,17,32.7,2.8,0.92,0.02,0.06,19.1,3,1,1,4.7,3.9,0.08,-2.7,-2.9,Matches
+Alexis Castro,ar ARG,"MF,FW",28.0,16.6,1,24,6,25.0,1.44,0.36,0.04,0.17,19.5,6,0,0,2.2,2.2,0.09,-1.2,-1.2,Matches
+Lucas Menossi,ar ARG,"MF,FW",30.0,16.9,1,29,9,31.0,1.71,0.53,0.03,0.11,26.2,4,0,0,1.7,1.7,0.06,-0.7,-0.7,Matches
+Blas Armoa,py PAR,"FW,MF",22.0,15.9,3,43,13,30.2,2.71,0.82,0.07,0.23,16.1,0,0,0,5.4,5.4,0.13,-2.4,-2.4,Matches
+Sebastián Prieto,ar ARG,DF,29.0,16.2,0,12,2,16.7,0.74,0.12,0.0,0.0,23.2,0,0,0,0.5,0.5,0.04,-0.5,-0.5,Matches
+Lucas Blondel,ar ARG,DF,26.0,13.9,0,28,5,17.9,2.01,0.36,0.0,0.0,29.2,0,0,0,0.8,0.8,0.03,-0.8,-0.8,Matches
+Emanuel Aguilera,ar ARG,DF,33.0,14.0,0,6,2,33.3,0.43,0.14,0.0,0.0,16.8,1,0,0,0.3,0.3,0.05,-0.3,-0.3,Matches
+Aaron Nicolás Molinas,ar ARG,"MF,FW",22.0,13.1,1,22,10,45.5,1.68,0.76,0.05,0.1,22.2,4,0,0,1.7,1.7,0.08,-0.7,-0.7,Matches
+Sebastián Prediger,ar ARG,MF,36.0,12.4,0,4,2,50.0,0.32,0.16,0.0,0.0,20.0,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Agustín Cardozo,ar ARG,MF,25.0,15.0,1,9,4,44.4,0.6,0.27,0.11,0.25,20.7,0,0,0,0.4,0.4,0.04,0.6,0.6,Matches
+Víctor Cabrera,ar ARG,DF,29.0,11.7,0,2,0,0.0,0.17,0.0,0.0,,17.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Cristian Zabala,ar ARG,MF,24.0,11.7,0,11,0,0.0,0.94,0.0,0.0,,27.4,1,0,0,0.3,0.3,0.03,-0.3,-0.3,Matches
+Lautaro Montoya,ar ARG,DF,28.0,8.5,0,3,0,0.0,0.35,0.0,0.0,,25.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Martín Ortega,ar ARG,"DF,MF",23.0,8.3,0,6,3,50.0,0.72,0.36,0.0,0.0,27.6,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches
+Brian Alexis Leizza,ar ARG,DF,22.0,8.8,1,6,3,50.0,0.68,0.34,0.17,0.33,13.3,0,0,0,1.2,1.2,0.2,-0.2,-0.2,Matches
+Tomás Badaloni,ar ARG,FW,22.0,7.5,2,20,7,35.0,2.67,0.93,0.1,0.29,15.0,0,0,0,2.3,2.3,0.12,-0.3,-0.3,Matches
+Martin Garay,ar ARG,"DF,MF",23.0,7.6,0,1,0,0.0,0.13,0.0,0.0,,36.0,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Gonzalo Flores,ar ARG,"FW,MF",20.0,4.4,0,12,4,33.3,2.71,0.9,0.0,0.0,20.8,0,0,0,1.0,1.0,0.09,-1.0,-1.0,Matches
+Santiago Rojas,py PAR,GK,26.0,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Ezequiel Forclaz,ar ARG,"MF,FW",19.0,2.0,0,5,1,20.0,2.51,0.5,0.0,0.0,22.9,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Matches
+Agustín Obando,ar ARG,"MF,FW",22.0,2.4,0,4,2,50.0,1.68,0.84,0.0,0.0,23.8,1,0,0,0.2,0.2,0.06,-0.2,-0.2,Matches
+Sebastián Medina,ar ARG,MF,22.0,1.3,0,2,0,0.0,1.5,0.0,0.0,,29.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Mateo Caceres,ar ARG,FW,20.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Ijiel Protti,ar ARG,MF,28.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Squad Total,,,27.4,27.0,26,406,122,30.0,15.04,4.52,0.06,0.19,20.1,22,3,3,34.3,32.2,0.08,-8.3,-9.2,
+Opponent Total,,,26.9,27.0,29,326,111,34.0,12.07,4.11,0.09,0.25,18.4,7,1,1,30.2,29.4,0.09,-1.2,-1.4,
