@@ -73,7 +73,7 @@ def get_passes_df(events_dict):
     df_passes = df.loc[
         passes_ids, ["id", "x", "y", "endX", "endY", "teamId", "playerId", "receiver", "eventType", "outcomeType", "match_period"]]
 
-    return df_passes
+    return df_passes.reset_index(drop=True)
 
 def get_touchs_df(events_dict):
     df = pd.DataFrame(events_dict)
@@ -84,7 +84,7 @@ def get_touchs_df(events_dict):
     df_touches = df.loc[
         df_touches_ids, ["id", "x", "y", "endX", "endY", "teamId", "playerId", "eventType", "outcomeType", "match_period", "minute", "second", "isTouch"]]
 
-    return df_touches
+    return df_touches.reset_index(drop=True)
 
 def get_event_type_df(events_dict):
     df = pd.DataFrame(events_dict)
@@ -92,7 +92,7 @@ def get_event_type_df(events_dict):
     df['outcomeType'] = df.apply(lambda row: row['outcomeType']['displayName'], axis=1)
     df['match_period'] = df.apply(lambda row: row['period']['displayName'], axis=1)
     df = df.drop(columns=['period', 'type'])
-    return df
+    return df.reset_index(drop=True)
 
 def get_shots_df(events_dict):
     df = pd.DataFrame(events_dict)
@@ -105,7 +105,7 @@ def get_shots_df(events_dict):
     df_shots = df.loc[
         df_shots_ids, df.columns]
 
-    return df_shots
+    return df_shots.reset_index(drop=True)
 
 def get_passes_between_df(team_id, passes_df, players_df):
     # filter for only team

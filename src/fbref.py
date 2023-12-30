@@ -13,7 +13,6 @@ import os
 from mplsoccer import PyPizza, add_image
 from highlight_text import fig_text
 import warnings
-from urllib.request import urlopen
 import matplotlib.font_manager as fm
 warnings.filterwarnings("ignore", category=FutureWarning)
 
@@ -372,12 +371,12 @@ class SoccerPlot:
 
         return result
     
-    def create_simple_pizza_plot(self, values, params, title, subtitle, data_credit, your_credit, player_image, team_image, color):
+    def create_simple_pizza_plot(self, values, params, title, subtitle, data_credit, your_credit, player_image, team_image, color_palette:dict):
 
         # instantiate PyPizza class
         baker = PyPizza(
             params=params,                  # list of params
-            background_color="#222222",
+            background_color=color_palette["bkg"],
             straight_line_color="#000000",  # color for straight lines
             straight_line_lw=1,             # linewidth for straight lines
             last_circle_lw=1,               # linewidth of last circle
@@ -385,7 +384,7 @@ class SoccerPlot:
             other_circle_ls="-.",           # linestyle for other circles
             inner_circle_size=20            # increase the circle size
         )
-        slice_colors = [color]*len(self.cols_filter)
+        slice_colors = [color_palette["color2"]]*len(self.cols_filter)
         # plot pizza
         fig, ax = baker.make_pizza(
             values,              # list of values
@@ -395,7 +394,7 @@ class SoccerPlot:
             color_blank_space="same",
             param_location=110,  # where the parameters will be added
             kwargs_slices=dict(
-                facecolor=color, edgecolor="#000000",
+                edgecolor="#000000",
                 zorder=2, linewidth=1
             ),                   # values to be used when plotting slices
             kwargs_params=dict(
@@ -408,7 +407,7 @@ class SoccerPlot:
                 fontproperties=self.font_normal_prop,
                 zorder=3,
                 bbox=dict(
-                    edgecolor="#000000", facecolor=color,
+                    edgecolor="#000000", facecolor=color_palette['color2'],
                     boxstyle="round,pad=0.2", lw=1
                 )
             )                    # values to be used when adding parameter-values
@@ -445,14 +444,14 @@ class SoccerPlot:
         return fig, ax
     
     
-    def create_3_pilars_pizza_plot(self, values, params, title, subtitle, data_credit, your_credit, player_image, team_image, colors: list):
+    def create_3_pilars_pizza_plot(self, values, params, title, subtitle, data_credit, your_credit, player_image, team_image, color_palette: dict):
         """
         Create a pizza plot with 3 categories with 5 Stats for each
         """
         # instantiate PyPizza class
         baker = PyPizza(
             params=params,                  # list of params
-            background_color="#222222",
+            background_color=color_palette["bkg"],
             straight_line_color="#000000",  # color for straight lines
             straight_line_lw=1,             # linewidth for straight lines
             last_circle_lw=1,               # linewidth of last circle
@@ -460,7 +459,7 @@ class SoccerPlot:
             other_circle_ls="-.",           # linestyle for other circles
             inner_circle_size=20            # increase the circle size
         )
-        slice_colors = [colors[0]]*5 + [colors[1]]*5 + [colors[2]] * 5
+        slice_colors = [color_palette["color1"]]*5 + [color_palette["color2"]]*5 + [color_palette["color3"]] * 5
         # plot pizza
         fig, ax = baker.make_pizza(
             values,              # list of values
@@ -519,12 +518,12 @@ class SoccerPlot:
 
         return fig, ax
     
-    def create_compare_pizza_plot(self, values, values_2, params, title, subtitle, data_credit, your_credit, player1_image, player2_image, colors: list):
+    def create_compare_pizza_plot(self, values, values_2, params, title, subtitle, data_credit, your_credit, player1_image, player2_image, color_palette: dict):
 
         # instantiate PyPizza class
         baker = PyPizza(
             params=params,                  # list of params
-            background_color="#222222",
+            background_color=color_palette["bkg"],
             straight_line_color="#000000",  # color for straight lines
             straight_line_lw=1,             # linewidth for straight lines
             last_circle_lw=1,               # linewidth of last circle
@@ -532,7 +531,7 @@ class SoccerPlot:
             other_circle_ls="-.",           # linestyle for other circles
             inner_circle_size=10           # increase the circle size
         )
-        slice_colors_player1 = [colors[0]]*len(self.cols_filter)
+        slice_colors_player1 = [color_palette["color1"]]*len(self.cols_filter)
         # plot pizza
         fig, ax = baker.make_pizza(
             values,              # list of values
@@ -542,11 +541,11 @@ class SoccerPlot:
             value_bck_colors=slice_colors_player1,
             param_location=110,  # where the parameters will be added
             kwargs_slices=dict(
-                facecolor=colors[0], edgecolor="#000000",
+                edgecolor="#000000",
                 zorder=2, linewidth=1
             ),                   # values to be used when plotting slices
             kwargs_compare=dict(
-                facecolor=colors[1], edgecolor="#000000",
+                facecolor=color_palette["color2"], edgecolor="#000000",
                 zorder=2, linewidth=1,
             ),
             kwargs_params=dict(
@@ -559,7 +558,7 @@ class SoccerPlot:
                 fontproperties=self.font_normal_prop,
                 zorder=3,
                 bbox=dict(
-                    edgecolor="#000000", facecolor=colors[0],
+                    edgecolor="#000000", facecolor=color_palette["color1"],
                     boxstyle="round,pad=0.2", lw=1
                 )
             ) ,                   # values to be used when adding parameter-values
@@ -568,7 +567,7 @@ class SoccerPlot:
                 fontproperties=self.font_normal_prop,
                 zorder=3,
                 bbox=dict(
-                    edgecolor="#000000", facecolor=colors[1],
+                    edgecolor="#000000", facecolor=color_palette["color2"],
                     boxstyle="round,pad=0.2", lw=1
                 )
             )
@@ -577,7 +576,7 @@ class SoccerPlot:
         # add title
         fig_text(
             0.515, 0.99, title, size=16, fig=fig,
-            highlight_textprops=[{"color": colors[0]}, {"color": colors[1]}],
+            highlight_textprops=[{"color": color_palette["color1"]}, {"color": color_palette["color2"]}],
             ha="center", fontproperties=self.font_bold_prop, 
             color="#F2F2F2"
         )
@@ -606,23 +605,23 @@ class SoccerPlot:
 
         return fig, ax
     
-    def generate_simple_pizza_plot(self, player_name, title, subtitle, data_credit, your_credit, player_image, team_image, color):
+    def generate_simple_pizza_plot(self, player_name, title, subtitle, data_credit, your_credit, player_image, team_image, color_palette:dict):
         params = self.get_params_list(self.df, self.cols_filter)
         player = self.get_player(player_name, self.df, self.cols_filter)
         values = self.calculate_percintiles(params, self.df, player)
 
-        self.create_simple_pizza_plot(values, params, title, subtitle, data_credit, your_credit, player_image, team_image, color)
+        self.create_simple_pizza_plot(values, params, title, subtitle, data_credit, your_credit, player_image, team_image, color_palette)
         plt.show()
 
-    def generate_3_pilars_pizza_plot(self, player_name, title, subtitle, data_credit, your_credit, player_image, team_image, colors):
+    def generate_3_pilars_pizza_plot(self, player_name, title, subtitle, data_credit, your_credit, player_image, team_image, color_palette:dict):
         params = self.get_params_list(self.df, self.cols_filter)
         player = self.get_player(player_name, self.df, self.cols_filter)
         values = self.calculate_percintiles(params, self.df, player)
 
-        self.create_3_pilars_pizza_plot(values, params, title, subtitle, data_credit, your_credit, player_image, team_image, colors)
+        self.create_3_pilars_pizza_plot(values, params, title, subtitle, data_credit, your_credit, player_image, team_image, color_palette)
         plt.show()
     
-    def generate_compare_pizza_plot(self, player_name1, player_name2, subtitle, data_credit, your_credit, player1_image, player2_image, colors: list):
+    def generate_compare_pizza_plot(self, player_name1, player_name2, subtitle, data_credit, your_credit, player1_image, player2_image, color_palette: dict):
         params = self.get_params_list(self.df, self.cols_filter)
         player_1 = self.get_player(player_name1, self.df, self.cols_filter)
         values_1 = self.calculate_percintiles(params, self.df, player_1)
@@ -631,7 +630,7 @@ class SoccerPlot:
         values_2 = self.calculate_percintiles(params, self.df, player_2)
 
         title = f'<{player_name1}> vs <{player_name2}>'
-        self.create_compare_pizza_plot(values_1, values_2,params, title, subtitle, data_credit, your_credit, player1_image, player2_image, colors)
+        self.create_compare_pizza_plot(values_1, values_2,params, title, subtitle, data_credit, your_credit, player1_image, player2_image, color_palette)
         plt.show()
 
 
