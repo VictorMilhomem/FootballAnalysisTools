@@ -1,4 +1,25 @@
 import matplotlib.font_manager as fm
+import os
+
+font_lora_path = os.path.join('..', 'fonts', 'Lora-VariableFont_wght.ttf')
+font_lora_italic = os.path.join('..', 'fonts', 'Lora-Italic-VariableFont_wght.ttf')
+font_oswald_bold_path = os.path.join('..', 'fonts', 'Oswald-VariableFont_wght.ttf')
+font_robotomono_italic_path = os.path.join('..', 'fonts', 'RobotoMono-Italic-VariableFont_wght.ttf')
+font_robotomono_bold_path = os.path.join('..', 'fonts', 'RobotoMono-VariableFont_wght.ttf')
+font_robot_regular_path = os.path.join('..', 'fonts', 'Roboto-Regular.ttf')
+font_robot_italic_path = os.path.join('..', 'fonts', 'Roboto-Italic.ttf')
+font_robot_bold_path = os.path.join('..', 'fonts', 'Roboto-Bold.ttf')
+font_sevillana_path = os.path.join('..', 'fonts', 'Sevillana-Regular.ttf')
+
+FONT_LORA = fm.FontProperties(fname=font_lora_path)
+FONT_LORA_ITALIC = fm.FontProperties(fname=font_lora_italic)
+FONT_OSWALD = fm.FontProperties(fname=font_oswald_bold_path)
+FONT_ROBOTMONO_ITALIC = fm.FontProperties(fname=font_robotomono_bold_path)
+FONT_ROBOTMONO = fm.FontProperties(fname=font_robotomono_italic_path)
+FONT_ROBOTO = fm.FontProperties(fname=font_robot_regular_path)
+FONT_ROBOTO_BOLD = fm.FontProperties(fname=font_robot_bold_path)
+FONT_ROBOTO_ITALIC = fm.FontProperties(fname=font_robot_italic_path)
+FONT_SEVILLANA = fm.FontProperties(fname=font_sevillana_path)
 
 
 COLORS_PALETTE_1 = {
