@@ -9,6 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import time
+from scipy.ndimage import gaussian_filter
 
 def extract_json_from_html(match_url, save=True, save_path=None):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
@@ -200,7 +201,7 @@ def create_passnet_plot_both_teams(
         home_passes_between_df, home_average_locs_and_count_df, 
         away_passes_between_df, away_average_locs_and_count_df, 
         teams_dict, 
-        main_color, color_palette:dict):
+        main_color, color_palette:dict, credit="By: @victormilhomem"):
     
     home_team_id = list(teams_dict.keys())[0]  # selected home team
     away_team_id = list(teams_dict.keys())[1]  # selected home team
@@ -224,14 +225,14 @@ def create_passnet_plot_both_teams(
     plt.suptitle(f"{teams_dict[home_team_id]} - {teams_dict[away_team_id]}", color=main_color, fontsize=38, fontproperties=FONT_OSWALD)
     subtitle = "Passing networks and top combinations by volume of passes"
     plt.text(-10, 120, subtitle, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=14, fontproperties=FONT_ROBOTMONO)
-    plt.text(90, -3, "By: Victor Milhomem", horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10, fontproperties=FONT_ROBOTO_ITALIC)
+    plt.text(90, -3, credit, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10, fontproperties=FONT_LORA_ITALIC)
     plt.show()
 
 def create_passnet_plot_single_teams(
         home_passes_between_df, home_average_locs_and_count_df, 
         away_passes_between_df, away_average_locs_and_count_df, 
         teams_dict, 
-        main_color, color_palette:dict,home=True):
+        main_color, color_palette:dict,home=True, credit="By: @victormilhomem"):
     
     home_team_id = list(teams_dict.keys())[0]  # selected home team
     away_team_id = list(teams_dict.keys())[1]  # selected home team
@@ -247,5 +248,97 @@ def create_passnet_plot_single_teams(
     plt.suptitle(f"{teams_dict[home_team_id]} - {teams_dict[away_team_id]}", color=main_color, fontsize=30, fontproperties=FONT_OSWALD)
     subtitle = f"Passing networks and top combinations by volume of passes from {teams_dict[home_team_id if home else away_team_id]}"
     plt.text(48, 108, subtitle, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=10, fontproperties=FONT_ROBOTMONO)
-    plt.text(95, -3, "By: Victor Milhomem", horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=8, fontproperties=FONT_ROBOTO_ITALIC)
+    plt.text(95, -3, credit, horizontalalignment='center', verticalalignment='center', color=main_color, fontsize=8, fontproperties=FONT_LORA_ITALIC)
+    plt.show()
+
+
+def create_heatmap(touches_df, title, credit, color_palette, custom_cmap):
+    # setup pitch
+    pitch = Pitch(pitch_type='statsbomb', line_zorder=2,
+                pitch_color=color_palette["bkg"], line_color='#ffff')
+    # draw
+
+    fig, axs = pitch.grid(ncols=1,
+                        space=0.05,
+                        left=None, bottom=None, endnote_height=0.03, endnote_space=0, figheight=13.5,
+                        title_height=0.06, title_space=0, grid_height=0.86,
+                        axis=False)
+
+    fig.set_facecolor(color_palette["bkg"])
+    bin_statistic = pitch.bin_statistic(touches_df.x, touches_df.y, statistic='count', bins=(25, 25))
+    bin_statistic['statistic'] = gaussian_filter(bin_statistic['statistic'], 1)
+    pcm = pitch.heatmap(bin_statistic, ax=axs["pitch"], cmap=custom_cmap, edgecolors='#22312b')
+    # Add the colorbar and format off-white
+    cbar = fig.colorbar(pcm, ax=axs["pitch"], shrink=0.6)
+    cbar.outline.set_edgecolor("#ffff")
+    cbar.ax.yaxis.set_tick_params(color="#ffff")
+    ticks = plt.setp(plt.getp(cbar.ax.axes, 'yticklabels'), color="#ffff")
+
+    # endnote and title
+    axs['endnote'].text(1, 0.5, credit, va='center', ha='right', fontsize=16,
+                        fontproperties=FONT_LORA_ITALIC, color='#ffff')
+    axs['title'].text(0.5, 0.5, title, color='#ffff',
+                    va='center', ha='center',
+                    fontproperties=FONT_OSWALD, fontsize=25)
+    plt.show()
+
+def create_passes_map(passes_df, title, credit="By: @victormilhomem", color_palette=COLORS_PALETTE_13):
+    # Set up the pitch
+    mask_complete = passes_df["outcomeType"] == "Successful"
+    pitch = Pitch(pitch_type='opta', pitch_color=color_palette["bkg"], line_color='#ffff')
+    fig, axs = pitch.grid(endnote_height=0.03, endnote_space=0, figheight=13.5,
+                        title_height=0.1, title_space=0, grid_height=0.86,
+                        axis=False)
+    fig.set_facecolor(color_palette["bkg"])
+
+    # Plot the completed passes
+    pitch.arrows(passes_df[mask_complete]['x'], passes_df[mask_complete]['y'],
+                passes_df[mask_complete]['endX'], passes_df[mask_complete]['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette["color3"], ax=axs['pitch'], label='completed passes')
+
+    # Plot the other passes
+    pitch.arrows(passes_df[~mask_complete]['x'], passes_df[~mask_complete]['x'],
+                passes_df[~mask_complete]['endX'], passes_df[~mask_complete]['endY'], width=2,
+                headwidth=6, headlength=5, headaxislength=12,
+                color=color_palette["color1"], ax=axs['pitch'], label='other passes')
+
+    # Set up the legend
+    legend = axs['pitch'].legend(facecolor='#ffff', handlelength=5, edgecolor='None',
+                                prop=FONT_ROBOTO, loc='upper left')
+    for text in legend.get_texts():
+        text.set_fontsize(15)
+
+    # endnote and title
+    axs['endnote'].text(1, 0.5, credit, va='center', ha='right', fontsize=16,
+                        fontproperties=FONT_LORA_ITALIC, color='#ffff')
+    axs['title'].text(0.5, 0.5, title, color='#ffff',
+                    va='center', ha='center',
+                    fontproperties=FONT_OSWALD, fontsize=25)
+
+    plt.show()
+
+def create_passes_flow(passes_df, title, credit="By: @victormilhomem", color_palette=COLORS_PALETTE_12, custom_map=CUSTOM_CMP_1):
+    pitch = Pitch(pitch_type='opta', pad_bottom=1, pad_top=1,
+                pad_left=1, pad_right=1,
+                line_zorder=2, line_color='#ffff', pitch_color=color_palette["bkg"])
+    fig, axs = pitch.grid(endnote_height=0.03, endnote_space=0, figheight=13.5,
+                            title_height=0.1, title_space=0, grid_height=0.86,
+                            axis=False)
+    fig.set_facecolor(color_palette["bkg"])
+    bins = (6, 4)
+    # plot the heatmap - darker colors = more passes originating from that square
+    bs_heatmap = pitch.bin_statistic(passes_df["x"], passes_df["y"], statistic='count', bins=bins)
+    hm = pitch.heatmap(bs_heatmap, ax=axs['pitch'], cmap=custom_map)
+    # plot the pass flow map with a single color ('black') and length of the arrow (5)
+    fm = pitch.flow(passes_df["x"], passes_df["y"], passes_df["endX"], passes_df["endY"],
+                    color='black', arrow_type='same',
+                    arrow_length=5, bins=bins, ax=axs['pitch'])
+
+    # title / endnote
+    font = FONT_OSWALD  # default is loading robotto font from google fonts
+    axs['title'].text(0.5, 0.5, title,
+                    fontsize=25, fontproperties=font, va='center', ha='center', color="#ffff")
+    axs['endnote'].text(1, 0.5, credit,
+                        fontsize=16, fontproperties=font, va='center', ha='right', color="#ffff")
+
     plt.show()
