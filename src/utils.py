@@ -1,4 +1,5 @@
 import matplotlib.font_manager as fm
+from matplotlib.colors import LinearSegmentedColormap
 import os
 
 font_lora_path = os.path.join('..', 'fonts', 'Lora-VariableFont_wght.ttf')
@@ -92,3 +93,50 @@ COLORS_PALETTE_10 = {
     "color2": "#82A0D8",
     "color3": "#EDB7ED"
 }
+
+
+COLORS_PALETTE_11 = {
+    "bkg": "#0F0F0F",
+    "color1": "#232D3F",
+    "color2": "#005B41",
+    "color3": "#008170"
+}
+
+
+COLORS_PALETTE_12 = {
+    "bkg": "#000000",
+    "color1": "#CEDEBD",
+    "color2": "#4F6F52",
+    "color3": "#3A4D39"
+}
+
+
+COLORS_PALETTE_13 = {
+    "bkg": "#000000",
+    "color1": "#150050",
+    "color2": "#A91079",
+    "color3": "#FB2576"
+}
+
+COLORS_PALETTE_14 = {
+    "bkg": "#A9A9A9",
+    "color1": "#FECDA6",
+    "color2": "#FF9130",
+    "color3": "#FF5B22"
+}
+
+COLORS_PALETTE_15 = {
+    "bkg": "#E19898",
+    "color1": "#A2678A",
+    "color2": "#4D3C77",
+    "color3": "#3F1D38"
+}
+
+custom_color = [(0, COLORS_PALETTE_12["color1"]), (0.5, COLORS_PALETTE_12["color2"]), (1, COLORS_PALETTE_12["color3"])]
+CUSTOM_CMP_1 = LinearSegmentedColormap.from_list('custom_map', custom_color)
+custom_color_2 = [(0, COLORS_PALETTE_13["color1"]), (0.5, COLORS_PALETTE_13["color2"]), (1, COLORS_PALETTE_13["color3"])]
+CUSTOM_CMP_2 = LinearSegmentedColormap.from_list('custom_map', custom_color_2)
+custom_color_3 = [(0, COLORS_PALETTE_14["color1"]), (0.5, COLORS_PALETTE_14["color2"]), (1, COLORS_PALETTE_14["color3"])]
+CUSTOM_CMP_3 = LinearSegmentedColormap.from_list('custom_map', custom_color_3)
+custom_color_4 = [(0, COLORS_PALETTE_15["color1"]), (0.5, COLORS_PALETTE_15["color2"]), (1, COLORS_PALETTE_15["color3"])]
+CUSTOM_CMP_4 = LinearSegmentedColormap.from_list('custom_map', custom_color_4)

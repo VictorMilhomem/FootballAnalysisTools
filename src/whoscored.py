@@ -66,12 +66,20 @@ def get_passes_df(events_dict):
     df['match_period'] = df.apply(lambda row: row['period']['displayName'], axis=1)
     # create receiver column based on the next event
     # this will be correct only for successfull passes
+    def get_angle_and_length(df_row, angle=True):
+        for row in df_row:
+            if (row['type']['displayName']  == 'Angle') and angle:
+                return row['value']
+            if (row['type']['displayName']  == 'Length'):
+                return row['value']
+    df['angle'] = df.apply(lambda row: get_angle_and_length(row['qualifiers']), axis=1)
+    df['length'] = df.apply(lambda row: get_angle_and_length(row['qualifiers'], angle=False), axis=1)
     df["receiver"] = df["playerId"].shift(-1)
 
     # filter only passes
     passes_ids = df.index[df['eventType'] == 'Pass']
     df_passes = df.loc[
-        passes_ids, ["id", "x", "y", "endX", "endY", "teamId", "playerId", "receiver", "eventType", "outcomeType", "match_period"]]
+        passes_ids, ["id", "x", "y", "endX", "endY", "teamId", "playerId", "receiver", "eventType", "outcomeType", "match_period", "angle", "length"]]
 
     return df_passes.reset_index(drop=True)
 
@@ -99,12 +107,17 @@ def get_shots_df(events_dict):
     df['eventType'] = df.apply(lambda row: row['type']['displayName'], axis=1)
     df['outcomeType'] = df.apply(lambda row: row['outcomeType']['displayName'], axis=1)
     df['match_period'] = df.apply(lambda row: row['period']['displayName'], axis=1)
+    def get_foot(df_row):
+        for row in df_row:
+            foot = row['type']['displayName'] 
+            if (foot == 'RightFoot' ) or (foot == 'LeftFoot')  :
+                return foot
+    df['foot'] = df.apply(lambda row: get_foot(row['qualifiers']), axis=1)
     df = df.drop(columns=['period', 'type'])
 
     df_shots_ids = df.index[(df["isShot"] == True)]
     df_shots = df.loc[
         df_shots_ids, df.columns]
-
     return df_shots.reset_index(drop=True)
 
 def get_passes_between_df(team_id, passes_df, players_df):
