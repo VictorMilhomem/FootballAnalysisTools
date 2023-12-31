@@ -342,3 +342,24 @@ def create_passes_flow(passes_df, title, credit="By: @victormilhomem", color_pal
                         fontsize=16, fontproperties=font, va='center', ha='right', color="#ffff")
 
     plt.show()
+
+def create_shots_map(shots_df, title, credit="By: @victormilhomem", color_palette=COLORS_PALETTE_13):
+    pitch = Pitch(pitch_type='opta', pad_bottom=1, pad_top=1,
+                    pad_left=1, pad_right=1,
+                    line_zorder=2, line_color='#ffff', pitch_color=color_palette["bkg"])
+    fig, axs = pitch.grid(endnote_height=0.03, endnote_space=0, figheight=13.5,
+                                title_height=0.1, title_space=0, grid_height=0.86,
+                                axis=False)
+    mask_goal = shots_df['isGoal'] == True
+    fig.set_facecolor(color_palette['bkg'])
+    axs["pitch"].scatter(x=shots_df[mask_goal]["x"], y=shots_df[mask_goal]["y"], s=200, alpha=.7, c=color_palette["color3"], label="goal")
+    axs["pitch"].scatter(x=shots_df[~mask_goal]["x"], y=shots_df[~mask_goal]["y"], s=200, alpha=.7, c=color_palette["color1"], label="not goal")
+    legend = axs['pitch'].legend(facecolor='#ffff', handlelength=5, edgecolor='None',
+                                    prop=FONT_ROBOTO, loc='upper left')
+    for text in legend.get_texts():
+        text.set_fontsize(15)
+    axs['title'].text(0.5, 0.5, title,
+                        fontsize=25, fontproperties=FONT_OSWALD, va='center', ha='center', color="#ffff")
+    axs['endnote'].text(1, 0.5, credit,
+                        fontsize=16, fontproperties=FONT_LORA_ITALIC, va='center', ha='right', color="#ffff")
+    plt.show()
