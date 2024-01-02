@@ -11,6 +11,7 @@ import os
 import time
 from scipy.ndimage import gaussian_filter
 import json
+from adjustText import adjust_text
 
 def extract_json_from_html(match_url, save=True, save_path=None):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
@@ -202,16 +203,17 @@ def pass_network_visualization(ax, passes_between_df, average_locs_and_count_df,
                              passes_between_df.x_end, passes_between_df.y_end, lw=passes_between_df.width,
                              color=color, zorder=1, ax=ax)
     pass_nodes = pitch.scatter(average_locs_and_count_df.x, average_locs_and_count_df.y,
-                               s=average_locs_and_count_df.marker_size,
+                               s=average_locs_and_count_df.marker_size, marker="h",
                                color=color_palette["color1"], edgecolors=color_palette["color3"], linewidth=1, alpha=1, ax=ax)
     for _, row in average_locs_and_count_df.iterrows():
         #print(row)
-        #player_name = row["name"].split()
+        player_name = row["name"].split(" ")[0]
         #player_initials = "".join(word[0] for word in player_name).upper()
-        player_shirt = row["shirtNo"]
-        pitch.annotate(player_shirt, xy=(row.x, row.y), c=color_palette["color3"], va='center',
-                       ha='center', size=14, ax=ax)
-
+        #player_shirt = row["shirtNo"]
+        pitch.annotate(player_name, xy=(row['x'], row['y']),
+                c="#ffff",
+                va='center', ha='center', size=6,ax=ax
+        )
     return pitch
 
 def create_passnet_plot_both_teams(
@@ -334,7 +336,13 @@ def create_passes_map(passes_df, title, credit="By: @victormilhomem", color_pale
 
     plt.show()
 
-def create_cluster_passes_map(passes_df, title, credit="By: @victormilhomem", color_palette=COLORS_PALETTE_13):
+def create_cluster_passes_map(passes_df, title, credit="By: @victormilhomem", color_palette=CLUSTER_PALETTE):
+    top_clusters = list(passes_df["cluster"].value_counts().head(5).index)
+    top_1_mask = passes_df["cluster"] == top_clusters[0]
+    top_2_mask = passes_df["cluster"] == top_clusters[1]
+    top_3_mask = passes_df["cluster"] == top_clusters[2]
+    top_4_mask = passes_df["cluster"] == top_clusters[3]
+    top_5_mask = passes_df["cluster"] == top_clusters[4]
     # Set up the pitch
     pitch = Pitch(pitch_type='opta', pitch_color=color_palette["bkg"], line_color='#ffff')
     fig, axs = pitch.grid(endnote_height=0.03, endnote_space=0, figheight=13.5,
@@ -343,9 +351,25 @@ def create_cluster_passes_map(passes_df, title, credit="By: @victormilhomem", co
     fig.set_facecolor(color_palette["bkg"])
 
     # Plot the completed passes
-    pitch.arrows(passes_df['x'], passes_df['y'],
-                passes_df['endX'], passes_df['endY'], width=2, headwidth=10,
-                headlength=10, color=color_palette["color3"], ax=axs['pitch'], label='completed passes')
+    pitch.arrows(passes_df[top_1_mask]['x'], passes_df[top_1_mask]['y'],
+                passes_df[top_1_mask]['endX'], passes_df[top_1_mask]['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette[top_clusters[0]], ax=axs['pitch'], label=f'cluster {top_clusters[0]}')
+
+    pitch.arrows(passes_df[top_2_mask]['x'], passes_df[top_2_mask]['y'],
+                passes_df[top_2_mask]['endX'], passes_df[top_2_mask]['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette[top_clusters[1]], ax=axs['pitch'], label=f'cluster {top_clusters[1]}')
+    
+    pitch.arrows(passes_df[top_3_mask]['x'], passes_df[top_3_mask]['y'],
+                passes_df[top_3_mask]['endX'], passes_df[top_3_mask]['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette[top_clusters[2]], ax=axs['pitch'], label=f'cluster {top_clusters[2]}')
+
+    pitch.arrows(passes_df[top_4_mask]['x'], passes_df[top_4_mask]['y'],
+                passes_df[top_4_mask]['endX'], passes_df[top_4_mask]['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette[top_clusters[3]], ax=axs['pitch'], label=f'cluster {top_clusters[3]}')
+    
+    pitch.arrows(passes_df[top_5_mask]['x'], passes_df[top_5_mask]['y'],
+                passes_df[top_5_mask]['endX'], passes_df[top_5_mask]['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette[top_clusters[4]], ax=axs['pitch'], label=f'cluster {top_clusters[4]}')
 
     # Set up the legend
     legend = axs['pitch'].legend(facecolor='#ffff', handlelength=5, edgecolor='None',
