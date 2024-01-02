@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import os
 import time
 from scipy.ndimage import gaussian_filter
+import json
 
 def extract_json_from_html(match_url, save=True, save_path=None):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
@@ -42,6 +43,22 @@ def get_json_data(matches_url: dict, matches_dir):
             os.mkdir(MATCH_DIR)
         json_data_txt = extract_json_from_html(match_url, save=True, save_path=filepath)
         time.sleep(1)
+
+def get_data(round_match, dir):
+    data = None
+    filepath = os.path.join(dir, str(round_match), f"{round_match}_round.txt")
+    with open(filepath, 'rt') as json_data_txt:
+        data = json.loads(json_data_txt.read())
+    return data
+
+def get_all_passes_df( high, dir):
+    all_dfs = []
+    for round_match in range(1,high):
+        data = get_data(round_match, dir)
+        events_dict, _, _ = extract_data_from_dict(data)
+        passes_df = get_passes_df(events_dict)
+        all_dfs.append(passes_df)
+    return pd.concat(all_dfs)
 
 def extract_data_from_dict(data):
     # load data from json
