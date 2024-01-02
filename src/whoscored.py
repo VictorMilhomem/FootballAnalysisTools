@@ -334,6 +334,34 @@ def create_passes_map(passes_df, title, credit="By: @victormilhomem", color_pale
 
     plt.show()
 
+def create_cluster_passes_map(passes_df, title, credit="By: @victormilhomem", color_palette=COLORS_PALETTE_13):
+    # Set up the pitch
+    pitch = Pitch(pitch_type='opta', pitch_color=color_palette["bkg"], line_color='#ffff')
+    fig, axs = pitch.grid(endnote_height=0.03, endnote_space=0, figheight=13.5,
+                        title_height=0.1, title_space=0, grid_height=0.86,
+                        axis=False)
+    fig.set_facecolor(color_palette["bkg"])
+
+    # Plot the completed passes
+    pitch.arrows(passes_df['x'], passes_df['y'],
+                passes_df['endX'], passes_df['endY'], width=2, headwidth=10,
+                headlength=10, color=color_palette["color3"], ax=axs['pitch'], label='completed passes')
+
+    # Set up the legend
+    legend = axs['pitch'].legend(facecolor='#ffff', handlelength=5, edgecolor='None',
+                                prop=FONT_ROBOTO, loc='upper left')
+    for text in legend.get_texts():
+        text.set_fontsize(15)
+
+    # endnote and title
+    axs['endnote'].text(1, 0.5, credit, va='center', ha='right', fontsize=16,
+                        fontproperties=FONT_LORA_ITALIC, color='#ffff')
+    axs['title'].text(0.5, 0.5, title, color='#ffff',
+                    va='center', ha='center',
+                    fontproperties=FONT_OSWALD, fontsize=25)
+
+    plt.show()
+
 def create_passes_flow(passes_df, title, credit="By: @victormilhomem", color_palette=COLORS_PALETTE_12, custom_map=CUSTOM_CMP_1):
     pitch = Pitch(pitch_type='opta', pad_bottom=1, pad_top=1,
                 pad_left=1, pad_right=1,
