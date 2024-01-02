@@ -353,23 +353,23 @@ def create_cluster_passes_map(passes_df, title, credit="By: @victormilhomem", co
     # Plot the completed passes
     pitch.arrows(passes_df[top_1_mask]['x'], passes_df[top_1_mask]['y'],
                 passes_df[top_1_mask]['endX'], passes_df[top_1_mask]['endY'], width=2, headwidth=10,
-                headlength=10, color=color_palette[top_clusters[0]], ax=axs['pitch'], label=f'cluster {top_clusters[0]}')
+                headlength=10, color=color_palette["color1"], ax=axs['pitch'], label=f'Most Common')
 
     pitch.arrows(passes_df[top_2_mask]['x'], passes_df[top_2_mask]['y'],
                 passes_df[top_2_mask]['endX'], passes_df[top_2_mask]['endY'], width=2, headwidth=10,
-                headlength=10, color=color_palette[top_clusters[1]], ax=axs['pitch'], label=f'cluster {top_clusters[1]}')
+                headlength=10, color=color_palette["color2"], ax=axs['pitch'], label=f'2nd Most Common')
     
     pitch.arrows(passes_df[top_3_mask]['x'], passes_df[top_3_mask]['y'],
                 passes_df[top_3_mask]['endX'], passes_df[top_3_mask]['endY'], width=2, headwidth=10,
-                headlength=10, color=color_palette[top_clusters[2]], ax=axs['pitch'], label=f'cluster {top_clusters[2]}')
+                headlength=10, color=color_palette["color3"], ax=axs['pitch'], label=f'3nd Most Common')
 
     pitch.arrows(passes_df[top_4_mask]['x'], passes_df[top_4_mask]['y'],
                 passes_df[top_4_mask]['endX'], passes_df[top_4_mask]['endY'], width=2, headwidth=10,
-                headlength=10, color=color_palette[top_clusters[3]], ax=axs['pitch'], label=f'cluster {top_clusters[3]}')
+                headlength=10, color=color_palette["color4"], ax=axs['pitch'], label=f'4th Most Common')
     
     pitch.arrows(passes_df[top_5_mask]['x'], passes_df[top_5_mask]['y'],
                 passes_df[top_5_mask]['endX'], passes_df[top_5_mask]['endY'], width=2, headwidth=10,
-                headlength=10, color=color_palette[top_clusters[4]], ax=axs['pitch'], label=f'cluster {top_clusters[4]}')
+                headlength=10, color=color_palette["color5"], ax=axs['pitch'], label=f'5th Most Common')
 
     # Set up the legend
     legend = axs['pitch'].legend(facecolor='#ffff', handlelength=5, edgecolor='None',
