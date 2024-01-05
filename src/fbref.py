@@ -1,9 +1,6 @@
 import sys
-import time
-from bs4 import BeautifulSoup
-import requests
-from tqdm import tqdm
-
+import traceback
+import ScraperFC as sfc
 import pandas as pd
 import matplotlib.pyplot as plt
 from PIL import Image, ImageDraw
@@ -17,119 +14,31 @@ import matplotlib.font_manager as fm
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 class FbrefScraper:
-    ADV_COMP_FILE_NAMES = [
-            'championship.csv'  ,
-            'home_away.csv' ,
-            'squad_std_stats.csv' ,
-            'squad_std_opponent_stats.csv' ,
-            'squad_goalkeeping_stats.csv' ,
-            'squad_goalkeeping_opponent_stats.csv' ,
-            'squad_adv_goalkeeping_stats.csv' ,
-            'squad_adv_goalkeeping_opponent_stats.csv' ,
-            'squad_shooting_stats.csv' ,
-            'squad_shooting_opponent_stats.csv' ,
-            'squad_passing_stats.csv',
-            'squad_passing_opponent_stats.csv',
-            'squad_passtypes_stats.csv',
-            'squad_passtypes_opponent_stats.csv',
-            'squad_goal_shoot_creation_stats.csv',
-            'squad_goal_shoot_creation_opponent_stats.csv',
-            'squad_defensive_stats.csv',
-            'squad_defensive_opponent_stats.csv',
-            'squad_possesion_stats.csv',
-            'squad_possesion_opponent_stats.csv',
-            'squad_playingtime_stats.csv',
-            'squad_playingtime_opponent_stats.csv',
-            'squad_miscellaneous_stats.csv',
-            'squad_miscellaneous_opponent_stats.csv',
+
+    PLAYERS_DICT = [
+        "standard",
+        "advanced goalkeeping",
+        "defensive",
+        "goal and shot creation",
+        "goalkeeping",
+        "misc",
+        "pass types",
+        "passing",
+        "playing time",
+        "possession",
+        "shooting"
     ]
-
-    ADV_TEAMS_FILE_NAMES = [
-        'squad_std_stats.csv',
-        'score_fixtures.csv',
-        'squad_goalkeeping_stats.csv',
-        'squad_adv_goalkeeping_stats.csv',
-        'squad_shooting_stats.csv',
-        'squad_passing_stats.csv',
-        'squad_passtypes_stats.csv',
-        'squad_goal_shoot_creation_stats.csv',
-        'squad_defensive_stats.csv',
-        'squad_possesion_stats.csv',
-        'squad_playingtime_stats.csv',
-        'squad_miscellaneous_stats.csv',
-    ]
-
-    CHAMPIONSHIP = None
-
-    DIR = {
-        9: 'premier_league',
-        10: 'english_championship',
-        11: 'italian_serie_A',
-        12: 'laliga',
-        13: 'ligue1',
-        17: 'spanish_second_division',
-        18: 'italian_serie_B',
-        20: 'bundesliga',
-        21: 'primera_division_argentina',
-        22: 'mls',
-        23: 'eredivisie',
-        24: 'brazil_serie_A',
-        31: 'liga_mx',
-        32: 'primeira_liga_portugal',
-        33: '2bundesliga',
-        37: 'belgium_pro',
-        60: 'ligue2',
-    }
 
     BASE_DIR = os.path.join('..', 'data')
     RAW_DIR = os.path.join(BASE_DIR, 'raw')
     ENGINEERED_DIR = os.path.join(BASE_DIR, 'engineered')
 
-    def __init__(self, comp_id, season='2023') -> None:
+    def __init__(self, comp_name, season='2023') -> None:
         self.season = season
-        self.CHAMPIONSHIP = {
-                            9:  f'https://fbref.com/en/comps/9/{season}/{season}-Premier-League-Stats',
-                            10: f'https://fbref.com/en/comps/10/{season}/{season}-Championship-Stats',
-                            11: f'https://fbref.com/en/comps/11/{season}/{season}-Serie-A-Stats',
-                            12: f'https://fbref.com/en/comps/12/{season}/{season}-La-Liga-Stats',
-                            13: f'https://fbref.com/en/comps/13/{season}/{season}-Ligue-1-Stats',
-                            17: f'https://fbref.com/en/comps/17/{season}/{season}-Segunda-Division-Stats',
-                            18: f'https://fbref.com/en/comps/18/{season}/{season}-Serie-B-Stats',
-                            20: f'https://fbref.com/en/comps/20/{season}/{season}-Bundesliga-Stats',
-                            21: f'https://fbref.com/en/comps/21/{season}/{season}-Primera-Division-Stats',
-                            22: f'https://fbref.com/en/comps/22/{season}/{season}-Major-League-Soccer-Stats',
-                            23: f'https://fbref.com/en/comps/23/{season}/{season}-Eredivisie-Stats',
-                            24: f'https://fbref.com/en/comps/24/{season}/{season}-Serie-A-Stats',
-                            31: f'https://fbref.com/en/comps/31/{season}/{season}-Liga-MX-Stats',
-                            32: f'https://fbref.com/en/comps/32/{season}/{season}-Primeira-Liga-Stats',
-                            33: f'https://fbref.com/en/comps/33/{season}/{season}-2-Bundesliga-Stats',
-                            37: f'https://fbref.com/en/comps/37/{season}/{season}-Belgian-Pro-League-Stats',
-                            60: f'https://fbref.com/en/comps/60/{season}/{season}-Ligue-2-Stats',
-                        }
-        self.comp_id = comp_id
-        self.comp_url = self.CHAMPIONSHIP[comp_id]
-        self.comp_dir = self.DIR[comp_id]
+        self.comp_name = comp_name
         self.SEASON_DIR = os.path.join(self.RAW_DIR, str(season))
-        self.COMP_DIR = os.path.join(self.SEASON_DIR, self.comp_dir)
+        self.COMP_DIR = os.path.join(self.SEASON_DIR, self.comp_name)
 
-    def get_teams_urls(self, comp_url):
-        request = requests.get(comp_url)
-        html = request.text
-        soup = BeautifulSoup(html, 'html.parser')
-        table = soup.find('table')
-        hrefs = {}
-        base_url = 'https://fbref.com'
-        for row in table.find_all('tr'):
-            try:
-                tr = row.select_one('td:nth-child(2) > a')
-                href = str(tr.get('href'))
-                team_url = base_url + href
-                team = tr.text
-                hrefs[team] = team_url
-            except:
-                pass
-            
-        return hrefs
 
     def contain_unnamed_level(self, level) -> bool:
         str_level = f'{level}'
@@ -142,15 +51,19 @@ class FbrefScraper:
         return [f'{level}_{column}' if not self.contain_unnamed_level(level) else column for level, column in df.columns.to_flat_index()]
 
 
-    def generate_dataframes(self, web_page: list) -> list:
+    def generate_raw_dataframes(self, data):
+        raw = []
+        for stats in self.PLAYERS_DICT:
+            raw.append(pd.DataFrame(data[stats][2]))
+        return raw
+
+    def generate_dataframes(self, dataframes: list) -> list:
         dfs = []
-        i = 0
-        for tb in web_page:
-            if i < len(self.ADV_TEAMS_FILE_NAMES):
+        for tb in dataframes:
                 if isinstance(tb.keys(), pd.core.indexes.multi.MultiIndex):
                     tb.columns = self.remove_level_columns(tb)
-                dfs.append(tb)
-            i += 1
+                _tb = self.__clean_std_stats(tb)           
+                dfs.append(_tb)
         return dfs
 
 
@@ -170,10 +83,6 @@ class FbrefScraper:
             for i in range(size):
                 filename = filenames[i]
                 named_dataframes[filename] = dfs[i]
-        else:
-            for i in range(size):
-                filename = str(i) + ".csv"
-                named_dataframes[filename] = dfs[i]
         
         return named_dataframes
 
@@ -190,88 +99,17 @@ class FbrefScraper:
         self.save_to_csv(named_dataframes, dirname)
 
     # Private functions
-    def __clean_std_stats(self, data):
+    def __clean_std_stats(self, dataframe):
+        data = dataframe.copy()
         data.drop(['Matches'], axis=1, inplace=True)
         data['Nation'] = data['Nation'].str.replace(r'[a-z]+', '', regex=True)
         data['Nation']= data['Nation'].str.strip()
-        data['Nation'].fillna('Unknow')
-
-        # drop total lines
-        data  = data[~data['Player'].str.contains('Squad Total')]
-        data  = data[~data['Player'].str.contains('Opponent Total')]
-
-        #cleaning age column
-        data['Age'] = data['Age'].astype(str)
-        data['Age'] = data['Age'].str.replace(r'-[0-9]+', '', regex=True)
-        data['Age']= data['Age'].str.strip()
-        data['Age'] = pd.to_numeric(data['Age'], errors='coerce')
-
-        if 'Playing Time_MP' in data.columns:
-            data = data.rename(columns={'Playing Time_MP': 'MP'})
-
-        data.iloc[:, 4:33] = data.iloc[:, 4:33].fillna(0)
+        data['Nation'].fillna('Unknown')
+        data['Competition'] = self.comp_name
 
         return data
 
-    def __add_team_championship(self, data, team, championship):
-        data['Team'] = team
-        data['Championship'] = championship
-        data['Player_Team'] = data['Player'] + ' (' + data['Team'] + ')'
-        return data
-    
-    def __directories(self, folder_path):
-        entries = os.listdir(folder_path)
-        directories = (entry for entry in entries if os.path.isdir(os.path.join(folder_path, entry)))
-        directory_names = list(directories)
-
-        return directory_names
-
-    def __read_files(self, output_path, filename):
-        datas = []
-        teams = []
-        folders = self.__directories(output_path)
-        for folder in folders:
-            team_folder = os.path.join(output_path, folder)
-            teams.append(folder.split('_')[0])
-
-            file_path = os.path.join(team_folder, filename)
-            df = pd.read_csv(file_path)
-            datas.append(df)
-        return datas, teams
-    
-    def __transform(self, datas, teams, champ='Brasileiro'):
-        new_datas = []
-        for i in range(len(datas)):
-            data = datas[i]
-            team = teams[i]
-            data = self.__clean_std_stats(data)
-            data = self.__add_team_championship(data, team, champ)
-            new_datas.append(data)
-        return new_datas
-    
-    def __concat_dfs(self, datas):
-        df_combined = pd.concat(datas, ignore_index=True)
-        return df_combined
-    
-    def __run_data_transform(self):
-        for file in self.ADV_TEAMS_FILE_NAMES:
-            if file != 'score_fixtures.csv':
-                datas, teams = self.__read_files(self.COMP_DIR, file)
-                new = self.__transform(datas, teams)
-                transformed_df = self.__concat_dfs(new)
-                season_dir = os.path.join(self.ENGINEERED_DIR, self.season)
-                comp_dir = os.path.join(season_dir, self.comp_dir)
-                filepath = os.path.join(comp_dir, file)
-                if not os.path.exists(self.ENGINEERED_DIR):
-                    os.mkdir(self.ENGINEERED_DIR)
-                if not os.path.exists(season_dir):
-                    os.mkdir(season_dir)
-                if not os.path.exists(comp_dir):
-                    os.mkdir(comp_dir)
-                transformed_df.to_csv(filepath, index=False)
-
-
-    def run(self, squad_stats=True, transform=True):
+    def run(self):
         if not os.path.exists(self.BASE_DIR):
             os.mkdir(self.BASE_DIR)
         if not os.path.exists(self.RAW_DIR):
@@ -280,16 +118,20 @@ class FbrefScraper:
             os.mkdir(self.SEASON_DIR)
         if not os.path.exists(self.COMP_DIR):
             os.mkdir(self.COMP_DIR)
-        urls = self.get_teams_urls(self.comp_url) if squad_stats else self.comp_url
-        file_names = self.ADV_TEAMS_FILE_NAMES if squad_stats else self.ADV_COMP_FILE_NAMES
-        dir = self.comp_dir
-        for dir, url in tqdm(urls.items()):
-            web_page = pd.read_html(url)
-            dfs = self.generate_dataframes(web_page)
-            self.generate_files(dir, dfs, file_names)
-            time.sleep(0.5)
-        if transform:
-            self.__run_data_transform()
+        file_names = [filename + ".csv" for filename in self.PLAYERS_DICT]
+        dir = self.comp_name
+        scraper = sfc.FBRef()
+        try:
+            data = scraper.scrape_all_stats(year=2023, league=self.comp_name, normalize=True)
+        except:
+            # Catch and print any exceptions.
+            traceback.print_exc()
+        finally:
+            scraper.close()
+        raw_data = self.generate_raw_dataframes(data)
+        engineered_data = self.generate_dataframes(raw_data)
+        self.generate_files(dir, engineered_data, file_names)
+        
 
 class SoccerPlot:
     font_normal = os.path.join('..', 'fonts', 'Lora-VariableFont_wght.ttf')
@@ -602,20 +444,13 @@ class SoccerPlot:
 
 
 if __name__ == "__main__":
-    
-    brazil = 24
-    scrape = FbrefScraper(comp_id=brazil)
-    scrape.run(squad_stats=True)
 
-    argentina = 21
-    scrape = FbrefScraper(comp_id=argentina)
-    scrape.run(squad_stats=True)
+    scrape = FbrefScraper(comp_name="Argentina Liga Profesional")
+    scrape.run()
 
-    mex = 31
-    scrape = FbrefScraper(comp_id=mex, season='2023-2024')
-    scrape.run(squad_stats=True)
+    scrape = FbrefScraper(comp_name="Liga MX", season='2024')
+    scrape.run()
 
-    portugal = 32
-    scrape = FbrefScraper(comp_id=portugal, season='2023-2024')
-    scrape.run(squad_stats=True)
+    scrape = FbrefScraper(comp_name="Primeira Liga", season='2024')
+    scrape.run()
 

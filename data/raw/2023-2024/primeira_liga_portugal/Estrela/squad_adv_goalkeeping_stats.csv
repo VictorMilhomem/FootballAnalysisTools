@@ -1,7 +1,0 @@
-Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att (GK),Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
-Bruno Brigido,br BRA,GK,32-296,7.0,12,0,0,2,0,12.5,0.32,0.5,0.08,33,84,39.3,163,28,24.5,32.2,67,65.7,51.3,101,11,10.9,17,2.43,16.4,Matches
-Wagner Santos,br BRA,GK,25-246,4.7,4,0,0,2,0,4.0,0.34,0.0,0.0,17,51,33.3,147,37,20.4,29.9,40,52.5,43.7,81,6,7.4,10,2.09,14.9,Matches
-António Filipe de Carvalho,pt POR,GK,38-260,3.0,3,0,0,0,0,4.1,0.41,1.1,0.36,8,36,22.2,92,17,26.1,33.0,26,46.2,42.1,42,4,9.5,5,1.67,16.3,Matches
-Cambila,ao ANG,GK,21-228,0.2,3,0,0,1,0,3.3,0.48,0.3,1.4,0,0,,5,0,0.0,16.0,1,0.0,23.0,1,1,100.0,1,5.29,7.3,Matches
-Squad Total,,,27.2,15.0,22,0,0,5,0,23.9,0.35,1.9,0.13,58,171,33.9,407,82,23.1,,134,57.5,47.0,225,22,9.8,33,2.21,,
-Opponent Total,,,27.1,15.0,16,1,1,2,2,12.1,0.31,-1.9,-0.13,61,231,26.4,379,73,42.0,36.9,133,54.1,44.1,195,14,7.2,21,1.4,14.8,
