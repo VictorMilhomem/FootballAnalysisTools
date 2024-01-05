@@ -89,14 +89,12 @@ class FbrefScraper:
 
     def generate_files(self, dir: str, dfs: list, filenames: str):
         named_dataframes = self.file_names(dfs, filenames)
-        
-        dirname = os.path.join(self.COMP_DIR, dir)
 
         try:
-            os.mkdir(dirname)
+            os.mkdir(dir)
         except FileExistsError:
             pass
-        self.save_to_csv(named_dataframes, dirname)
+        self.save_to_csv(named_dataframes, dir)
 
     # Private functions
     def __clean_std_stats(self, dataframe):
@@ -119,7 +117,7 @@ class FbrefScraper:
         if not os.path.exists(self.COMP_DIR):
             os.mkdir(self.COMP_DIR)
         file_names = [filename + ".csv" for filename in self.PLAYERS_DICT]
-        dir = self.comp_name
+        dir = self.COMP_DIR
         scraper = sfc.FBRef()
         try:
             data = scraper.scrape_all_stats(year=2023, league=self.comp_name, normalize=True)
@@ -444,6 +442,9 @@ class SoccerPlot:
 
 
 if __name__ == "__main__":
+
+    scrape = FbrefScraper(comp_name="Brazilian Serie A")
+    scrape.run()
 
     scrape = FbrefScraper(comp_name="Argentina Liga Profesional")
     scrape.run()
