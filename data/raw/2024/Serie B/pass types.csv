@@ -1,0 +1,513 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Player Link_,Player ID_,Competition
+1,Oliver Abildgaard,DEN,MF,Como,27-212,1996,11.6,44.2,43.9,0.34,0.26,0.00,0.26,0.43,0.09,0.00,0.00,0.00,0.00,33.7,0.00,0.69,https://fbref.com/en/players/8f5cdf66/Oliver-Abildgaard,8f5cdf66,Serie B
+2,Fabio Abiuso,GRE,FW,Modena,20-340,2003,2.6,,,,,,,0.00,,,,,,,,,https://fbref.com/en/players/7e63b39c/Fabio-Abiuso,7e63b39c,Serie B
+3,Gonzalo Abrego,ARG,MF,Cremonese,24-001,2000,6.8,41.6,40.9,0.59,0.15,0.00,0.15,0.88,0.00,0.44,0.29,0.15,0.00,35.1,0.15,0.44,https://fbref.com/en/players/de8bad41/Gonzalo-Abrego,de8bad41,Serie B
+4,Gennaro Acampora,ITA,MF,Bari,29-285,1994,9.5,46.0,41.9,3.68,2.32,0.00,2.21,2.63,0.00,1.26,0.74,0.42,0.00,35.9,0.42,0.95,https://fbref.com/en/players/01040647/Gennaro-Acampora,01040647,Serie B
+5,Ismail Achik,ITA,"FW,MF",Bari,23-162,2000,5.6,42.1,33.8,8.39,1.96,0.00,0.36,13.6,0.89,5.54,2.86,1.79,0.18,24.1,0.00,3.57,https://fbref.com/en/players/b3996d42/Ismail-Achik,b3996d42,Serie B
+6,Claud Adjapong,ITA,DF,Ascoli,25-247,1998,7.7,37.1,28.7,8.44,0.52,0.00,0.26,2.60,7.92,0.00,0.00,0.00,0.00,24.4,0.00,0.65,https://fbref.com/en/players/ce5b170a/Claud-Adjapong,ce5b170a,Serie B
+7,Davide Adorni,ITA,DF,Brescia,31-152,1992,6.5,50.3,47.8,2.46,2.31,0.00,0.62,0.46,0.15,0.00,0.00,0.00,0.00,38.5,0.00,0.77,https://fbref.com/en/players/e43cb802/Davide-Adorni,e43cb802,Serie B
+8,Felix Afena-Gyan,GHA,"FW,DF",Cremonese,20-354,2003,1.8,33.9,32.2,1.67,0.00,0.00,0.00,0.56,0.56,0.00,0.00,0.00,0.00,27.8,0.00,1.67,https://fbref.com/en/players/0154d290/Felix-Afena-Gyan,0154d290,Serie B
+9,Vittorio Agostinelli,ITA,FW,Calcio Lecco 1912,21-321,2002,0.3,20.0,20.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,6.67,0.00,3.33,https://fbref.com/en/players/b49a4e1d/Vittorio-Agostinelli,b49a4e1d,Serie B
+10,Giorgio Altare,ITA,DF,Venezia,25-152,1998,16.0,65.6,63.9,1.63,1.31,0.00,0.31,0.44,0.25,0.00,0.00,0.00,0.00,52.9,0.00,0.38,https://fbref.com/en/players/aa5322d5/Giorgio-Altare,aa5322d5,Serie B
+11,Francesco Amatucci,ITA,MF,Cittadella,22-207,2001,9.1,27.6,26.8,0.66,0.22,0.00,0.22,0.66,0.33,0.00,0.00,0.00,0.00,19.3,0.11,0.66,https://fbref.com/en/players/3bb7b5be/Francesco-Amatucci,3bb7b5be,Serie B
+12,Giuseppe Ambrosino,ITA,FW,Catanzaro,20-120,2003,4.4,19.8,18.0,1.82,0.00,0.23,0.00,0.23,0.00,0.00,0.00,0.00,0.00,14.5,0.00,0.68,https://fbref.com/en/players/282947c7/Giuseppe-Ambrosino,282947c7,Serie B
+13,Kelvin Amian,FRA,DF,Spezia,25-334,1998,18.0,50.5,42.6,7.78,1.83,0.06,0.00,0.94,5.94,0.00,0.00,0.00,0.00,40.4,0.11,0.94,https://fbref.com/en/players/bcc81786/Kelvin-Amian,bcc81786,Serie B
+14,Nícolas Andrade,BRA,GK,Pisa,35-271,1988,19.0,35.5,28.0,7.42,2.42,0.05,0.00,0.00,0.00,0.00,0.00,0.00,0.00,26.8,0.11,0.00,https://fbref.com/en/players/326d09ef/Nicolas-Andrade,326d09ef,Serie B
+15,Lorenzo Andrenacci,ITA,GK,Brescia,29-006,1995,2.0,27.0,17.0,10.0,3.50,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,18.5,0.00,0.00,https://fbref.com/en/players/fe471a89/Lorenzo-Andrenacci,fe471a89,Serie B
+16,Matteo Angeli,ITA,DF,Cittadella,21-009,2002,5.7,39.8,37.0,2.63,2.63,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,31.6,0.18,0.18,https://fbref.com/en/players/f1474b3d/Matteo-Angeli,f1474b3d,Serie B
+17,Cristian Ansaldi,ARG,"DF,FW",Parma,37-110,1986,4.0,60.0,48.8,11.0,1.75,0.25,1.25,8.00,8.50,0.50,0.25,0.00,0.00,42.0,0.25,1.50,https://fbref.com/en/players/bbafc0c4/Cristian-Ansaldi,bbafc0c4,Serie B
+18,Janis Antiste,FRA,"FW,MF",Reggiana,21-143,2002,11.7,29.1,27.9,1.03,0.00,0.00,0.09,1.37,0.51,0.00,0.00,0.00,0.00,19.8,0.26,1.37,https://fbref.com/en/players/38d9ce53/Janis-Antiste,38d9ce53,Serie B
+19,Mirko Antonucci,ITA,"FW,MF",Spezia,24-303,1999,13.4,26.6,24.9,1.79,0.37,0.07,0.00,2.91,0.45,0.60,0.15,0.30,0.00,19.5,0.00,1.27,https://fbref.com/en/players/91976866/Mirko-Antonucci,91976866,Serie B
+20,Valentin Antov,BUL,DF,Cremonese,23-060,2000,12.1,56.9,52.8,3.97,1.07,0.00,0.08,0.50,2.89,0.00,0.00,0.00,0.00,48.3,0.17,0.41,https://fbref.com/en/players/8f68aa41/Valentin-Antov,8f68aa41,Serie B
+21,Mattia Aramu,ITA,"FW,MF",Bari,28-239,1995,6.5,36.9,28.8,8.00,2.77,0.00,0.15,6.62,1.38,3.08,1.85,0.62,0.00,26.3,0.15,1.23,https://fbref.com/en/players/0847b5a5/Mattia-Aramu,0847b5a5,Serie B
+22,Alessandro Arena,ITA,"FW,MF",Pisa,23-158,2000,5.8,34.5,32.2,2.07,0.34,0.17,0.17,1.90,0.00,1.03,0.34,0.34,0.00,26.6,0.17,1.03,https://fbref.com/en/players/0f1cc688/Alessandro-Arena,0f1cc688,Serie B
+23,Alessandro Arioli,ITA,FW,Cosenza,20-229,2003,1.9,21.6,20.0,1.58,0.00,0.00,0.00,0.00,1.05,0.00,0.00,0.00,0.00,13.2,0.00,1.05,https://fbref.com/en/players/9c58b9b3/Alessandro-Arioli,9c58b9b3,Serie B
+24,Tommaso Arrigoni,ITA,"MF,FW",Como,29-316,1994,0.3,93.3,80.0,13.3,0.00,0.00,0.00,16.7,0.00,13.3,10.0,3.33,0.00,70.0,0.00,0.00,https://fbref.com/en/players/45484d23/Tommaso-Arrigoni,45484d23,Serie B
+25,Kristoffer Askildsen,NOR,"MF,FW",Sampdoria,22-364,2001,2.4,47.1,45.8,0.83,0.00,0.42,0.00,1.25,0.00,0.42,0.42,0.00,0.00,26.7,0.42,1.67,https://fbref.com/en/players/a69cc629/Kristoffer-Askildsen,a69cc629,Serie B
+26,Giuseppe Aurelio,ITA,DF,Palermo,23-292,2000,5.7,53.2,42.6,10.4,0.53,0.00,0.18,3.86,9.82,0.00,0.00,0.00,0.00,38.8,0.18,2.28,https://fbref.com/en/players/3bd2a854/Giuseppe-Aurelio,3bd2a854,Serie B
+27,Loris Bacchetti,ITA,DF,FeralpiSalò,30-336,1993,7.8,44.4,41.2,3.21,2.05,0.13,0.13,0.38,1.15,0.00,0.00,0.00,0.00,34.9,0.00,0.38,https://fbref.com/en/players/5c47b5c6/Loris-Bacchetti,5c47b5c6,Serie B
+28,Enrico Baldini,ITA,"FW,MF",Cittadella,27-056,1996,0.6,43.3,41.7,1.67,1.67,0.00,0.00,1.67,0.00,0.00,0.00,0.00,0.00,30.0,0.00,0.00,https://fbref.com/en/players/0d785711/Enrico-Baldini,0d785711,Serie B
+29,Davide Balestrero,ITA,"MF,DF",FeralpiSalò,28-094,1995,16.5,27.4,25.2,2.06,0.61,0.00,0.12,0.36,1.03,0.00,0.00,0.00,0.00,18.8,0.18,0.91,https://fbref.com/en/players/b222740a/Davide-Balestrero,b222740a,Serie B
+30,Botond Balogh,HUN,DF,Parma,21-216,2002,8.0,52.5,50.5,2.00,1.50,0.00,0.13,0.00,0.25,0.00,0.00,0.00,0.00,46.3,0.00,0.00,https://fbref.com/en/players/348bafd4/Botond-Balogh,348bafd4,Serie B
+31,Filippo Bandinelli,ITA,MF,Spezia,28-285,1995,12.7,59.8,57.8,1.65,1.02,0.08,0.31,3.46,0.31,0.31,0.00,0.16,0.00,46.7,0.39,1.50,https://fbref.com/en/players/d44360be/Filippo-Bandinelli,d44360be,Serie B
+32,Federico Barba,ITA,DF,Como,30-129,1993,16.4,50.6,46.2,4.27,3.05,0.00,0.30,0.06,0.79,0.00,0.00,0.00,0.00,41.7,0.12,0.55,https://fbref.com/en/players/c010b898/Federico-Barba,c010b898,Serie B
+33,Andrea Barberis,ITA,"MF,FW",Pisa,30-028,1993,4.8,57.9,52.7,5.00,2.29,0.00,0.00,3.54,0.00,2.50,0.63,1.25,0.00,46.9,0.21,0.83,https://fbref.com/en/players/32ebfe1e/Andrea-Barberis,32ebfe1e,Serie B
+34,Tommaso Barbieri,ITA,DF,Pisa,21-135,2002,9.5,54.9,45.1,9.89,0.84,0.00,0.00,4.95,9.05,0.00,0.00,0.00,0.00,41.9,0.00,2.21,https://fbref.com/en/players/6f1d7aa8/Tommaso-Barbieri,6f1d7aa8,Serie B
+35,Francesco Bardi,ITA,GK,Reggiana,31-355,1992,19.0,28.1,16.7,11.3,2.68,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,18.9,0.11,0.00,https://fbref.com/en/players/0acda699/Francesco-Bardi,0acda699,Serie B
+36,Davide Barosi,ITA,GK,Ascoli,23-284,2000,2.3,30.9,17.8,13.0,4.35,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,23.0,0.00,0.00,https://fbref.com/en/players/fea55381/Davide-Barosi,fea55381,Serie B
+37,Antonio Barreca,ITA,DF,Sampdoria,28-296,1995,4.8,54.0,43.3,10.6,1.67,0.00,0.00,4.79,6.88,2.08,0.63,1.25,0.00,38.8,0.00,2.08,https://fbref.com/en/players/6a189491/Antonio-Barreca,6a189491,Serie B
+38,Daniele Baselli,ITA,"MF,FW",Como,31-302,1992,3.8,56.8,54.5,2.11,1.05,0.26,0.00,1.05,0.26,0.79,0.26,0.53,0.00,45.0,0.26,1.32,https://fbref.com/en/players/ea06dd97/Daniele-Baselli,ea06dd97,Serie B
+39,Simone Bastoni,ITA,DF,Spezia,27-064,1996,1.2,68.3,51.7,16.7,1.67,0.00,0.00,2.50,13.3,1.67,0.00,1.67,0.00,50.0,0.00,0.83,https://fbref.com/en/players/1ac232b8/Simone-Bastoni,1ac232b8,Serie B
+40,Thomas Battistella,ITA,"MF,DF",Modena,22-163,2001,1.4,35.7,35.7,0.00,0.00,0.00,0.00,1.43,0.00,0.00,0.00,0.00,0.00,26.4,0.00,3.57,https://fbref.com/en/players/1ebee5ea/Thomas-Battistella,1ebee5ea,Serie B
+41,Matteo Battistini,ITA,DF,Calcio Lecco 1912,29-324,1994,6.6,37.0,34.8,1.97,1.21,0.00,0.30,0.45,0.76,0.00,0.00,0.00,0.00,25.5,0.15,0.76,https://fbref.com/en/players/17f7098a/Matteo-Battistini,17f7098a,Serie B
+42,Brian Bayeye,,DF,Ascoli,23-192,2000,11.6,44.0,33.9,9.91,0.17,0.09,0.00,3.36,9.74,0.00,0.00,0.00,0.00,31.1,0.17,1.03,https://fbref.com/en/players/78e6bf2c/Brian-Bayeye,78e6bf2c,Serie B
+43,Tjaš Begić,SVN,"MF,FW",Parma,20-192,2003,2.6,34.2,30.4,3.46,0.38,0.00,0.00,2.31,1.54,1.15,0.38,0.00,0.00,26.9,0.38,2.31,https://fbref.com/en/players/7429c2bf/Tjas-Begic,7429c2bf,Serie B
+44,Alessandro Bellemo,ITA,MF,Como,28-154,1995,17.0,36.9,35.4,1.41,1.06,0.18,0.06,0.41,0.35,0.00,0.00,0.00,0.00,30.1,0.12,0.59,https://fbref.com/en/players/fb8b8534/Alessandro-Bellemo,fb8b8534,Serie B
+45,Nicola Bellomo,ITA,"MF,FW",Bari,32-324,1991,2.3,56.1,43.9,11.7,5.65,0.00,0.87,13.5,0.87,5.22,1.74,2.17,0.00,34.8,0.43,0.43,https://fbref.com/en/players/e69a103f/Nicola-Bellomo,e69a103f,Serie B
+46,Giuseppe Bellusci,ITA,DF,Ascoli,34-140,1989,13.5,50.4,44.7,5.33,3.56,0.00,0.67,0.52,0.96,0.07,0.00,0.07,0.00,37.0,0.44,0.44,https://fbref.com/en/players/7f1c3bca/Giuseppe-Bellusci,7f1c3bca,Serie B
+47,Ahmad Benali,LBY,MF,Bari,31-335,1992,8.5,61.5,55.6,5.88,4.24,0.00,0.35,1.06,0.47,0.35,0.12,0.00,0.00,53.3,0.00,1.88,https://fbref.com/en/players/a128b07e/Ahmad-Benali,a128b07e,Serie B
+48,Leonardo Benedetti,ITA,MF,Sampdoria,23-216,2000,2.3,37.4,37.4,0.00,0.00,0.00,0.00,1.74,0.00,0.00,0.00,0.00,0.00,27.0,0.00,0.87,https://fbref.com/en/players/76ff1fa3/Leonardo-Benedetti,76ff1fa3,Serie B
+49,Adrian Benedyczak,POL,FW,Parma,23-045,2000,11.3,26.5,25.8,0.71,0.09,0.18,0.35,1.59,0.44,0.09,0.00,0.00,0.00,16.2,0.00,0.88,https://fbref.com/en/players/3f448184/Adrian-Benedyczak,3f448184,Serie B
+50,Bartosz Bereszyński,POL,DF,Sampdoria,31-180,1992,1.0,61.0,50.0,11.0,1.00,0.00,0.00,0.00,10.0,0.00,0.00,0.00,0.00,50.0,0.00,3.00,https://fbref.com/en/players/61b3978f/Bartosz-Bereszynski,61b3978f,Serie B
+51,Federico Bergonzi,ITA,DF,FeralpiSalò,22-361,2001,11.3,52.8,42.9,9.91,1.15,0.00,0.18,1.15,8.76,0.00,0.00,0.00,0.00,42.1,0.00,0.71,https://fbref.com/en/players/1e4d20a3/Federico-Bergonzi,1e4d20a3,Serie B
+52,Adrian Bernabe,ESP,MF,Parma,22-227,2001,15.9,57.8,53.0,4.53,2.52,0.44,1.26,2.39,0.38,0.69,0.44,0.06,0.00,47.1,0.25,0.94,https://fbref.com/en/players/548672b4/Adrian-Bernabe,548672b4,Serie B
+53,Massimo Bertagnoli,ITA,MF,Brescia,24-316,1999,6.1,35.7,34.4,1.31,0.49,0.00,0.16,0.66,0.49,0.33,0.00,0.00,0.00,29.3,0.00,0.33,https://fbref.com/en/players/2260d3d3/Massimo-Bertagnoli,2260d3d3,Serie B
+54,Nicolò Bertola,ITA,DF,Spezia,20-291,2003,7.5,48.4,45.3,3.07,2.53,0.00,0.13,0.13,0.40,0.00,0.00,0.00,0.00,40.5,0.00,0.27,https://fbref.com/en/players/04b40c58/Nicolo-Bertola,04b40c58,Serie B
+55,Andrea Bertolacci,ITA,MF,Cremonese,32-362,1991,2.9,44.1,38.3,5.86,1.72,0.00,0.34,3.79,0.00,4.14,1.72,1.38,0.00,34.1,0.00,0.69,https://fbref.com/en/players/c75b6a02/Andrea-Bertolacci,c75b6a02,Serie B
+56,Pietro Beruatto,ITA,DF,Pisa,25-018,1998,14.9,57.7,48.7,8.93,1.54,0.00,0.13,3.83,7.05,0.34,0.07,0.27,0.00,47.7,0.13,1.34,https://fbref.com/en/players/3a0f199a/Pietro-Beruatto,3a0f199a,Serie B
+57,Michele Besaggio,ITA,MF,Brescia,21-255,2002,2.9,30.0,27.6,2.41,1.38,0.34,0.34,2.07,0.00,1.03,0.69,0.00,0.00,20.3,0.00,1.03,https://fbref.com/en/players/6fcfe7e8/Michele-Besaggio,6fcfe7e8,Serie B
+58,Matteo Bianchetti,ITA,DF,Cremonese,30-297,1993,15.2,52.4,46.3,5.92,2.89,0.00,0.33,0.20,2.96,0.00,0.00,0.00,0.00,44.1,0.26,0.46,https://fbref.com/en/players/b3a20f18/Matteo-Bianchetti,b3a20f18,Serie B
+59,Alessandro Bianco,ITA,MF,Reggiana,21-099,2002,17.1,60.0,55.8,3.86,2.81,0.29,0.12,1.11,0.35,0.58,0.18,0.18,0.06,49.1,0.35,0.94,https://fbref.com/en/players/d65cf468/Alessandro-Bianco,d65cf468,Serie B
+60,Alessandro Bianconi,ITA,DF,Calcio Lecco 1912,24-353,1999,12.2,39.8,38.1,1.64,1.31,0.00,0.33,0.08,0.08,0.00,0.00,0.00,0.00,35.2,0.08,0.25,https://fbref.com/en/players/f7699da7/Alessandro-Bianconi,f7699da7,Serie B
+61,Tommaso Biasci,ITA,"FW,MF",Catanzaro,29-059,1994,12.8,23.0,22.0,0.63,0.00,0.08,0.08,0.31,0.08,0.00,0.00,0.00,0.00,15.6,0.31,1.48,https://fbref.com/en/players/0926f64c/Tommaso-Biasci,0926f64c,Serie B
+62,Dimitri Bisoli,ITA,MF,Brescia,29-289,1994,11.8,44.5,43.7,0.51,0.42,0.00,0.00,1.86,0.08,0.00,0.00,0.00,0.00,32.5,0.25,0.76,https://fbref.com/en/players/16569fef/Dimitri-Bisoli,16569fef,Serie B
+63,Bjarki Bjarkason,ISL,"MF,FW",Venezia,23-242,2000,5.8,47.6,44.1,3.28,0.00,0.17,0.00,4.66,0.69,2.59,0.00,2.24,0.00,34.7,0.17,2.24,https://fbref.com/en/players/f1d25de7/Bjarki-Bjarkason,f1d25de7,Serie B
+64,Birkir Bjarnason,ISL,"MF,FW",Brescia,35-226,1988,11.9,32.8,28.2,4.62,1.60,0.17,0.17,3.36,0.25,2.27,1.09,0.67,0.00,25.0,0.00,0.76,https://fbref.com/en/players/da13074e/Birkir-Bjarnason,da13074e,Serie B
+65,Alejandro Blanco,ESP,MF,Como,25-023,1998,0.5,34.0,34.0,0.00,0.00,0.00,0.00,4.00,0.00,0.00,0.00,0.00,0.00,26.0,0.00,0.00,https://fbref.com/en/players/c4dce677/Alejandro-Blanco,c4dce677,Serie B
+66,Luka Bogdan,CRO,DF,Ternana,27-288,1996,1.0,53.0,51.0,2.00,1.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00,0.00,36.0,0.00,0.00,https://fbref.com/en/players/cb678320/Luka-Bogdan,cb678320,Serie B
+67,Nicholas Bonfanti,ITA,FW,Modena,21-286,2002,4.5,11.1,10.9,0.22,0.00,0.00,0.00,0.44,0.00,0.00,0.00,0.00,0.00,7.33,0.00,0.44,https://fbref.com/en/players/d3e93b43/Nicholas-Bonfanti,d3e93b43,Serie B
+68,Ange-Yoan Bonny,FRA,FW,Parma,20-075,2003,10.9,23.2,22.7,0.55,0.00,0.00,0.37,0.37,0.09,0.00,0.00,0.00,0.00,18.2,0.00,0.46,https://fbref.com/en/players/64629ba4/Ange-Yoan-Bonny,64629ba4,Serie B
+69,Fabio Borini,ITA,"FW,MF",Sampdoria,32-285,1991,11.4,29.8,28.2,1.58,0.26,0.09,0.88,1.67,0.88,0.09,0.00,0.00,0.00,21.4,0.00,1.32,https://fbref.com/en/players/ef5b337e/Fabio-Borini,ef5b337e,Serie B
+70,Gennaro Borrelli,ITA,FW,Brescia,23-304,2000,10.2,19.3,19.2,0.00,0.00,0.20,0.29,0.10,0.00,0.00,0.00,0.00,0.00,10.5,0.10,0.98,https://fbref.com/en/players/04c4edc1/Gennaro-Borrelli,04c4edc1,Serie B
+71,Eric Botteghin,BRA,DF,Ascoli,36-130,1987,14.0,42.9,40.0,2.86,1.50,0.00,0.14,0.14,0.14,0.00,0.00,0.00,0.00,35.0,0.07,0.21,https://fbref.com/en/players/eef95b11/Eric-Botteghin,eef95b11,Serie B
+72,Kleis Bozhanaj,ALB,"MF,FW",Modena,22-313,2001,3.2,18.4,17.8,0.63,0.31,0.00,0.00,0.31,0.00,0.31,0.00,0.00,0.00,14.7,0.00,0.31,https://fbref.com/en/players/09ef21ea/Kleis-Bozhanaj,09ef21ea,Serie B
+73,Simone Branca,ITA,MF,Cittadella,31-289,1992,15.1,60.3,53.2,7.02,4.57,0.07,1.19,3.11,0.26,1.26,0.40,0.73,0.00,46.3,0.13,1.19,https://fbref.com/en/players/ce50ade3/Simone-Branca,ce50ade3,Serie B
+74,Brenno,BRA,GK,Bari,24-282,1999,18.7,23.1,13.0,9.89,2.30,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,15.3,0.16,0.11,https://fbref.com/en/players/f002e8eb/Brenno,f002e8eb,Serie B
+75,Gjyla Briajan,ITA,FW,FeralpiSalò,16-259,2007,0.1,,,,,,,0.00,,,,,,,,,https://fbref.com/en/players/4dbe8d7a/Gjyla-Briajan,4dbe8d7a,Serie B
+76,Nicolò Brighenti,ITA,DF,Catanzaro,34-160,1989,18.9,75.5,68.0,7.30,3.54,0.00,0.05,0.00,0.16,0.00,0.00,0.00,0.00,66.5,0.16,0.05,https://fbref.com/en/players/54c356b0/Nicolo-Brighenti,54c356b0,Serie B
+77,Enrico Brignola,ITA,"MF,FW",Catanzaro,24-184,1999,4.3,29.5,27.7,1.63,0.00,0.00,0.00,1.40,1.40,0.00,0.00,0.00,0.00,21.9,0.23,1.16,https://fbref.com/en/players/d0643f8f/Enrico-Brignola,d0643f8f,Serie B
+78,Jérémie Broh,ITA,MF,Südtirol,26-293,1997,7.5,33.5,31.2,1.73,1.20,0.27,0.80,0.53,0.27,0.00,0.00,0.00,0.00,25.5,0.53,0.93,https://fbref.com/en/players/1af19328/Jeremie-Broh,1af19328,Serie B
+79,Bruno,BRA,GK,Venezia,25-222,1998,9.0,35.1,25.7,9.11,2.22,0.11,0.11,0.00,0.00,0.00,0.00,0.00,0.00,26.4,0.33,0.00,https://fbref.com/en/players/e51336b7/Bruno,e51336b7,Serie B
+80,Matteo Brunori,ITA,FW,Palermo,29-068,1994,17.2,16.0,14.9,0.99,0.00,0.17,0.06,0.99,0.00,0.06,0.00,0.00,0.00,10.8,0.17,1.45,https://fbref.com/en/players/ad48aee0/Matteo-Brunori,ad48aee0,Serie B
+81,Marcel Büchel,LIE,MF,Ascoli,32-296,1991,0.4,32.5,32.5,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,20.0,0.00,0.00,https://fbref.com/en/players/2edeb221/Marcel-Buchel,2edeb221,Serie B
+82,Cristian Buonaiuto,ITA,"MF,FW",Cremonese,31-010,1992,6.7,54.9,47.6,6.87,1.64,0.15,0.45,7.46,1.49,3.73,2.09,0.60,0.00,40.3,0.45,1.34,https://fbref.com/en/players/f3a9fa26/Cristian-Buonaiuto,f3a9fa26,Serie B
+83,Lorenzo Busato,ITA,DF,Venezia,19-333,2004,0.4,95.0,87.5,7.50,5.00,0.00,0.00,0.00,2.50,0.00,0.00,0.00,0.00,77.5,0.00,2.50,https://fbref.com/en/players/e6923d7a/Lorenzo-Busato,e6923d7a,Serie B
+84,Gianluca Busio,USA,MF,Venezia,21-225,2002,15.4,47.5,45.6,1.82,1.56,0.13,0.39,0.65,0.19,0.00,0.00,0.00,0.00,39.7,0.00,0.91,https://fbref.com/en/players/4a0b7f07/Gianluca-Busio,4a0b7f07,Serie B
+85,Nicolò Buso,ITA,FW,Calcio Lecco 1912,23-341,2000,13.0,21.7,21.5,0.23,0.08,0.00,0.08,1.08,0.15,0.00,0.00,0.00,0.00,16.3,0.00,0.54,https://fbref.com/en/players/2bfbc2c8/Nicolo-Buso,2bfbc2c8,Serie B
+86,Karlo Butić,CRO,FW,FeralpiSalò,25-140,1998,10.4,21.7,20.5,1.06,0.00,0.00,0.19,0.29,0.00,0.00,0.00,0.00,0.00,15.0,0.19,0.96,https://fbref.com/en/players/165f9fbf/Karlo-Butic,165f9fbf,Serie B
+87,Alessio Buttaro,ITA,"DF,FW",Palermo,21-120,2002,2.2,35.0,30.9,3.64,0.00,0.00,0.00,6.36,3.64,0.00,0.00,0.00,0.00,20.0,0.45,0.45,https://fbref.com/en/players/2b43ebed/Alessio-Buttaro,2b43ebed,Serie B
+88,Andrea Cagnano,ITA,DF,Südtirol,25-205,1998,3.5,57.4,45.4,12.0,1.71,0.00,0.57,4.86,10.3,0.00,0.00,0.00,0.00,38.6,0.00,1.43,https://fbref.com/en/players/fae9dd51/Andrea-Cagnano,fae9dd51,Serie B
+89,Arturo Calabresi,ITA,DF,Pisa,27-297,1996,3.7,51.9,43.8,8.11,2.16,0.00,0.27,1.89,5.95,0.00,0.00,0.00,0.00,40.8,0.00,1.08,https://fbref.com/en/players/34bb6fbd/Arturo-Calabresi,34bb6fbd,Serie B
+90,Fabrizio Caligara,ITA,MF,Ascoli,23-271,2000,7.2,36.0,33.5,2.50,0.97,0.00,0.69,1.67,0.14,0.69,0.00,0.56,0.00,27.6,0.00,1.25,https://fbref.com/en/players/22ca11f1/Fabrizio-Caligara,22ca11f1,Serie B
+91,Giacomo Calò,ITA,MF,Cosenza,26-337,1997,15.1,57.2,47.2,9.47,4.97,0.20,1.13,8.41,0.13,4.30,1.72,2.45,0.00,40.8,0.46,0.66,https://fbref.com/en/players/d2ed2e04/Giacomo-Calo,d2ed2e04,Serie B
+92,Drissa Camara,CIV,"MF,FW",Parma,21-324,2002,1.9,38.4,36.3,2.11,0.00,0.00,0.53,1.05,2.11,0.00,0.00,0.00,0.00,30.0,0.00,0.53,https://fbref.com/en/players/543d9d2b/Drissa-Camara,543d9d2b,Serie B
+93,Michele Camporese,ITA,DF,FeralpiSalò,31-234,1992,1.5,39.3,36.0,3.33,2.00,0.00,0.00,0.67,1.33,0.00,0.00,0.00,0.00,32.7,0.00,0.00,https://fbref.com/en/players/035c1d09/Michele-Camporese,035c1d09,Serie B
+94,Antonio Candela,ITA,DF,Venezia,23-256,2000,16.1,59.3,47.6,11.7,0.31,0.00,0.19,4.41,11.3,0.06,0.00,0.00,0.00,48.3,0.00,1.55,https://fbref.com/en/players/d4307c52/Antonio-Candela,d4307c52,Serie B
+95,Pietro Candelari,ITA,"DF,MF",Spezia,18-352,2005,1.7,22.9,21.2,1.76,0.59,0.00,0.00,4.12,1.18,0.00,0.00,0.00,0.00,14.1,0.00,0.59,https://fbref.com/en/players/356ae640/Pietro-Candelari,356ae640,Serie B
+96,Simone Canestrelli,ITA,DF,Pisa,23-119,2000,18.0,63.4,60.3,2.89,1.89,0.06,0.22,0.33,0.28,0.00,0.00,0.00,0.00,53.9,0.17,0.50,https://fbref.com/en/players/d8c54a50/Simone-Canestrelli,d8c54a50,Serie B
+97,Luigi Canotto,ITA,FW,Cosenza,29-234,1994,4.2,29.5,28.6,0.71,0.00,0.00,0.00,4.76,0.48,0.24,0.00,0.00,0.00,20.2,0.24,1.67,https://fbref.com/en/players/911080b1/Luigi-Canotto,911080b1,Serie B
+98,Alessandro Caporale,ITA,DF,Calcio Lecco 1912,28-072,1995,17.0,49.6,42.6,6.71,0.53,0.00,0.47,2.71,6.18,0.00,0.00,0.00,0.00,32.5,0.29,0.71,https://fbref.com/en/players/b99fe4b3/Alessandro-Caporale,b99fe4b3,Serie B
+99,Marco Capuano,ITA,DF,Ternana,32-086,1991,12.3,47.2,45.8,1.38,1.30,0.08,0.00,0.08,0.08,0.00,0.00,0.00,0.00,39.9,0.08,0.08,https://fbref.com/en/players/616aea37/Marco-Capuano,616aea37,Serie B
+100,Antonio Caracciolo,ITA,DF,Pisa,33-192,1990,5.2,58.7,55.2,3.46,1.54,0.00,0.00,0.19,0.38,0.00,0.00,0.00,0.00,50.4,0.00,0.00,https://fbref.com/en/players/99d8fc35/Antonio-Caracciolo,99d8fc35,Serie B
+101,Lorenzo Carissoni,ITA,DF,Cittadella,26-335,1997,15.3,56.4,42.0,14.2,0.65,0.07,0.20,4.31,13.5,0.00,0.00,0.00,0.00,33.7,0.20,2.29,https://fbref.com/en/players/83650393/Lorenzo-Carissoni,83650393,Serie B
+102,Federico Carraro,ITA,MF,FeralpiSalò,31-199,1992,3.4,73.2,66.5,6.76,4.71,0.00,1.47,2.65,0.29,1.76,0.29,1.47,0.00,60.6,0.00,0.88,https://fbref.com/en/players/41e7ce6b/Federico-Carraro,41e7ce6b,Serie B
+103,Giuseppe Carriero,ITA,MF,Cittadella,26-126,1997,9.9,23.4,22.8,0.61,0.00,0.00,0.30,1.31,0.40,0.00,0.00,0.00,0.00,15.6,0.00,0.61,https://fbref.com/en/players/01a7093a/Giuseppe-Carriero,01a7093a,Serie B
+104,Tiago Casasola,ARG,DF,Ternana,28-150,1995,14.9,47.2,39.1,7.79,0.34,0.13,0.20,5.50,7.45,0.00,0.00,0.00,0.00,29.4,0.34,2.08,https://fbref.com/en/players/756abb80/Tiago-Casasola,756abb80,Serie B
+105,Daniele Casiraghi,ITA,MF,Südtirol,30-304,1993,16.7,42.5,36.9,5.51,1.98,0.12,0.72,6.23,0.84,2.69,0.96,1.32,0.00,28.3,0.06,2.34,https://fbref.com/en/players/0408b043/Daniele-Casiraghi,0408b043,Serie B
+106,Tommaso Cassandro,ITA,"DF,MF",Como,23-364,2000,7.2,40.4,32.6,7.64,0.28,0.14,0.14,4.03,7.36,0.00,0.00,0.00,0.00,30.3,0.14,1.39,https://fbref.com/en/players/6c4307ee/Tommaso-Cassandro,6c4307ee,Serie B
+107,Claudio Cassano,ITA,MF,Cittadella,20-170,2003,11.0,32.5,29.5,3.00,1.00,0.09,0.00,4.55,0.09,1.91,0.45,1.09,0.00,23.3,0.00,1.27,https://fbref.com/en/players/a2f5d76e/Claudio-Cassano,a2f5d76e,Serie B
+108,Francesco Cassata,ITA,"MF,DF",Spezia,26-176,1997,10.1,46.2,42.3,3.96,0.20,0.00,0.50,2.18,3.76,0.00,0.00,0.00,0.00,36.8,0.00,0.99,https://fbref.com/en/players/96960855/Francesco-Cassata,96960855,Serie B
+109,Michele Castagnetti,ITA,MF,Cremonese,34-012,1989,15.3,60.5,54.2,6.14,2.94,0.13,0.33,3.20,0.13,3.01,1.05,0.78,0.00,49.0,0.13,0.65,https://fbref.com/en/players/ad92526f/Michele-Castagnetti,ad92526f,Serie B
+110,Cristian Cauz,ITA,DF,Modena,27-146,1996,5.7,46.0,43.5,2.46,1.05,0.00,0.00,0.00,1.05,0.00,0.00,0.00,0.00,39.5,0.00,0.35,https://fbref.com/en/players/3d864055/Cristian-Cauz,3d864055,Serie B
+111,Pietro Ceccaroni,ITA,DF,Palermo,28-018,1995,12.2,60.9,56.2,4.59,2.30,0.00,0.00,0.57,0.66,0.00,0.00,0.00,0.00,53.0,0.08,0.82,https://fbref.com/en/players/4d1efb48/Pietro-Ceccaroni,4d1efb48,Serie B
+112,Vedran Celjak,CRO,DF,Calcio Lecco 1912,32-148,1991,14.0,49.8,47.3,2.50,1.79,0.00,0.64,0.50,0.50,0.00,0.00,0.00,0.00,42.7,0.00,0.14,https://fbref.com/en/players/4ab0b9cc/Vedran-Celjak,4ab0b9cc,Serie B
+113,Alessandro Celli,ITA,DF,Ternana,29-345,1994,9.2,51.8,43.9,7.61,1.20,0.00,0.33,2.28,6.41,0.00,0.00,0.00,0.00,37.6,0.33,0.65,https://fbref.com/en/players/0df470ed/Alessandro-Celli,0df470ed,Serie B
+114,Luca Ceppitelli,ITA,DF,FeralpiSalò,34-150,1989,14.5,41.9,39.0,2.90,2.00,0.00,0.07,0.00,0.07,0.00,0.00,0.00,0.00,34.1,0.07,0.07,https://fbref.com/en/players/7d50454d/Luca-Ceppitelli,7d50454d,Serie B
+115,Alberto Cerri,ITA,FW,Como,27-267,1996,2.0,28.0,26.0,2.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,17.5,0.00,1.00,https://fbref.com/en/players/1079c685/Alberto-Cerri,1079c685,Serie B
+116,Moutir Chajia,BEL,"FW,MF",Como,25-218,1998,6.5,32.0,29.2,2.77,0.62,0.46,0.31,5.08,0.15,2.00,1.08,0.15,0.00,24.2,0.00,2.15,https://fbref.com/en/players/0fd8bc86/Moutir-Chajia,0fd8bc86,Serie B
+117,Gabriel Charpentier,CGO,"FW,MF",Parma,24-236,1999,3.2,28.4,27.8,0.63,0.00,0.00,0.00,1.88,0.00,0.00,0.00,0.00,0.00,17.8,0.00,1.56,https://fbref.com/en/players/c52bea9e/Gabriel-Charpentier,c52bea9e,Serie B
+118,Denis Cheryshev,RUS,"FW,MF",Venezia,33-013,1990,1.8,63.9,52.8,11.1,3.33,1.11,0.00,10.6,1.67,6.11,3.33,1.67,0.00,46.1,0.00,1.67,https://fbref.com/en/players/0ac94a23/Denis-Cheryshev,0ac94a23,Serie B
+119,Leandro Chichizola,ARG,GK,Parma,33-287,1990,19.0,43.6,33.3,10.2,4.26,0.00,0.21,0.00,0.00,0.00,0.00,0.00,0.00,28.6,0.16,0.00,https://fbref.com/en/players/8d957256/Leandro-Chichizola,8d957256,Serie B
+120,Akpa Chukwu Hemsley,ITA,"FW,MF",Bari,19-007,2005,0.3,13.3,13.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,6.67,0.00,0.00,https://fbref.com/en/players/1573bc4b/Akpa-Chukwu-Hemsley,1573bc4b,Serie B
+121,Riccardo Ciervo,ITA,"MF,FW",Südtirol,21-282,2002,10.0,31.2,29.5,1.70,0.00,0.10,0.80,4.40,1.30,0.40,0.00,0.30,0.00,21.6,0.00,1.40,https://fbref.com/en/players/da77b60b/Riccardo-Ciervo,da77b60b,Serie B
+122,Luca Cigarini,ITA,MF,Reggiana,37-202,1986,5.0,92.8,82.4,10.2,6.60,0.20,0.20,5.40,0.20,3.40,0.60,1.80,0.20,74.2,0.20,1.00,https://fbref.com/en/players/ae64d449/Luca-Cigarini,ae64d449,Serie B
+123,Baldovino Cimino,ITA,DF,Cosenza,19-322,2004,5.4,41.9,32.2,9.63,0.19,0.00,0.19,4.81,9.44,0.00,0.00,0.00,0.00,29.1,0.00,1.11,https://fbref.com/en/players/d57c4046/Baldovino-Cimino,d57c4046,Serie B
+124,Daniel Ciofani,ITA,"FW,MF",Cremonese,38-161,1985,1.1,13.6,13.6,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,9.09,0.00,0.00,https://fbref.com/en/players/b09a3ecc/Daniel-Ciofani,b09a3ecc,Serie B
+125,Tio Cipot,SVN,"FW,MF",Spezia,20-263,2003,2.0,29.5,25.5,4.00,1.00,0.00,0.00,2.00,2.50,0.00,0.00,0.00,0.00,23.0,0.00,0.50,https://fbref.com/en/players/039a4fb6/Tio-Cipot,039a4fb6,Serie B
+126,Alessandro Circati,AUS,DF,Parma,20-090,2003,14.0,46.1,43.8,2.21,1.36,0.00,0.07,0.00,0.00,0.00,0.00,0.00,0.00,40.4,0.14,0.36,https://fbref.com/en/players/1223765c/Alessandro-Circati,1223765c,Serie B
+127,Andrea Cisco,ITA,MF,Südtirol,25-092,1998,3.4,25.3,22.4,2.35,0.00,0.00,0.00,5.00,1.18,1.18,0.29,0.29,0.00,12.4,0.59,3.53,https://fbref.com/en/players/9796bdc9/Andrea-Cisco,9796bdc9,Serie B
+128,Andrea Cistana,ITA,DF,Brescia,26-282,1997,14.0,50.9,47.9,2.86,2.50,0.07,0.43,0.07,0.21,0.00,0.00,0.00,0.00,42.6,0.14,0.21,https://fbref.com/en/players/fe6a7685/Andrea-Cistana,fe6a7685,Serie B
+129,Massimo Coda,ITA,FW,Cremonese,35-059,1988,14.9,25.0,23.4,1.41,0.07,0.00,0.20,0.81,0.07,0.00,0.00,0.00,0.00,16.8,0.20,0.87,https://fbref.com/en/players/4c7940d6/Massimo-Coda,4c7940d6,Serie B
+130,Antonio Čolak,CRO,FW,Parma,30-113,1993,5.3,20.8,19.6,1.13,0.00,0.00,0.00,0.38,0.00,0.00,0.00,0.00,0.00,13.4,0.00,1.51,https://fbref.com/en/players/bfde3de5/Antonio-Colak,bfde3de5,Serie B
+131,Michele Collocolo,ITA,MF,Cremonese,24-061,1999,12.3,35.8,34.6,1.22,0.24,0.08,0.41,1.22,0.98,0.00,0.00,0.00,0.00,28.3,0.00,0.57,https://fbref.com/en/players/b7946402/Michele-Collocolo,b7946402,Serie B
+132,Mattia Compagnon,ITA,"FW,MF",FeralpiSalò,22-063,2001,10.8,19.1,17.2,1.85,0.65,0.09,0.28,2.22,0.09,1.11,0.28,0.37,0.00,13.6,0.00,0.65,https://fbref.com/en/players/270d0d18/Mattia-Compagnon,270d0d18,Serie B
+133,Andrea Conti,ITA,DF,Sampdoria,29-312,1994,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,https://fbref.com/en/players/8fef5412/Andrea-Conti,8fef5412,Serie B
+134,Niccolò Corrado,ITA,DF,Ternana,23-295,2000,13.2,38.1,32.7,4.92,0.30,0.00,0.53,5.45,4.32,0.30,0.00,0.08,0.00,25.2,0.45,1.44,https://fbref.com/en/players/4e6abb7f/Niccolo-Corrado,4e6abb7f,Serie B
+135,Lorenzo Cosimi,ITA,DF,Ascoli,19-201,2004,0.1,70.0,40.0,30.0,0.00,0.00,0.00,0.00,30.0,0.00,0.00,0.00,0.00,40.0,0.00,0.00,https://fbref.com/en/players/82681a37/Lorenzo-Cosimi,82681a37,Serie B
+136,Matteo Cotali,ITA,DF,Modena,26-261,1997,10.3,45.0,35.7,9.22,0.78,0.00,0.00,1.07,8.45,0.00,0.00,0.00,0.00,35.8,0.10,1.17,https://fbref.com/en/players/5f32b7ba/Matteo-Cotali,5f32b7ba,Serie B
+137,Mamadou Coulibaly,SEN,MF,Palermo,24-339,1999,6.1,36.7,36.6,0.16,0.00,0.00,0.16,0.49,0.16,0.00,0.00,0.00,0.00,27.5,0.00,0.98,https://fbref.com/en/players/c976160c/Mamadou-Coulibaly,c976160c,Serie B
+138,Woyo Coulibaly,FRA,DF,Parma,24-233,1999,12.6,51.3,43.0,8.25,0.79,0.00,0.00,1.27,7.38,0.08,0.00,0.00,0.00,44.1,0.08,0.79,https://fbref.com/en/players/beb6e3a6/Woyo-Coulibaly,beb6e3a6,Serie B
+139,Valerio Crespi,ITA,"FW,MF",Cosenza,19-157,2004,1.1,13.6,12.7,0.91,0.00,0.00,0.00,0.91,0.00,0.00,0.00,0.00,0.00,6.36,0.00,0.00,https://fbref.com/en/players/bfaaface/Valerio-Crespi,bfaaface,Serie B
+140,Domen Črnigoj,SVN,"MF,FW",Reggiana,28-051,1995,5.6,36.4,35.5,0.89,0.00,0.00,0.00,0.36,0.54,0.36,0.00,0.00,0.00,28.8,0.00,1.07,https://fbref.com/en/players/22cd43d2/Domen-Crnigoj,22cd43d2,Serie B
+141,Giovanni Crociata,ITA,"MF,FW",Calcio Lecco 1912,26-150,1997,15.0,47.2,41.7,5.33,2.27,0.07,0.40,3.67,1.00,1.87,0.40,0.40,0.00,34.5,0.20,1.07,https://fbref.com/en/players/8c964914/Giovanni-Crociata,8c964914,Serie B
+142,Alessio da Cruz,,FW,FeralpiSalò,26-355,1997,0.2,20.0,20.0,0.00,0.00,0.00,0.00,5.00,0.00,0.00,0.00,0.00,0.00,15.0,0.00,0.00,https://fbref.com/en/players/b6667741/Alessio-da-Cruz,b6667741,Serie B
+143,Giuseppe Cuomo,ITA,DF,Südtirol,25-340,1998,7.3,37.3,32.7,4.38,1.92,0.00,0.00,0.00,1.92,0.00,0.00,0.00,0.00,29.6,0.14,0.14,https://fbref.com/en/players/ae5b04fe/Giuseppe-Cuomo,ae5b04fe,Serie B
+144,Marco Curto,ITA,DF,Como,25-003,1999,15.7,52.4,45.5,6.88,2.80,0.06,0.45,0.76,4.08,0.00,0.00,0.00,0.00,42.5,0.00,0.83,https://fbref.com/en/players/57f86750/Marco-Curto,57f86750,Serie B
+145,Patrick Cutrone,ITA,FW,Como,26-005,1998,17.9,26.8,25.3,1.34,0.00,0.11,0.11,1.51,0.11,0.00,0.00,0.00,0.00,18.3,0.17,0.67,https://fbref.com/en/players/a4fe8cda/Patrick-Cutrone,a4fe8cda,Serie B
+146,Wylan Cyprien,FRA,"MF,FW",Parma,28-345,1995,1.5,67.3,67.3,0.00,0.00,0.00,1.33,0.00,0.00,0.00,0.00,0.00,0.00,58.0,0.00,0.67,https://fbref.com/en/players/3e092724/Wylan-Cyprien,3e092724,Serie B
+147,Marco D'Alessandro,ITA,"FW,MF",Pisa,32-325,1991,6.2,26.9,26.9,0.00,0.00,0.16,0.32,2.90,0.00,0.00,0.00,0.00,0.00,21.1,0.00,1.45,https://fbref.com/en/players/060606ec/Marco-DAlessandro,060606ec,Serie B
+148,Luca D'Andrea,ITA,"MF,FW",Catanzaro,19-124,2004,3.1,34.5,34.2,0.32,0.00,0.65,0.00,2.26,0.32,0.00,0.00,0.00,0.00,26.8,0.00,0.97,https://fbref.com/en/players/f778fe3f/Luca-DAndrea,f778fe3f,Serie B
+149,Tommaso D'Orazio,ITA,DF,Cosenza,33-250,1990,12.6,52.0,40.6,11.3,1.51,0.00,0.56,3.02,9.37,0.40,0.00,0.00,0.00,37.9,0.16,1.27,https://fbref.com/en/players/6e1249fe/Tommaso-DOrazio,6e1249fe,Serie B
+150,Simone D'Uffizi,ITA,"MF,FW",Ascoli,19-115,2004,2.1,42.9,40.5,2.38,0.00,0.00,0.00,4.76,0.95,1.43,0.00,0.48,0.00,29.0,0.00,3.33,https://fbref.com/en/players/f7204fc6/Simone-DUffizi,f7204fc6,Serie B
+151,Christian D'Urso,ITA,FW,Cosenza,26-166,1997,1.6,35.6,34.4,1.25,0.00,0.00,0.00,3.13,1.25,0.00,0.00,0.00,0.00,27.5,0.00,3.13,https://fbref.com/en/players/d63d2daf/Christian-DUrso,d63d2daf,Serie B
+152,Lucas Da Cunha,FRA,"MF,FW",Como,22-213,2001,11.4,40.6,37.2,3.07,0.88,0.09,0.26,3.33,0.35,1.84,0.61,0.70,0.00,30.7,0.35,0.88,https://fbref.com/en/players/007faf7a/Lucas-Da-Cunha,007faf7a,Serie B
+153,Jacopo Da Riva,ITA,MF,Reggiana,23-073,2000,0.8,37.5,37.5,0.00,0.00,0.00,0.00,1.25,0.00,0.00,0.00,0.00,0.00,28.8,0.00,0.00,https://fbref.com/en/players/9591723b/Jacopo-Da-Riva,9591723b,Serie B
+154,Filippo Damian,ITA,MF,Ternana,27-262,1996,0.5,18.0,18.0,0.00,0.00,0.00,2.00,0.00,0.00,0.00,0.00,0.00,0.00,10.0,0.00,0.00,https://fbref.com/en/players/ca92e4d6/Filippo-Damian,ca92e4d6,Serie B
+155,Andrea Danzi,ITA,MF,Cittadella,24-317,1999,3.7,47.0,35.9,11.1,7.30,0.00,0.00,6.49,0.00,2.70,1.08,1.35,0.00,31.1,0.00,0.81,https://fbref.com/en/players/263b855a/Andrea-Danzi,263b855a,Serie B
+156,Simone Davì,ITA,DF,Südtirol,24-114,1999,14.9,50.3,39.7,10.5,1.48,0.00,0.07,2.01,8.99,0.07,0.00,0.00,0.00,37.5,0.07,1.07,https://fbref.com/en/players/12729a08/Simone-Davi,12729a08,Serie B
+157,Kees De Boer,NED,MF,Ternana,23-240,2000,2.9,42.1,41.4,0.34,0.00,0.00,0.00,1.03,0.34,0.00,0.00,0.00,0.00,36.6,0.34,0.34,https://fbref.com/en/players/b159fb6c/Kees-De-Boer,b159fb6c,Serie B
+158,Manuel De Luca,ITA,FW,Sampdoria,25-175,1998,7.7,20.9,19.9,0.91,0.00,0.13,0.00,0.65,0.00,0.00,0.00,0.00,0.00,14.9,0.13,0.78,https://fbref.com/en/players/60e3603d/Manuel-De-Luca,60e3603d,Serie B
+159,Alessandro De Vitis,ITA,"DF,FW",Pisa,31-327,1992,0.2,50.0,45.0,5.00,5.00,0.00,5.00,0.00,0.00,0.00,0.00,0.00,0.00,45.0,0.00,0.00,https://fbref.com/en/players/0a37a51c/Alessandro-De-Vitis,0a37a51c,Serie B
+160,Duccio Degl'Innocenti,ITA,MF,Calcio Lecco 1912,20-255,2003,6.1,34.4,33.3,1.15,0.66,0.00,0.49,0.66,0.00,0.49,0.00,0.00,0.00,26.1,0.00,1.15,https://fbref.com/en/players/0e0d6c53/Duccio-DeglInnocenti,0e0d6c53,Serie B
+161,Enrico Del Prato,ITA,DF,Parma,24-059,1999,16.7,50.7,44.8,5.93,1.08,0.00,0.06,0.72,4.49,0.00,0.00,0.00,0.00,42.5,0.00,0.42,https://fbref.com/en/players/4c6f9258/Enrico-Del-Prato,4c6f9258,Serie B
+162,Marco Delle Monache,ITA,"MF,FW",Sampdoria,18-339,2005,1.6,31.9,31.3,0.63,0.63,0.00,0.00,0.63,0.00,0.00,0.00,0.00,0.00,23.8,0.00,0.00,https://fbref.com/en/players/9bd23007/Marco-Delle-Monache,9bd23007,Serie B
+163,Ali Dembélé,FRA,"DF,MF",Venezia,20-003,2004,1.2,41.7,33.3,8.33,0.00,0.00,0.00,5.83,6.67,1.67,0.00,0.00,0.00,27.5,0.00,2.50,https://fbref.com/en/players/eb3df7d9/Ali-Dembele,eb3df7d9,Serie B
+164,Fabio Depaoli,ITA,"DF,FW",Sampdoria,26-259,1997,14.2,40.3,31.8,8.17,1.48,0.14,0.49,3.38,6.69,0.00,0.00,0.00,0.00,27.7,0.35,0.99,https://fbref.com/en/players/d97f2e8d/Fabio-Depaoli,d97f2e8d,Serie B
+165,Valerio Di Cesare,ITA,DF,Bari,40-230,1983,14.1,39.4,38.2,1.28,1.13,0.00,0.00,0.00,0.07,0.00,0.00,0.00,0.00,34.2,0.00,0.14,https://fbref.com/en/players/3cddfc7e/Valerio-Di-Cesare,3cddfc7e,Serie B
+166,Gianluca Di Chiara,ITA,DF,Parma,30-013,1993,7.8,64.6,52.2,12.4,1.15,0.00,1.15,3.46,11.3,0.00,0.00,0.00,0.00,48.3,0.00,0.77,https://fbref.com/en/players/68852c0a/Gianluca-Di-Chiara,68852c0a,Serie B
+167,Federico Di Francesco,ITA,FW,Palermo,29-208,1994,10.1,35.3,33.5,1.78,0.59,0.00,0.20,4.55,0.40,0.79,0.30,0.00,0.00,24.0,0.10,1.49,https://fbref.com/en/players/1fca9171/Federico-Di-Francesco,1fca9171,Serie B
+168,Francesco Di Mariano,ITA,"FW,MF",Palermo,27-263,1996,8.3,29.8,27.7,1.69,0.48,0.24,0.00,4.94,0.12,1.08,0.36,0.48,0.00,21.8,0.36,0.96,https://fbref.com/en/players/35a2557c/Francesco-Di-Mariano,35a2557c,Serie B
+169,Davide Di Molfetta,ITA,"MF,FW",FeralpiSalò,27-199,1996,7.8,36.4,30.9,5.38,2.69,0.13,0.26,4.87,0.13,2.56,0.64,1.41,0.00,28.3,0.13,0.77,https://fbref.com/en/players/18df0b30/Davide-Di-Molfetta,18df0b30,Serie B
+170,Lorenzo Di Stefano,ITA,FW,Calcio Lecco 1912,21-111,2002,5.9,17.6,16.8,0.68,0.00,0.00,0.17,0.68,0.00,0.17,0.00,0.00,0.00,13.4,0.17,0.51,https://fbref.com/en/players/418c774c/Lorenzo-Di-Stefano,418c774c,Serie B
+171,Francesco Di Tacchio,ITA,MF,Ascoli,33-263,1990,13.4,36.3,34.0,2.09,1.12,0.00,0.22,0.30,0.00,0.15,0.00,0.00,0.00,24.9,0.15,0.82,https://fbref.com/en/players/b5c3ff9f/Francesco-Di-Tacchio,b5c3ff9f,Serie B
+172,Salim Diakité,FRA,DF,Ternana,23-219,2000,16.9,46.2,43.0,3.14,1.07,0.06,0.36,1.24,2.07,0.00,0.00,0.00,0.00,35.4,0.12,0.89,https://fbref.com/en/players/e548cd88/Salim-Diakite,e548cd88,Serie B
+173,Davide Diaw,ITA,"FW,MF",Bari,32-002,1992,5.6,12.9,11.6,1.25,0.18,0.00,0.36,0.00,0.00,0.00,0.00,0.00,0.00,7.68,0.00,0.54,https://fbref.com/en/players/9af85b4a/Davide-Diaw,9af85b4a,Serie B
+174,Lorenzo Dickmann,ITA,DF,Brescia,27-106,1996,16.3,45.3,36.3,8.71,0.49,0.00,0.12,3.37,8.22,0.00,0.00,0.00,0.00,32.4,0.31,1.47,https://fbref.com/en/players/12851227/Lorenzo-Dickmann,12851227,Serie B
+175,Federico Dionisi,ITA,MF,Ascoli,36-206,1987,0.1,20.0,20.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,10.0,0.00,0.00,https://fbref.com/en/players/a74d2999/Federico-Dionisi,a74d2999,Serie B
+176,Federico Dionisi,ITA,"FW,MF",Ternana,36-206,1987,2.8,29.3,27.9,1.43,0.36,0.00,0.36,2.50,0.00,0.00,0.00,0.00,0.00,17.1,0.00,1.79,https://fbref.com/en/players/a74d2999/Federico-Dionisi,a74d2999,Serie B
+177,Filippo Distefano,ITA,FW,Ternana,20-133,2003,7.3,19.5,18.9,0.27,0.00,0.14,0.00,1.37,0.00,0.00,0.00,0.00,0.00,13.8,0.27,0.27,https://fbref.com/en/players/2110f96c/Filippo-Distefano,2110f96c,Serie B
+178,Muhamed Djamanca,GNB,"FW,MF",Reggiana,25-297,1998,4.5,19.8,18.7,0.89,0.00,0.22,0.00,2.00,0.22,0.00,0.00,0.00,0.00,13.6,0.22,0.44,https://fbref.com/en/players/08059338/Muhamed-Djamanca,08059338,Serie B
+179,Francesco Donati,ITA,DF,Calcio Lecco 1912,22-353,2001,0.2,15.0,10.0,5.00,0.00,0.00,0.00,10.0,5.00,0.00,0.00,0.00,0.00,10.0,0.00,5.00,https://fbref.com/en/players/f23ba96b/Francesco-Donati,f23ba96b,Serie B
+180,Alfredo Donnarumma,ITA,FW,Catanzaro,33-039,1990,4.4,16.8,14.8,2.05,0.00,0.23,0.00,0.00,0.00,0.00,0.00,0.00,0.00,12.7,0.00,0.68,https://fbref.com/en/players/5592007b/Alfredo-Donnarumma,5592007b,Serie B
+181,Emile Dorval,FRA,"DF,MF",Bari,22-333,2001,17.5,48.3,39.9,8.40,0.91,0.06,0.29,2.97,7.37,0.11,0.00,0.00,0.00,37.7,0.06,1.37,https://fbref.com/en/players/dfa5df10/Emile-Dorval,dfa5df10,Serie B
+182,Bartłomiej Drągowski,POL,GK,Spezia,26-142,1997,13.0,28.8,19.3,9.23,2.62,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,21.9,0.31,0.00,https://fbref.com/en/players/085e71a7/Bartlomiej-Dragowski,085e71a7,Serie B
+183,Edoardo Duca,ITA,MF,Modena,26-223,1997,9.5,36.9,35.1,1.79,0.63,0.21,0.11,1.16,0.53,0.32,0.00,0.00,0.00,30.2,0.11,0.95,https://fbref.com/en/players/59c90e02/Edoardo-Duca,59c90e02,Serie B
+184,Malcolm Edjouma,FRA,"MF,FW",Bari,27-092,1996,3.8,34.2,34.2,0.00,0.00,0.00,0.26,0.53,0.00,0.00,0.00,0.00,0.00,24.2,0.00,1.32,https://fbref.com/en/players/72eccdcc/Malcolm-Edjouma,72eccdcc,Serie B
+185,Albin Ekdal,SWE,MF,Spezia,34-164,1989,3.7,58.4,55.9,2.43,2.16,0.00,0.00,0.27,0.27,0.00,0.00,0.00,0.00,49.7,0.00,0.54,https://fbref.com/en/players/f503ea63/Albin-Ekdal,f503ea63,Serie B
+186,Salvatore Elia,ITA,DF,Spezia,24-192,1999,12.0,43.8,36.2,7.42,0.42,0.00,0.33,4.58,7.00,0.00,0.00,0.00,0.00,29.2,0.17,1.00,https://fbref.com/en/players/e9ca1b91/Salvatore-Elia,e9ca1b91,Serie B
+187,Mikael Ellertsson,ISL,MF,Venezia,21-303,2002,11.8,27.3,25.6,1.61,0.51,0.00,0.17,1.27,0.93,0.17,0.00,0.00,0.00,20.8,0.08,0.85,https://fbref.com/en/players/c55967eb/Mikael-Ellertsson,c55967eb,Serie B
+188,Francesco Esposito,ITA,FW,Spezia,18-194,2005,11.5,20.1,19.0,1.04,0.00,0.17,0.00,0.17,0.00,0.00,0.00,0.00,0.00,12.2,0.00,0.61,https://fbref.com/en/players/041e5f1f/Francesco-Esposito,041e5f1f,Serie B
+189,Salvatore Esposito,ITA,MF,Spezia,23-093,2000,16.5,77.5,67.9,9.45,5.27,0.06,0.73,5.82,0.24,3.82,1.58,1.52,0.00,62.9,0.18,0.91,https://fbref.com/en/players/5cf5c9ad/Salvatore-Esposito,5cf5c9ad,Serie B
+190,Sebastiano Esposito,ITA,"FW,MF",Sampdoria,21-190,2002,12.6,28.5,26.3,2.14,0.95,0.24,0.40,2.46,0.48,0.40,0.24,0.16,0.00,19.4,0.00,1.11,https://fbref.com/en/players/7ff93107/Sebastiano-Esposito,7ff93107,Serie B
+191,Estanis,ESP,FW,Sampdoria,20-137,2003,7.6,33.6,31.4,2.11,0.39,0.00,0.79,3.16,0.79,0.92,0.00,0.53,0.00,25.8,0.00,1.05,https://fbref.com/en/players/ace50e9f/Estanis,ace50e9f,Serie B
+192,Tomás Esteves,POR,DF,Pisa,21-280,2002,11.8,60.8,50.3,10.3,1.19,0.17,0.34,2.03,8.39,0.68,0.17,0.17,0.00,50.9,0.17,1.27,https://fbref.com/en/players/20ffe5b9/Tomas-Esteves,20ffe5b9,Serie B
+193,Nahuel Estévez,ARG,MF,Parma,28-055,1995,13.9,52.5,48.5,3.88,2.37,0.00,0.94,2.16,0.00,1.51,0.50,0.29,0.00,42.2,0.14,0.86,https://fbref.com/en/players/cec60a2f/Nahuel-Estevez,cec60a2f,Serie B
+194,Umberto Eusepi,ITA,"FW,MF",Calcio Lecco 1912,34-364,1989,2.1,29.0,28.1,0.95,0.00,0.00,0.00,0.48,0.00,0.00,0.00,0.00,0.00,16.7,0.00,1.43,https://fbref.com/en/players/210cc9c3/Umberto-Eusepi,210cc9c3,Serie B
+195,Filippo Faggi,ITA,MF,Bari,20-337,2003,0.2,10.0,10.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,5.00,0.00,0.00,https://fbref.com/en/players/ce15fc90/Filippo-Faggi,ce15fc90,Serie B
+196,Nicola Falasco,ITA,DF,Ascoli,30-095,1993,12.6,54.2,34.4,19.5,6.03,0.00,0.87,10.7,9.52,3.97,1.83,1.83,0.08,29.7,0.24,1.03,https://fbref.com/en/players/7e0deb7d/Nicola-Falasco,7e0deb7d,Serie B
+197,Diego Falcinelli,ITA,"FW,MF",Modena,32-196,1991,8.0,16.1,15.5,0.63,0.13,0.13,0.00,0.13,0.00,0.00,0.00,0.00,0.00,13.0,0.00,0.63,https://fbref.com/en/players/a39b9ef6/Diego-Falcinelli,a39b9ef6,Serie B
+198,Cesar Falletti,URU,"MF,FW",Ternana,31-037,1992,17.5,44.8,37.5,6.97,1.66,0.46,0.97,6.97,0.57,4.63,1.71,1.83,0.00,32.6,0.34,1.09,https://fbref.com/en/players/00823e9a/Cesar-Falletti,00823e9a,Serie B
+199,Marcello Falzerano,ITA,"MF,DF",Ascoli,32-271,1991,10.0,38.6,34.4,4.20,1.10,0.00,0.10,4.40,2.30,0.70,0.10,0.50,0.00,27.4,0.00,0.90,https://fbref.com/en/players/714fa52a/Marcello-Falzerano,714fa52a,Serie B
+200,Mohamed Fares,ALG,DF,Brescia,27-327,1996,4.1,46.1,39.3,6.34,0.49,0.24,0.98,4.88,5.61,0.24,0.24,0.00,0.00,32.9,0.49,0.98,https://fbref.com/en/players/b7a5bc86/Mohamed-Fares,b7a5bc86,Serie B
+201,Costantino Favasuli,ITA,"MF,DF",Ternana,19-257,2004,8.0,43.3,37.9,5.00,0.25,0.00,0.13,2.63,4.63,0.00,0.00,0.00,0.00,32.8,0.38,1.25,https://fbref.com/en/players/8b38f187/Costantino-Favasuli,8b38f187,Serie B
+202,Andrea Favilli,ITA,FW,Ternana,26-236,1997,6.5,22.6,21.2,1.08,0.15,0.00,0.15,0.31,0.31,0.00,0.00,0.00,0.00,11.7,0.31,1.08,https://fbref.com/en/players/44510fde/Andrea-Favilli,44510fde,Serie B
+203,Mattia Felici,ITA,"DF,FW",FeralpiSalò,22-266,2001,12.7,31.1,26.1,4.88,0.79,0.00,0.16,4.65,2.68,1.26,0.24,0.71,0.00,20.8,0.16,0.94,https://fbref.com/en/players/38aa2612/Mattia-Felici,38aa2612,Serie B
+204,Alexis Ferrante,ITA,FW,Ternana,28-195,1995,0.5,10.0,10.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,4.00,0.00,0.00,https://fbref.com/en/players/2063c7d1/Alexis-Ferrante,2063c7d1,Serie B
+205,Alex Ferrari,ITA,DF,Sampdoria,29-191,1994,2.7,65.2,61.9,3.33,2.96,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,60.0,0.00,0.74,https://fbref.com/en/players/d0dbca9f/Alex-Ferrari,d0dbca9f,Serie B
+206,Gabriele Ferrarini,ITA,DF,FeralpiSalò,23-274,2000,1.9,42.1,32.6,9.47,1.58,0.53,1.05,2.63,7.89,0.00,0.00,0.00,0.00,30.5,0.00,0.53,https://fbref.com/en/players/76451f32/Gabriele-Ferrarini,76451f32,Serie B
+207,Matteo Ferro,ITA,"FW,DF",Brescia,19-315,2004,0.3,56.7,56.7,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,53.3,0.00,3.33,https://fbref.com/en/players/c644adba/Matteo-Ferro,c644adba,Serie B
+208,Riccardo Fiamozzi,ITA,"DF,MF",Reggiana,30-235,1993,7.0,50.1,42.1,7.86,0.43,0.00,0.71,3.00,7.43,0.00,0.00,0.00,0.00,36.3,0.14,1.86,https://fbref.com/en/players/9f9b9269/Riccardo-Fiamozzi,9f9b9269,Serie B
+209,Luca Fiordilino,ITA,MF,FeralpiSalò,27-167,1996,13.4,45.8,43.0,2.69,2.69,0.00,0.30,1.12,0.00,0.00,0.00,0.00,0.00,36.3,0.15,1.27,https://fbref.com/en/players/9bb1ad91/Luca-Fiordilino,9bb1ad91,Serie B
+210,Aldo Florenzi,ITA,"FW,MF",Cosenza,21-281,2002,4.5,32.0,30.0,1.78,0.44,0.22,0.00,1.56,0.44,0.89,0.44,0.22,0.00,23.1,0.22,0.22,https://fbref.com/en/players/d1a0bfeb/Aldo-Florenzi,d1a0bfeb,Serie B
+211,Riccardo Fogliata,ITA,MF,Brescia,20-007,2004,5.7,28.8,27.7,0.88,0.18,0.00,0.53,1.40,0.00,0.00,0.00,0.00,0.00,19.3,0.18,1.40,https://fbref.com/en/players/97f0e79b/Riccardo-Fogliata,97f0e79b,Serie B
+212,Alessandro Fontanarosa,ITA,DF,Cosenza,20-335,2003,8.0,54.5,48.3,6.00,1.50,0.00,0.50,1.00,4.13,0.25,0.13,0.00,0.00,42.1,0.25,0.75,https://fbref.com/en/players/8961065a/Alessandro-Fontanarosa,8961065a,Serie B
+213,Francesco Forte,ITA,FW,Cosenza,30-252,1993,10.3,13.2,12.8,0.29,0.00,0.00,0.00,0.39,0.10,0.00,0.00,0.00,0.00,8.74,0.10,0.58,https://fbref.com/en/players/69e11a01/Francesco-Forte,69e11a01,Serie B
+214,Francesco Forte,ITA,MF,Ascoli,30-252,1993,0.5,8.00,8.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,6.00,0.00,0.00,https://fbref.com/en/players/69e11a01/Francesco-Forte,69e11a01,Serie B
+215,Gianluca Frabotta,ITA,DF,Bari,24-198,1999,4.9,60.8,48.2,12.7,3.06,0.00,0.41,4.90,9.18,0.41,0.20,0.20,0.00,47.8,0.00,2.65,https://fbref.com/en/players/d80b1835/Gianluca-Frabotta,d80b1835,Serie B
+216,Domenico Frare,ITA,DF,Cittadella,27-243,1996,7.6,42.5,40.3,2.11,2.11,0.13,0.39,0.00,0.00,0.00,0.00,0.00,0.00,35.0,0.13,0.00,https://fbref.com/en/players/df92250c/Domenico-Frare,df92250c,Serie B
+217,Andrea Fulignati,ITA,GK,Catanzaro,29-069,1994,19.0,50.1,43.1,6.89,2.53,0.00,0.21,0.00,0.00,0.00,0.00,0.00,0.00,39.3,0.11,0.05,https://fbref.com/en/players/195f5e38/Andrea-Fulignati,195f5e38,Serie B
+218,Alessandro Gabrielloni,ITA,"FW,MF",Como,29-182,1994,6.9,27.1,26.7,0.29,0.00,0.00,0.00,0.58,0.00,0.00,0.00,0.00,0.00,19.0,0.14,1.16,https://fbref.com/en/players/181cb492/Alessandro-Gabrielloni,181cb492,Serie B
+219,Riccardo Gagno,ITA,GK,Modena,26-166,1997,14.5,36.5,28.9,7.45,1.93,0.00,0.07,0.00,0.00,0.00,0.00,0.00,0.00,27.0,0.14,0.00,https://fbref.com/en/players/92c46fe2/Riccardo-Gagno,92c46fe2,Serie B
+220,Nicolas Galazzi,ITA,"MF,DF",Brescia,23-021,2000,7.8,47.1,39.5,7.56,1.67,0.00,0.51,6.79,2.95,2.82,1.54,0.64,0.00,34.9,0.00,0.90,https://fbref.com/en/players/a796492f/Nicolas-Galazzi,a796492f,Serie B
+221,Giorgio Galli,ITA,MF,Calcio Lecco 1912,27-039,1996,7.5,39.3,37.2,2.00,1.07,0.00,0.13,0.27,0.40,0.00,0.00,0.00,0.00,31.6,0.13,0.53,https://fbref.com/en/players/9cd9352f/Giorgio-Galli,9cd9352f,Serie B
+222,Mario Gargiulo,ITA,MF,Modena,27-288,1996,0.6,48.3,45.0,3.33,0.00,0.00,0.00,5.00,3.33,0.00,0.00,0.00,0.00,35.0,0.00,0.00,https://fbref.com/en/players/4efc0262/Mario-Gargiulo,4efc0262,Serie B
+223,Iva Gelashvili,GEO,DF,Spezia,22-275,2001,2.6,54.2,53.1,1.15,1.15,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,46.9,0.00,0.38,https://fbref.com/en/players/1a4ef430/Iva-Gelashvili,1a4ef430,Serie B
+224,Fabio Gerli,ITA,MF,Modena,27-016,1996,11.4,60.2,58.8,1.23,1.14,0.09,0.44,0.26,0.09,0.00,0.00,0.00,0.00,54.1,0.18,1.40,https://fbref.com/en/players/9719b00e/Fabio-Gerli,9719b00e,Serie B
+225,Paolo Ghiglione,ITA,DF,Cremonese,26-340,1997,5.4,50.0,42.4,7.41,1.11,0.00,0.56,7.22,6.11,0.19,0.19,0.00,0.00,32.6,0.19,2.22,https://fbref.com/en/players/71dc23da/Paolo-Ghiglione,71dc23da,Serie B
+226,Daniele Ghilardi,ITA,DF,Sampdoria,21-002,2003,17.8,54.0,50.7,3.09,2.64,0.00,0.28,0.06,0.11,0.00,0.00,0.00,0.00,45.8,0.22,0.06,https://fbref.com/en/players/9cedad4b/Daniele-Ghilardi,9cedad4b,Serie B
+227,Andrea Ghion,ITA,MF,Catanzaro,23-319,2000,16.8,62.2,59.3,2.74,2.50,0.06,0.18,0.54,0.24,0.00,0.00,0.00,0.00,56.3,0.18,0.54,https://fbref.com/en/players/7f24b3eb/Andrea-Ghion,7f24b3eb,Serie B
+228,Luca Ghiringhelli,ITA,DF,Südtirol,31-350,1992,2.7,37.8,25.9,11.9,0.37,0.00,0.37,1.85,11.5,0.00,0.00,0.00,0.00,25.9,0.00,1.11,https://fbref.com/en/players/3fd6f3f2/Luca-Ghiringhelli,3fd6f3f2,Serie B
+229,Simone Giordano,ITA,"DF,MF",Sampdoria,22-018,2001,12.8,46.3,36.8,9.45,1.56,0.16,0.00,5.39,6.33,1.56,0.78,0.47,0.00,34.5,0.08,1.02,https://fbref.com/en/players/87ae6474/Simone-Giordano,87ae6474,Serie B
+230,Andrea Giorgini,ITA,DF,Südtirol,21-261,2002,17.6,49.0,39.5,9.20,1.70,0.00,0.74,1.42,7.44,0.00,0.00,0.00,0.00,35.1,0.34,0.45,https://fbref.com/en/players/08e3463f/Andrea-Giorgini,08e3463f,Serie B
+231,Samuel Giovane,ITA,"DF,MF",Ascoli,20-286,2003,10.2,32.1,27.2,4.80,0.88,0.10,0.00,1.76,3.92,0.00,0.00,0.00,0.00,25.3,0.10,0.29,https://fbref.com/en/players/61975f30/Samuel-Giovane,61975f30,Serie B
+232,Romeo Giovannini,ITA,MF,Modena,22-102,2001,0.3,80.0,80.0,0.00,0.00,0.00,0.00,6.67,0.00,0.00,0.00,0.00,0.00,46.7,0.00,3.33,https://fbref.com/en/players/93d46da2/Romeo-Giovannini,93d46da2,Serie B
+233,Federico Giraudo,ITA,DF,Cittadella,25-150,1998,8.2,59.3,46.7,12.6,0.73,0.00,0.37,5.12,11.8,0.00,0.00,0.00,0.00,42.1,0.00,2.20,https://fbref.com/en/players/a1750ceb/Federico-Giraudo,a1750ceb,Serie B
+234,Stefano Girelli,ITA,"MF,FW",Sampdoria,22-364,2001,3.4,25.3,23.8,0.88,0.00,0.00,0.00,2.65,0.88,0.00,0.00,0.00,0.00,14.7,0.59,1.18,https://fbref.com/en/players/1c710624/Stefano-Girelli,1c710624,Serie B
+235,Natan Girma,SUI,"MF,FW",Reggiana,22-028,2001,10.9,32.3,31.3,0.92,0.09,0.09,0.18,1.10,0.37,0.37,0.18,0.18,0.00,26.0,0.09,0.92,https://fbref.com/en/players/d6532d04/Natan-Girma,d6532d04,Serie B
+236,Luca Giudici,ITA,"DF,FW",Calcio Lecco 1912,31-301,1992,4.1,27.8,22.7,4.88,0.49,0.00,0.49,4.88,3.90,0.49,0.00,0.24,0.00,16.1,0.24,1.71,https://fbref.com/en/players/f372fd8b/Luca-Giudici,f372fd8b,Serie B
+237,Ettore Gliozzi,ITA,FW,Pisa,28-107,1995,1.5,15.3,14.0,1.33,0.00,0.00,0.00,1.33,0.00,0.00,0.00,0.00,0.00,11.3,0.00,0.67,https://fbref.com/en/players/1a9c5528/Ettore-Gliozzi,1a9c5528,Serie B
+238,Eddy Gnahoré,FRA,MF,Ascoli,30-055,1993,8.3,48.3,46.0,2.29,2.17,0.00,0.12,0.12,0.00,0.12,0.00,0.12,0.00,43.7,0.00,0.60,https://fbref.com/en/players/a0434482/Eddy-Gnahore,a0434482,Serie B
+239,Claudio Gomes,FRA,MF,Palermo,23-169,2000,14.8,36.8,35.7,0.88,0.20,0.14,0.07,0.68,0.07,0.00,0.00,0.00,0.00,31.5,0.14,0.61,https://fbref.com/en/players/22f6ed2c/Claudio-Gomes,22f6ed2c,Serie B
+240,Cedric Gondo,CIV,FW,Reggiana,27-044,1996,9.4,20.1,18.4,1.70,0.00,0.00,0.00,0.85,0.11,0.00,0.00,0.00,0.00,13.7,0.00,1.28,https://fbref.com/en/players/ff37d2ef/Cedric-Gondo,ff37d2ef,Serie B
+241,Facundo González,URU,DF,Sampdoria,20-216,2003,11.2,52.4,49.3,3.04,2.14,0.00,0.00,0.09,0.18,0.00,0.00,0.00,0.00,45.0,0.09,0.71,https://fbref.com/en/players/5674bd8d/Facundo-Gonzalez,5674bd8d,Serie B
+242,Simon Graves Jensen,DEN,DF,Palermo,24-231,1999,3.2,59.7,51.3,8.13,0.94,0.31,0.00,0.63,7.19,0.00,0.00,0.00,0.00,52.5,0.31,0.00,https://fbref.com/en/players/b1027206/Simon-Graves-Jensen,b1027206,Serie B
+243,Davide Guglielmotti,ITA,DF,Reggiana,29-290,1994,0.1,200.0,160.0,40.0,0.00,0.00,0.00,30.0,40.0,0.00,0.00,0.00,0.00,160.0,0.00,0.00,https://fbref.com/en/players/2d152deb/Davide-Guglielmotti,2d152deb,Serie B
+244,Davide Guglielmotti,ITA,"DF,FW",Calcio Lecco 1912,29-290,1994,4.2,23.8,19.3,4.52,0.00,0.00,0.00,2.62,4.52,0.00,0.00,0.00,0.00,14.0,0.00,1.19,https://fbref.com/en/players/2d152deb/Davide-Guglielmotti,2d152deb,Serie B
+245,Abdoul Guiebre,BFA,DF,Modena,26-175,1997,4.3,29.1,23.3,5.81,0.00,0.00,0.23,3.02,5.81,0.00,0.00,0.00,0.00,21.6,0.00,1.63,https://fbref.com/en/players/845c5614/Abdoul-Guiebre,845c5614,Serie B
+246,Christian Gytkjær,DEN,FW,Venezia,33-247,1990,8.9,20.7,20.2,0.22,0.00,0.11,0.22,0.22,0.00,0.00,0.00,0.00,0.00,15.6,0.22,0.67,https://fbref.com/en/players/9250bcff/Christian-Gytkjaer,9250bcff,Serie B
+247,Antoine Hainaut,FRA,"FW,DF",Parma,21-324,2002,0.2,110.0,90.0,15.0,0.00,0.00,0.00,0.00,15.0,0.00,0.00,0.00,0.00,90.0,5.00,0.00,https://fbref.com/en/players/6503f220/Antoine-Hainaut,6503f220,Serie B
+248,Kevin Haveri,ALB,"DF,FW",Ascoli,22-112,2001,0.6,63.3,46.7,16.7,1.67,0.00,0.00,10.0,15.0,0.00,0.00,0.00,0.00,38.3,0.00,3.33,https://fbref.com/en/players/04c37cf8/Kevin-Haveri,04c37cf8,Serie B
+249,Liam Henderson,SCO,MF,Palermo,27-258,1996,8.3,45.3,40.5,4.82,1.20,0.24,0.00,7.71,0.24,2.77,1.08,1.33,0.00,32.2,0.00,1.33,https://fbref.com/en/players/d7918b13/Liam-Henderson,d7918b13,Serie B
+250,Denis Hergheligiu,ITA,MF,FeralpiSalò,24-030,1999,5.1,51.4,49.8,1.37,0.20,0.00,0.00,0.59,0.00,0.00,0.00,0.00,0.00,41.8,0.20,1.76,https://fbref.com/en/players/1961a87e/Denis-Hergheligiu,1961a87e,Serie B
+251,Hjörtur Hermannsson,ISL,DF,Pisa,28-334,1995,5.6,63.0,57.7,5.36,3.21,0.00,0.36,0.00,1.79,0.00,0.00,0.00,0.00,55.2,0.00,0.18,https://fbref.com/en/players/6aa0d1e2/Hjortur-Hermannsson,6aa0d1e2,Serie B
+252,Hernani,BRA,MF,Parma,29-287,1994,11.8,46.5,44.6,1.86,0.93,0.08,0.85,1.02,0.25,0.68,0.25,0.00,0.00,38.1,0.08,1.19,https://fbref.com/en/players/6f5ead86/Hernani,6f5ead86,Serie B
+253,Petko Hristov,BUL,DF,Spezia,24-313,1999,2.3,42.2,39.1,3.04,2.61,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,36.1,0.00,0.00,https://fbref.com/en/players/d8800a46/Petko-Hristov,d8800a46,Serie B
+254,Matthieu Huard,FRA,"DF,MF",Brescia,25-244,1998,6.0,50.0,39.0,10.7,0.67,0.00,0.17,5.50,9.67,0.33,0.00,0.00,0.00,34.2,0.33,0.67,https://fbref.com/en/players/8e62761e/Matthieu-Huard,8e62761e,Serie B
+255,Antony Iannarilli,ITA,GK,Ternana,33-021,1990,19.0,27.3,15.3,11.9,3.26,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,14.5,0.11,0.00,https://fbref.com/en/players/731193c9/Antony-Iannarilli,731193c9,Serie B
+256,Jay Idzes,NED,DF,Venezia,23-220,2000,9.0,66.3,64.1,2.22,1.33,0.11,0.11,0.11,0.56,0.00,0.00,0.00,0.00,59.2,0.00,0.33,https://fbref.com/en/players/a54ef587/Jay-Idzes,a54ef587,Serie B
+257,Pietro Iemmello,ITA,FW,Catanzaro,31-308,1992,12.2,24.6,23.0,1.48,0.00,0.25,0.25,0.25,0.00,0.00,0.00,0.00,0.00,18.6,0.16,0.66,https://fbref.com/en/players/0861b8d6/Pietro-Iemmello,0861b8d6,Serie B
+258,Roberto Insigne,ITA,FW,Palermo,29-242,1994,8.9,44.4,40.6,3.71,0.79,0.34,0.22,4.04,0.67,1.91,0.90,0.22,0.11,34.8,0.11,0.67,https://fbref.com/en/players/8faf7b3c/Roberto-Insigne,8faf7b3c,Serie B
+259,Nicholas Ioannou,CYP,DF,Como,28-059,1995,12.0,46.9,36.4,10.0,0.67,0.08,0.42,4.08,9.17,0.17,0.00,0.08,0.00,30.4,0.50,1.25,https://fbref.com/en/players/50d85cd8/Nicholas-Ioannou,50d85cd8,Serie B
+260,Artur Ioniță,MDA,MF,Calcio Lecco 1912,33-144,1990,17.2,30.5,27.9,2.56,0.64,0.00,0.35,1.57,0.06,0.00,0.00,0.00,0.00,24.1,0.06,0.70,https://fbref.com/en/players/cedb3e36/Artur-Ionita,cedb3e36,Serie B
+261,Alessio Iovine,ITA,"DF,MF",Como,32-341,1991,6.9,43.3,37.8,5.36,0.14,0.00,0.29,5.36,4.64,0.58,0.00,0.58,0.00,28.1,0.14,0.87,https://fbref.com/en/players/083d7173/Alessio-Iovine,083d7173,Serie B
+262,Mato Jajalo,BIH,MF,Venezia,35-228,1988,1.8,67.8,63.3,4.44,3.89,0.00,0.00,0.56,0.00,0.00,0.00,0.00,0.00,56.7,0.00,1.67,https://fbref.com/en/players/8c65eb5f/Mato-Jajalo,8c65eb5f,Serie B
+263,Alexander Jallow,SWE,DF,Brescia,25-311,1998,5.7,38.6,31.4,7.02,0.00,0.00,0.18,3.16,7.02,0.00,0.00,0.00,0.00,27.5,0.18,1.75,https://fbref.com/en/players/b04dff15/Alexander-Jallow,b04dff15,Serie B
+264,Dennis Johnsen,NOR,"FW,MF",Venezia,25-325,1998,12.5,29.6,29.0,0.48,0.00,0.40,0.80,2.72,0.40,0.00,0.00,0.00,0.00,18.5,0.08,1.36,https://fbref.com/en/players/66784dee/Dennis-Johnsen,66784dee,Serie B
+265,Jesse Joronen,FIN,GK,Venezia,30-293,1993,10.0,29.0,20.5,8.40,2.70,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,21.7,0.10,0.00,https://fbref.com/en/players/7f66ea09/Jesse-Joronen,7f66ea09,Serie B
+266,Andreas Jungdal,DEN,GK,Cremonese,21-320,2002,7.0,34.7,26.7,7.86,2.71,0.00,0.29,0.00,0.00,0.00,0.00,0.00,0.00,26.7,0.14,0.00,https://fbref.com/en/players/66c6680a/Andreas-Jungdal,66c6680a,Serie B
+267,Flavio Junior Bianchi,ITA,"FW,MF",Brescia,23-349,2000,11.4,21.3,19.6,1.40,0.18,0.00,0.09,0.44,0.09,0.00,0.00,0.00,0.00,15.6,0.35,0.96,https://fbref.com/en/players/3ef965c1/Flavio-Junior-Bianchi,3ef965c1,Serie B
+268,Roko Jureškin,CRO,"MF,DF",Pisa,23-101,2000,1.2,40.0,33.3,6.67,0.00,0.00,0.00,5.00,6.67,0.00,0.00,0.00,0.00,20.0,0.00,2.50,https://fbref.com/en/players/a3c80899/Roko-Jureskin,a3c80899,Serie B
+269,Elvis Kabashi,ALB,MF,Reggiana,29-322,1994,10.2,54.7,49.8,4.71,3.14,0.00,1.27,3.14,0.20,1.37,0.29,0.69,0.00,45.6,0.20,0.59,https://fbref.com/en/players/6660de31/Elvis-Kabashi,6660de31,Serie B
+270,Pajtim Kasami,SUI,MF,Sampdoria,31-220,1992,9.9,41.5,40.6,0.71,0.61,0.10,0.51,0.91,0.10,0.00,0.00,0.00,0.00,31.4,0.20,1.11,https://fbref.com/en/players/fc8c588f/Pajtim-Kasami,fc8c588f,Serie B
+271,Elhan Kastrati,ALB,GK,Cittadella,26-340,1997,18.0,28.2,19.1,9.06,2.78,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,19.8,0.00,0.00,https://fbref.com/en/players/241b5471/Elhan-Kastrati,241b5471,Serie B
+272,Panos Katseris,GRE,DF,Catanzaro,22-187,2001,10.4,44.6,34.7,9.90,0.48,0.00,0.19,2.60,9.42,0.00,0.00,0.00,0.00,33.2,0.00,1.15,https://fbref.com/en/players/c1597cf7/Panos-Katseris,c1597cf7,Serie B
+273,Liam Kerrigan,IRL,"MF,DF",Como,23-244,2000,1.7,35.9,32.4,2.94,0.00,0.00,0.00,5.29,2.94,0.00,0.00,0.00,0.00,25.9,0.59,2.94,https://fbref.com/en/players/3533a1ed/Liam-Kerrigan,3533a1ed,Serie B
+274,Raphael Kofler,ITA,"MF,DF",Südtirol,18-257,2005,3.6,33.1,28.6,4.17,0.56,0.00,0.00,0.28,3.61,0.00,0.00,0.00,0.00,25.3,0.28,0.28,https://fbref.com/en/players/ad15e856/Raphael-Kofler,ad15e856,Serie B
+275,Magnus Kofod Andersen,DEN,MF,Venezia,24-243,1999,4.0,53.5,49.0,4.25,1.75,0.00,0.25,3.25,0.25,2.25,0.25,1.50,0.00,42.5,0.25,0.50,https://fbref.com/en/players/a4731ebc/Magnus-Kofod-Andersen,a4731ebc,Serie B
+276,Emil Kornvig,DEN,MF,Cittadella,23-255,2000,1.6,35.0,30.6,3.75,0.63,0.00,0.00,4.38,0.63,2.50,0.00,2.50,0.00,24.4,0.63,1.25,https://fbref.com/en/players/35271c4d/Emil-Kornvig,35271c4d,Serie B
+277,Rachid Kouda,ITA,"MF,DF",Spezia,21-167,2002,11.0,34.5,33.4,1.00,0.18,0.00,0.00,3.18,0.45,0.00,0.00,0.00,0.00,22.4,0.09,1.55,https://fbref.com/en/players/8a9ff091/Rachid-Kouda,8a9ff091,Serie B
+278,Christos Kourfalidis,GRE,MF,FeralpiSalò,21-058,2002,7.1,34.6,32.0,2.68,0.14,0.00,0.42,1.13,1.41,0.00,0.00,0.00,0.00,27.3,0.00,1.27,https://fbref.com/en/players/5c522c88/Christos-Kourfalidis,5c522c88,Serie B
+279,Ilias Koutsoupias,GRE,MF,Bari,22-243,2001,10.7,32.6,32.1,0.56,0.37,0.00,0.00,1.87,0.19,0.00,0.00,0.00,0.00,26.4,0.00,0.37,https://fbref.com/en/players/d19203f5/Ilias-Koutsoupias,d19203f5,Serie B
+280,Erdis Kraja,ALB,"MF,DF",Ascoli,23-185,2000,1.5,47.3,46.7,0.67,0.67,0.00,0.00,0.67,0.00,0.00,0.00,0.00,0.00,37.3,0.00,0.67,https://fbref.com/en/players/61d302b3/Erdis-Kraja,61d302b3,Serie B
+281,Luka Krajnc,SVN,DF,Catanzaro,29-111,1994,9.0,55.1,46.6,8.56,1.89,0.00,0.00,0.11,6.44,0.00,0.00,0.00,0.00,45.7,0.00,0.44,https://fbref.com/en/players/2b71b88a/Luka-Krajnc,2b71b88a,Serie B
+282,Dimo Krastev,BUL,DF,Catanzaro,20-332,2003,0.7,95.7,94.3,1.43,1.43,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,85.7,0.00,0.00,https://fbref.com/en/players/445ba3ea/Dimo-Krastev,445ba3ea,Serie B
+283,Raimonds Krollis,LVA,"FW,MF",Spezia,22-072,2001,1.3,32.3,32.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,20.8,0.00,2.31,https://fbref.com/en/players/b4101c2e/Raimonds-Krollis,b4101c2e,Serie B
+284,Antonino La Gumina,ITA,FW,Sampdoria,27-308,1996,4.2,17.1,14.0,3.10,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,13.6,0.00,0.00,https://fbref.com/en/players/822a7761/Antonino-La-Gumina,822a7761,Serie B
+285,Andrea La Mantia,ITA,FW,FeralpiSalò,32-247,1991,11.6,22.0,21.2,0.78,0.09,0.00,0.17,0.34,0.00,0.00,0.00,0.00,0.00,13.4,0.00,0.43,https://fbref.com/en/players/c375dfa5/Andrea-La-Mantia,c375dfa5,Serie B
+286,Eric Lanini,ITA,"FW,MF",Reggiana,29-317,1994,3.7,20.8,20.5,0.00,0.00,0.00,0.00,0.54,0.00,0.00,0.00,0.00,0.00,14.1,0.27,0.81,https://fbref.com/en/players/e587744a/Eric-Lanini,e587744a,Serie B
+287,Nunzio Lella,ITA,"MF,FW",Venezia,23-164,2000,6.6,35.5,34.7,0.30,0.15,0.00,0.45,2.42,0.15,0.00,0.00,0.00,0.00,21.8,0.45,2.42,https://fbref.com/en/players/c149e8a6/Nunzio-Lella,c149e8a6,Serie B
+288,Noha Lemina,FRA,MF,Sampdoria,18-205,2005,0.2,30.0,30.0,0.00,0.00,0.00,5.00,0.00,0.00,0.00,0.00,0.00,0.00,30.0,0.00,0.00,https://fbref.com/en/players/28401b55/Noha-Lemina,28401b55,Serie B
+289,Mats Lemmens,BEL,DF,Calcio Lecco 1912,21-304,2002,6.9,44.8,36.8,7.97,1.16,0.00,0.29,1.01,6.81,0.00,0.00,0.00,0.00,30.9,0.00,0.72,https://fbref.com/en/players/68b2281a/Mats-Lemmens,68b2281a,Serie B
+290,Franco Lepore,ITA,"DF,FW",Calcio Lecco 1912,38-145,1985,16.6,50.7,38.4,12.2,2.59,0.00,1.08,9.64,6.45,3.19,1.75,1.02,0.00,33.3,0.12,0.96,https://fbref.com/en/players/1781c950/Franco-Lepore,1781c950,Serie B
+291,Gaetano Letizia,ITA,DF,FeralpiSalò,33-193,1990,7.3,52.3,41.1,11.2,2.33,0.00,2.33,2.74,8.90,0.00,0.00,0.00,0.00,39.7,0.00,0.68,https://fbref.com/en/players/3dd45b70/Gaetano-Letizia,3dd45b70,Serie B
+292,Maxime Leverbe,FRA,DF,Pisa,26-327,1997,10.1,68.0,63.7,4.26,2.57,0.10,0.10,0.10,0.10,0.00,0.00,0.00,0.00,58.4,0.10,0.00,https://fbref.com/en/players/f155d812/Maxime-Leverbe,f155d812,Serie B
+293,Luca Lezzerini,ITA,GK,Brescia,28-290,1995,17.0,31.1,19.1,11.9,3.94,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,24.2,0.06,0.00,https://fbref.com/en/players/c9c32262/Luca-Lezzerini,c9c32262,Serie B
+294,Ben Lhassine Kone,CIV,MF,Como,23-300,2000,8.0,37.9,37.3,0.63,0.38,0.50,0.13,0.88,0.13,0.13,0.13,0.00,0.00,29.9,0.00,1.00,https://fbref.com/en/players/7452c7a8/Ben-Lhassine-Kone,7452c7a8,Serie B
+295,Lorenzo Libutti,ITA,"DF,MF",Reggiana,26-113,1997,6.4,50.9,41.9,8.91,0.94,0.00,0.00,0.78,7.97,0.00,0.00,0.00,0.00,37.8,0.16,0.94,https://fbref.com/en/players/c4f57257/Lorenzo-Libutti,c4f57257,Serie B
+296,Luka Lochoshvili,GEO,DF,Cremonese,25-224,1998,7.7,59.0,55.3,3.51,2.34,0.00,0.13,0.39,1.04,0.00,0.00,0.00,0.00,48.4,0.13,0.00,https://fbref.com/en/players/c8ad0857/Luka-Lochoshvili,c8ad0857,Serie B
+297,Lorenzo Lonardi,ITA,"MF,DF",Südtirol,24-332,1999,4.1,50.0,47.8,1.95,1.46,0.00,1.22,1.46,0.00,0.49,0.00,0.49,0.00,40.0,0.24,0.73,https://fbref.com/en/players/010e7bb5/Lorenzo-Lonardi,010e7bb5,Serie B
+298,Tom van de Looi,NED,MF,Brescia,24-190,1999,9.9,52.9,50.7,2.12,1.52,0.00,0.91,1.31,0.10,0.30,0.00,0.00,0.00,41.7,0.10,1.21,https://fbref.com/en/players/27b44d5d/Tom-van-de-Looi,27b44d5d,Serie B
+299,Lorenzo Lucchesi,ITA,DF,Ternana,20-244,2003,8.6,42.3,39.3,2.79,1.16,0.00,0.23,0.35,1.63,0.00,0.00,0.00,0.00,29.5,0.23,0.93,https://fbref.com/en/players/bf5948ea/Lorenzo-Lucchesi,bf5948ea,Serie B
+300,Fabio Lucioni,ITA,DF,Palermo,36-105,1987,17.0,60.4,56.5,3.71,2.41,0.00,0.41,0.18,0.06,0.00,0.00,0.00,0.00,50.2,0.18,0.24,https://fbref.com/en/players/8efa621b/Fabio-Lucioni,8efa621b,Serie B
+301,Kristoffer Lund,USA,DF,Palermo,21-239,2002,12.3,,,,,,,3.01,,,,,,,,,https://fbref.com/en/players/9e3e5d05/Kristoffer-Lund,9e3e5d05,Serie B
+302,Gabriel Lunetta,ITA,"MF,FW",Südtirol,27-151,1996,5.3,25.3,24.5,0.75,0.19,0.00,0.19,3.02,0.38,0.19,0.19,0.00,0.00,15.8,0.00,0.38,https://fbref.com/en/players/b02a47cf/Gabriel-Lunetta,b02a47cf,Serie B
+303,Gregorio Luperini,ITA,MF,Ternana,29-332,1994,11.5,26.0,25.5,0.35,0.35,0.09,0.00,0.09,0.00,0.00,0.00,0.00,0.00,18.9,0.17,1.13,https://fbref.com/en/players/496fa8c5/Gregorio-Luperini,496fa8c5,Serie B
+304,Luca Magnino,ITA,MF,Modena,26-148,1997,17.8,45.3,44.2,1.07,0.39,0.00,0.06,0.56,0.56,0.06,0.00,0.06,0.00,37.5,0.11,1.12,https://fbref.com/en/players/b32345a1/Luca-Magnino,b32345a1,Serie B
+305,Andrea Magrassi,ITA,FW,Cittadella,30-336,1993,8.0,18.1,17.9,0.25,0.00,0.00,0.00,0.38,0.13,0.00,0.00,0.00,0.00,10.6,0.00,0.63,https://fbref.com/en/players/b2c6d851/Andrea-Magrassi,b2c6d851,Serie B
+306,Raffaele Maiello,ITA,MF,Bari,32-182,1991,8.7,59.8,53.4,6.32,5.17,0.11,1.03,0.69,0.11,0.11,0.00,0.00,0.00,51.4,0.00,0.46,https://fbref.com/en/players/02febfdc/Raffaele-Maiello,02febfdc,Serie B
+307,Tommy Maistrello,ITA,FW,Cittadella,30-198,1993,6.6,27.7,27.0,0.61,0.00,0.00,0.30,0.61,0.30,0.00,0.00,0.00,0.00,17.0,0.15,0.61,https://fbref.com/en/players/336d8de1/Tommy-Maistrello,336d8de1,Serie B
+308,Mattia Maita,ITA,MF,Bari,31-006,1993,8.7,46.1,43.8,2.18,1.15,0.00,0.46,1.26,0.92,0.11,0.11,0.00,0.00,38.4,0.11,1.15,https://fbref.com/en/players/d21268c5/Mattia-Maita,d21268c5,Serie B
+309,Žan Majer,SVN,MF,Cremonese,31-167,1992,3.4,40.9,38.8,1.76,0.59,0.29,0.29,2.65,0.59,0.59,0.00,0.29,0.00,32.6,0.29,0.29,https://fbref.com/en/players/bf13975c/Zan-Majer,bf13975c,Serie B
+310,Dennis Man,ROU,"FW,MF",Parma,25-135,1998,11.4,38.8,34.6,4.04,0.26,0.18,0.09,3.68,0.79,2.98,1.14,0.53,0.09,30.2,0.09,1.23,https://fbref.com/en/players/2079b3cc/Dennis-Man,2079b3cc,Serie B
+311,Jacopo Manconi,ITA,"FW,MF",Modena,29-259,1994,14.7,19.0,17.8,1.16,0.14,0.07,0.14,0.88,0.14,0.41,0.14,0.20,0.00,13.7,0.07,0.82,https://fbref.com/en/players/7db9ed9b/Jacopo-Manconi,7db9ed9b,Serie B
+312,Leonardo Mancuso,ITA,"FW,MF",Palermo,31-227,1992,6.3,19.8,19.4,0.48,0.00,0.16,0.00,0.48,0.32,0.00,0.00,0.00,0.00,12.2,0.00,0.63,https://fbref.com/en/players/311027cb/Leonardo-Mancuso,311027cb,Serie B
+313,Doudou Mangni,ITA,FW,Calcio Lecco 1912,30-294,1993,0.3,,,,,,,0.00,,,,,,,,,https://fbref.com/en/players/6d5968aa/Doudou-Mangni,6d5968aa,Serie B
+314,Massimiliano Mangraviti,ITA,DF,Brescia,25-349,1998,17.2,50.5,46.8,3.60,1.34,0.06,0.76,0.99,2.15,0.00,0.00,0.00,0.00,38.8,0.06,0.87,https://fbref.com/en/players/33914f14/Massimiliano-Mangraviti,33914f14,Serie B
+315,Luca Maniero,ITA,GK,Cittadella,28-210,1995,1.0,17.0,10.0,7.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,14.0,0.00,0.00,https://fbref.com/en/players/bb8da280/Luca-Maniero,bb8da280,Serie B
+316,Valerio Mantovani,ITA,DF,Ternana,27-265,1996,9.1,49.3,41.8,7.36,1.87,0.00,0.88,0.99,5.49,0.00,0.00,0.00,0.00,38.2,0.22,0.55,https://fbref.com/en/players/55ebb0f9/Valerio-Mantovani,55ebb0f9,Serie B
+317,Giacomo Manzari,ITA,"MF,FW",Ascoli,23-109,2000,5.8,26.4,24.5,1.72,0.69,0.00,0.17,2.41,0.34,0.52,0.00,0.52,0.00,18.4,0.17,1.03,https://fbref.com/en/players/d8dfae8a/Giacomo-Manzari,d8dfae8a,Serie B
+318,Alessandro Marcandalli,ITA,DF,Reggiana,21-105,2002,15.2,51.8,50.5,1.32,1.32,0.00,0.07,0.07,0.00,0.00,0.00,0.00,0.00,45.3,0.00,0.20,https://fbref.com/en/players/d3225ad1/Alessandro-Marcandalli,d3225ad1,Serie B
+319,Ivan Marconi,ITA,DF,Palermo,34-075,1989,7.1,45.6,40.8,4.37,3.24,0.00,0.00,0.42,0.14,0.00,0.00,0.00,0.00,37.2,0.42,0.14,https://fbref.com/en/players/81a8cb68/Ivan-Marconi,81a8cb68,Serie B
+320,Iulius Marginean,ROU,"MF,FW",Ternana,22-189,2001,1.2,30.8,25.0,5.83,4.17,0.00,0.83,1.67,0.00,1.67,0.83,0.83,0.00,18.3,0.00,0.83,https://fbref.com/en/players/0e557842/Iulius-Marginean,0e557842,Serie B
+321,Marius Marin,ROU,MF,Pisa,25-131,1998,13.1,53.5,50.2,3.05,1.83,0.15,0.53,1.15,0.46,0.08,0.08,0.00,0.00,42.9,0.31,0.69,https://fbref.com/en/players/a5106847/Marius-Marin,a5106847,Serie B
+322,Manuel Marras,ITA,FW,Cosenza,30-183,1993,10.0,41.9,39.7,1.80,0.20,0.10,0.10,3.70,1.10,0.50,0.10,0.00,0.00,29.8,0.40,1.50,https://fbref.com/en/players/5c4c8f5a/Manuel-Marras,5c4c8f5a,Serie B
+323,Luca Marrone,ITA,DF,Calcio Lecco 1912,33-286,1990,5.2,50.8,46.3,4.04,3.65,0.00,0.19,0.00,0.19,0.00,0.00,0.00,0.00,42.9,0.38,0.19,https://fbref.com/en/players/ea468ea8/Luca-Marrone,ea468ea8,Serie B
+324,Bruno Martella,ITA,DF,FeralpiSalò,31-147,1992,15.4,45.3,36.0,9.03,1.04,0.00,0.32,4.94,6.56,1.43,0.39,0.97,0.00,30.5,0.19,1.23,https://fbref.com/en/players/1e12c53b/Bruno-Martella,1e12c53b,Serie B
+325,Pietro Martino,ITA,DF,Cosenza,26-157,1997,9.8,52.0,42.7,9.18,0.82,0.10,0.31,5.41,8.06,0.31,0.00,0.00,0.00,37.2,0.20,1.22,https://fbref.com/en/players/83b9df9b/Pietro-Martino,83b9df9b,Serie B
+326,Andrea Masiello,ITA,DF,Südtirol,37-337,1986,17.0,50.6,47.4,3.12,2.94,0.00,1.12,0.06,0.18,0.00,0.00,0.00,0.00,42.7,0.12,0.06,https://fbref.com/en/players/e0314d87/Andrea-Masiello,e0314d87,Serie B
+327,Patrizio Masini,ITA,MF,Ascoli,22-346,2001,9.1,34.4,33.6,0.66,0.33,0.00,0.55,1.87,0.22,0.00,0.00,0.00,0.00,24.3,0.11,1.10,https://fbref.com/en/players/151354b8/Patrizio-Masini,151354b8,Serie B
+328,Valerio Mastrantonio,ITA,MF,Cittadella,24-200,1999,4.1,39.3,35.1,3.90,0.73,0.00,0.49,3.41,0.49,1.71,0.00,1.22,0.00,30.5,0.24,0.73,https://fbref.com/en/players/c55e075f/Valerio-Mastrantonio,c55e075f,Serie B
+329,Gaetano Masucci,ITA,FW,Pisa,39-074,1984,0.9,33.3,33.3,0.00,0.00,0.00,0.00,2.22,0.00,0.00,0.00,0.00,0.00,25.6,0.00,0.00,https://fbref.com/en/players/2f98644a/Gaetano-Masucci,2f98644a,Serie B
+330,Aleš Matějů,CZE,DF,Palermo,27-219,1996,15.1,54.2,46.9,7.35,0.93,0.00,0.20,1.46,6.42,0.00,0.00,0.00,0.00,44.3,0.00,0.60,https://fbref.com/en/players/deb748c9/Ales-Mateju,deb748c9,Serie B
+331,Emmanuele Matino,ITA,DF,Bari,25-093,1998,1.5,30.0,24.7,5.33,1.33,0.00,0.00,0.00,4.00,0.00,0.00,0.00,0.00,22.0,0.00,0.67,https://fbref.com/en/players/b0d20039/Emmanuele-Matino,b0d20039,Serie B
+332,Simone Mazzocchi,ITA,"FW,MF",Cosenza,25-144,1998,12.4,20.4,19.8,0.40,0.00,0.00,0.16,0.73,0.32,0.08,0.00,0.08,0.00,14.8,0.16,0.65,https://fbref.com/en/players/e7c02295/Simone-Mazzocchi,e7c02295,Serie B
+333,Filippo Melegoni,ITA,"MF,FW",Reggiana,24-324,1999,2.6,43.1,36.5,6.54,3.08,0.00,0.00,4.23,0.38,3.08,0.38,1.92,0.00,33.1,0.00,1.15,https://fbref.com/en/players/6604165d/Filippo-Melegoni,6604165d,Serie B
+334,Riccardo Melgrati,ITA,GK,Calcio Lecco 1912,29-205,1994,9.5,33.8,20.5,13.2,3.89,0.00,0.32,0.00,0.00,0.00,0.00,0.00,0.00,22.1,0.11,0.00,https://fbref.com/en/players/dc5b1097/Riccardo-Melgrati,dc5b1097,Serie B
+335,Pedro Mendes,POR,FW,Ascoli,24-160,1999,17.3,24.9,24.2,0.52,0.12,0.06,0.12,0.52,0.17,0.00,0.00,0.00,0.00,15.0,0.12,0.87,https://fbref.com/en/players/85c25f57/Pedro-Mendes,85c25f57,Serie B
+336,Jérémy Ménez,FRA,"FW,MF",Bari,36-246,1987,0.7,34.3,30.0,4.29,1.43,0.00,2.86,1.43,0.00,1.43,1.43,0.00,0.00,31.4,0.00,0.00,https://fbref.com/en/players/41976af1/Jeremy-Menez,41976af1,Serie B
+337,Silvio Merkaj,ALB,FW,Südtirol,26-035,1997,7.9,21.6,20.9,0.76,0.00,0.00,0.00,0.51,0.00,0.00,0.00,0.00,0.00,13.4,0.00,1.14,https://fbref.com/en/players/2dec2c6b/Silvio-Merkaj,2dec2c6b,Serie B
+338,Andrea Meroni,ITA,DF,Cosenza,26-364,1997,14.2,54.8,51.1,3.66,1.76,0.00,0.14,0.21,0.07,0.00,0.00,0.00,0.00,45.9,0.00,0.42,https://fbref.com/en/players/b6283081/Andrea-Meroni,b6283081,Serie B
+339,Alessandro Micai,ITA,GK,Cosenza,30-168,1993,19.0,37.7,29.2,8.37,3.26,0.00,0.05,0.00,0.00,0.00,0.00,0.00,0.00,27.2,0.21,0.00,https://fbref.com/en/players/6ab58a9b/Alessandro-Micai,6ab58a9b,Serie B
+340,Valentin Mihaila,ROU,"FW,MF",Parma,23-340,2000,5.9,41.4,36.9,4.41,1.02,0.00,0.51,3.39,0.00,3.22,0.68,0.51,0.00,31.7,0.00,0.85,https://fbref.com/en/players/81a4c239/Valentin-Mihaila,81a4c239,Serie B
+341,Tommaso Milanese,ITA,"MF,FW",Ascoli,21-161,2002,5.5,26.5,23.5,2.73,0.91,0.00,0.00,1.82,0.55,1.09,0.00,1.09,0.00,18.9,0.36,0.73,https://fbref.com/en/players/b2561711/Tommaso-Milanese,b2561711,Serie B
+342,Vincenzo Millico,ITA,"MF,FW",Ascoli,23-149,2000,2.4,28.8,21.7,7.08,1.25,0.00,1.25,6.67,2.50,2.92,2.08,0.42,0.00,18.8,0.00,1.25,https://fbref.com/en/players/6817095b/Vincenzo-Millico,6817095b,Serie B
+343,Kevin Miranda,ITA,DF,Catanzaro,20-304,2003,0.5,80.0,68.0,12.0,4.00,0.00,2.00,0.00,8.00,0.00,0.00,0.00,0.00,70.0,0.00,0.00,https://fbref.com/en/players/9bd97418/Kevin-Miranda,9bd97418,Serie B
+344,Jan Mlakar,SVN,"FW,MF",Pisa,25-077,1998,9.5,27.7,27.3,0.42,0.11,0.00,0.32,0.63,0.00,0.00,0.00,0.00,0.00,20.9,0.00,1.26,https://fbref.com/en/players/44d9bd5e/Jan-Mlakar,44d9bd5e,Serie B
+345,Marco Modolo,ITA,DF,Venezia,34-291,1989,6.3,63.8,59.8,3.97,2.86,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,56.5,0.00,0.00,https://fbref.com/en/players/fdcdb521/Marco-Modolo,fdcdb521,Serie B
+346,Gabriele Moncini,ITA,FW,Brescia,27-257,1996,11.5,17.1,15.6,1.48,0.17,0.00,0.17,0.78,0.17,0.00,0.00,0.00,0.00,10.8,0.09,0.87,https://fbref.com/en/players/c4efe2b4/Gabriele-Moncini,c4efe2b4,Serie B
+347,Lukas Mondele,BEL,MF,Modena,19-285,2004,0.2,5.00,5.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,https://fbref.com/en/players/2e6bd80e/Lukas-Mondele,2e6bd80e,Serie B
+348,Gregorio Morachioli,ITA,"FW,MF",Bari,23-315,2000,5.3,32.3,32.1,0.19,0.19,0.00,0.00,3.96,0.00,0.00,0.00,0.00,0.00,25.5,0.00,0.94,https://fbref.com/en/players/e5d307a4/Gregorio-Morachioli,e5d307a4,Serie B
+349,Stefano Moreo,ITA,"FW,MF",Pisa,30-192,1993,12.4,26.4,25.8,0.40,0.00,0.16,0.16,0.65,0.08,0.00,0.00,0.00,0.00,18.5,0.16,0.89,https://fbref.com/en/players/7c52943c/Stefano-Moreo,7c52943c,Serie B
+350,Luca Moro,ITA,FW,Spezia,22-348,2001,8.6,16.0,14.5,1.51,0.00,0.00,0.12,0.23,0.00,0.00,0.00,0.00,0.00,12.1,0.00,0.47,https://fbref.com/en/players/96281a90/Luca-Moro,96281a90,Serie B
+351,Amney Moutassime,ITA,FW,Südtirol,19-221,2004,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,https://fbref.com/en/players/13a1f432/Amney-Moutassime,13a1f432,Serie B
+352,João Moutinho,POR,DF,Spezia,25-361,1998,1.9,51.6,44.2,6.84,0.00,0.00,0.00,4.21,6.84,0.00,0.00,0.00,0.00,34.2,0.53,0.53,https://fbref.com/en/players/a0aee24e/Joao-Moutinho,a0aee24e,Serie B
+353,Lukas Mühl,GER,DF,Spezia,26-346,1997,8.6,56.6,54.8,1.86,1.63,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,47.0,0.00,0.12,https://fbref.com/en/players/6b32d0a6/Lukas-Muhl,6b32d0a6,Serie B
+354,Nicola Murru,ITA,DF,Sampdoria,29-023,1994,12.5,56.5,51.4,4.80,1.52,0.00,0.24,0.64,3.04,0.00,0.00,0.00,0.00,48.4,0.24,0.32,https://fbref.com/en/players/d183e9d6/Nicola-Murru,d183e9d6,Serie B
+355,Marlon Mustapha,AUT,FW,Como,22-229,2001,2.0,16.0,14.0,1.50,0.00,0.00,0.00,0.50,1.00,0.00,0.00,0.00,0.00,11.5,0.50,0.00,https://fbref.com/en/players/9ff8ec4a/Marlon-Mustapha,9ff8ec4a,Serie B
+356,Ádám Nagy,HUN,MF,Pisa,28-205,1995,4.2,62.6,61.2,1.43,0.71,0.00,0.24,0.95,0.00,0.00,0.00,0.00,0.00,54.8,0.00,0.71,https://fbref.com/en/players/788b31e2/Adam-Nagy,788b31e2,Serie B
+357,Filippo Nardi,ITA,MF,Reggiana,25-311,1998,5.0,35.4,34.8,0.40,0.00,0.40,0.00,0.60,0.20,0.20,0.00,0.00,0.00,27.2,0.20,0.60,https://fbref.com/en/players/c280e9bf/Filippo-Nardi,c280e9bf,Serie B
+358,Marco Nasti,ITA,FW,Bari,20-113,2003,14.9,16.6,16.0,0.60,0.00,0.07,0.13,0.07,0.07,0.00,0.00,0.00,0.00,13.2,0.00,0.60,https://fbref.com/en/players/555acb58/Marco-Nasti,555acb58,Serie B
+359,Emanuele Ndoj,ALB,MF,Brescia,27-049,1996,1.2,35.0,32.5,2.50,0.83,0.00,1.67,2.50,0.83,0.83,0.00,0.83,0.00,24.2,0.00,0.83,https://fbref.com/en/players/482145e9/Emanuele-Ndoj,482145e9,Serie B
+360,Ionuț Nedelcearu,ROU,DF,Palermo,27-258,1996,2.2,47.3,42.3,4.09,3.18,0.00,0.45,0.00,0.00,0.00,0.00,0.00,0.00,40.9,0.91,0.45,https://fbref.com/en/players/7e40455a/Ionut-Nedelcearu,7e40455a,Serie B
+361,Stefano Negro,ITA,DF,Cittadella,28-194,1995,6.3,39.7,37.1,2.54,2.54,0.00,0.63,0.00,0.00,0.00,0.00,0.00,0.00,26.7,0.00,0.16,https://fbref.com/en/players/f9124b32/Stefano-Negro,f9124b32,Serie B
+362,Ilija Nestorovski,MKD,"FW,MF",Ascoli,33-302,1990,7.2,21.3,19.2,2.08,0.00,0.00,0.28,0.42,0.00,0.00,0.00,0.00,0.00,13.9,0.00,0.56,https://fbref.com/en/players/b1236c63/Ilija-Nestorovski,b1236c63,Serie B
+363,Dimitris Nikolaou,GRE,DF,Spezia,25-148,1998,15.8,57.4,53.6,3.73,2.91,0.00,0.44,0.44,0.70,0.00,0.00,0.00,0.00,47.7,0.06,0.19,https://fbref.com/en/players/cf961d8d/Dimitris-Nikolaou,cf961d8d,Serie B
+364,Andrija Novakovich,USA,FW,Calcio Lecco 1912,27-109,1996,17.2,16.6,16.3,0.12,0.00,0.00,0.00,0.35,0.00,0.00,0.00,0.00,0.00,10.5,0.12,0.35,https://fbref.com/en/players/a7d0bd3c/Andrija-Novakovich,a7d0bd3c,Serie B
+365,Samuel Ntanda,BEL,"MF,FW",Sampdoria,18-192,2005,0.1,50.0,50.0,0.00,0.00,10.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,40.0,0.00,0.00,https://fbref.com/en/players/48329ff8/Samuel-Ntanda,48329ff8,Serie B
+366,Cas Odenthal,NED,DF,Como,23-104,2000,19.0,47.6,43.2,4.21,3.37,0.00,0.42,0.05,0.05,0.00,0.00,0.00,0.00,39.5,0.26,0.26,https://fbref.com/en/players/e14e10b1/Cas-Odenthal,e14e10b1,Serie B
+367,Raphael Odogwu,NGA,FW,Südtirol,32-345,1991,12.0,19.8,19.3,0.33,0.17,0.17,0.00,0.58,0.00,0.00,0.00,0.00,0.00,12.7,0.08,1.08,https://fbref.com/en/players/3a7a68eb/Raphael-Odogwu,3a7a68eb,Serie B
+368,David Okereke,NGA,"FW,MF",Cremonese,26-132,1997,5.7,25.4,24.0,1.05,0.35,0.35,0.18,0.70,0.00,0.35,0.00,0.00,0.00,18.6,0.35,1.05,https://fbref.com/en/players/d125f22f/David-Okereke,d125f22f,Serie B
+369,Andrea Oliveri,ITA,"MF,DF",Catanzaro,20-359,2003,3.9,42.1,37.7,4.36,0.26,0.00,0.26,1.79,4.10,0.00,0.00,0.00,0.00,33.8,0.00,0.77,https://fbref.com/en/players/3eaf5cc3/Andrea-Oliveri,3eaf5cc3,Serie B
+370,Marco Olivieri,ITA,"FW,MF",Venezia,24-192,1999,0.7,24.3,24.3,0.00,0.00,0.00,0.00,4.29,0.00,0.00,0.00,0.00,0.00,12.9,0.00,2.86,https://fbref.com/en/players/f5ba8903/Marco-Olivieri,f5ba8903,Serie B
+371,Giacomo Olzer,ITA,"MF,FW",Brescia,22-269,2001,6.7,33.6,30.3,2.99,0.60,0.15,0.30,3.88,0.00,2.39,0.60,0.90,0.00,19.1,0.30,1.34,https://fbref.com/en/players/e32d7ce1/Giacomo-Olzer,e32d7ce1,Serie B
+372,Yordan Osorio,VEN,DF,Parma,29-243,1994,9.4,52.3,50.4,1.91,1.70,0.00,0.00,0.21,0.00,0.00,0.00,0.00,0.00,46.1,0.00,0.21,https://fbref.com/en/players/4d17df3e/Yordan-Osorio,4d17df3e,Serie B
+373,Shady Oukhadda,MAR,DF,Modena,24-356,1999,12.3,52.5,40.7,11.7,0.89,0.08,0.16,3.82,10.8,0.00,0.00,0.00,0.00,40.1,0.08,1.54,https://fbref.com/en/players/e2104c44/Shady-Oukhadda,e2104c44,Serie B
+374,Fabrizio Paghera,ITA,MF,Brescia,32-027,1991,6.0,52.3,48.8,3.33,2.83,0.00,1.67,0.67,0.17,0.17,0.17,0.00,0.00,43.5,0.17,0.83,https://fbref.com/en/players/9bd9da61/Fabrizio-Paghera,9bd9da61,Serie B
+375,Fabrizio Paghera,ITA,DF,Ternana,32-027,1991,0.3,30.0,26.7,3.33,0.00,0.00,0.00,0.00,3.33,0.00,0.00,0.00,0.00,23.3,0.00,3.33,https://fbref.com/en/players/9bd9da61/Fabrizio-Paghera,9bd9da61,Serie B
+376,Marko Pajač,CRO,DF,Reggiana,30-242,1993,1.2,70.0,49.2,20.8,3.33,0.00,0.00,6.67,15.0,2.50,1.67,0.83,0.00,51.7,0.00,0.83,https://fbref.com/en/players/5df4ef30/Marko-Pajac,5df4ef30,Serie B
+377,Antonio Palumbo,ITA,MF,Modena,27-155,1996,16.7,57.5,51.6,5.75,2.93,0.36,0.36,4.01,0.36,2.34,0.90,1.02,0.00,46.0,0.18,1.26,https://fbref.com/en/players/33e98344/Antonio-Palumbo,33e98344,Serie B
+378,Simone Panada,ITA,"FW,MF",Sampdoria,21-220,2002,0.3,43.3,40.0,3.33,3.33,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,30.0,0.00,0.00,https://fbref.com/en/players/8dbb063f/Simone-Panada,8dbb063f,Serie B
+379,Luca Pandolfi,ITA,FW,Cittadella,25-300,1998,8.1,16.5,16.4,0.12,0.00,0.12,0.12,0.37,0.00,0.00,0.00,0.00,0.00,8.64,0.00,0.86,https://fbref.com/en/players/3dd95d1c/Luca-Pandolfi,3dd95d1c,Serie B
+380,Andrea Papetti,ITA,DF,Brescia,21-189,2002,16.3,46.2,41.2,4.91,1.66,0.06,0.06,0.49,3.25,0.00,0.00,0.00,0.00,35.5,0.12,0.86,https://fbref.com/en/players/4195b8b6/Andrea-Papetti,4195b8b6,Serie B
+381,Vittorio Parigini,ITA,"DF,MF",FeralpiSalò,27-289,1996,6.4,35.9,31.6,4.22,0.16,0.16,0.16,5.63,3.28,0.47,0.16,0.16,0.00,24.4,0.16,2.03,https://fbref.com/en/players/75efed2e/Vittorio-Parigini,75efed2e,Serie B
+382,Anthony Partipilo,ITA,"FW,MF",Parma,29-073,1994,5.4,26.9,25.2,1.67,0.19,0.00,0.19,2.04,0.37,1.11,0.19,0.00,0.00,20.2,0.00,0.56,https://fbref.com/en/players/871ec5b7/Anthony-Partipilo,871ec5b7,Serie B
+383,Nicola Pavan,ITA,DF,Cittadella,30-207,1993,19.0,42.1,39.8,2.11,1.89,0.00,0.79,0.26,0.05,0.00,0.00,0.00,0.00,32.2,0.21,0.32,https://fbref.com/en/players/45e4bafb/Nicola-Pavan,45e4bafb,Serie B
+384,Emanuele Pecorino,ITA,FW,Südtirol,22-177,2001,6.0,28.7,28.3,0.33,0.00,0.33,0.17,0.83,0.00,0.00,0.00,0.00,0.00,18.5,0.00,0.67,https://fbref.com/en/players/f47bb608/Emanuele-Pecorino,f47bb608,Serie B
+385,Daouda Peeters,BEL,MF,Südtirol,24-347,1999,8.0,32.3,31.4,0.88,0.88,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,28.1,0.00,0.25,https://fbref.com/en/players/e83f8ebb/Daouda-Peeters,e83f8ebb,Serie B
+386,Antonio Pergreffi,ITA,DF,Modena,35-247,1988,10.2,51.9,47.4,4.31,2.75,0.00,0.49,0.29,1.08,0.00,0.00,0.00,0.00,42.7,0.20,0.29,https://fbref.com/en/players/9c945bef/Antonio-Pergreffi,9c945bef,Serie B
+387,Stefano Pettinari,ITA,FW,Reggiana,31-346,1992,6.0,24.7,22.5,1.83,0.00,0.00,0.17,0.33,0.17,0.00,0.00,0.00,0.00,15.8,0.33,1.67,https://fbref.com/en/players/23f49f0e/Stefano-Pettinari,23f49f0e,Serie B
+388,Gabriele Piccinini,ITA,"MF,FW",Pisa,22-277,2001,10.3,48.6,47.7,0.68,0.10,0.00,0.29,1.36,0.19,0.00,0.00,0.00,0.00,40.1,0.29,0.68,https://fbref.com/en/players/92e4465e/Gabriele-Piccinini,92e4465e,Serie B
+389,Charles Pickel,COD,MF,Cremonese,26-238,1997,7.4,38.6,37.6,0.95,0.27,0.00,0.00,0.14,0.68,0.00,0.00,0.00,0.00,32.2,0.14,0.68,https://fbref.com/en/players/f71ad8cb/Charles-Pickel,f71ad8cb,Serie B
+390,Edoardo Pieragnolo,ITA,DF,Reggiana,21-005,2003,12.8,44.5,35.0,9.38,0.55,0.08,0.55,3.36,8.83,0.00,0.00,0.00,0.00,31.0,0.08,1.56,https://fbref.com/en/players/ae67e0c4/Edoardo-Pieragnolo,ae67e0c4,Serie B
+391,Nicholas Pierini,ITA,"FW,MF",Venezia,25-155,1998,13.0,35.2,29.0,6.23,1.31,0.23,0.08,6.23,0.69,3.54,1.77,1.38,0.08,25.3,0.00,0.77,https://fbref.com/en/players/7cc89a5f/Nicholas-Pierini,7cc89a5f,Serie B
+392,Niccolò Pietra,ITA,"MF,DF",Spezia,20-102,2003,1.3,40.0,36.9,3.08,0.77,0.00,0.77,0.00,2.31,0.00,0.00,0.00,0.00,26.2,0.00,1.54,https://fbref.com/en/players/cab36106/Niccolo-Pietra,cab36106,Serie B
+393,Alessandro Pietrelli,ITA,"FW,MF",FeralpiSalò,21-003,2003,0.2,30.0,30.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,25.0,0.00,0.00,https://fbref.com/en/players/388a593c/Alessandro-Pietrelli,388a593c,Serie B
+394,Mirko Pigliacelli,ITA,GK,Palermo,30-192,1993,19.0,38.7,30.1,8.32,2.58,0.00,0.16,0.00,0.00,0.00,0.00,0.00,0.00,31.0,0.32,0.00,https://fbref.com/en/players/6ab82588/Mirko-Pigliacelli,6ab82588,Serie B
+395,Alessandro Pilati,ITA,DF,FeralpiSalò,23-288,2000,9.3,48.7,45.6,3.12,1.40,0.00,0.22,0.11,0.65,0.00,0.00,0.00,0.00,39.0,0.00,0.43,https://fbref.com/en/players/b3503746/Alessandro-Pilati,b3503746,Serie B
+396,Lorenzo Pinzauti,ITA,FW,Calcio Lecco 1912,29-121,1994,0.8,22.5,21.3,1.25,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,15.0,0.00,0.00,https://fbref.com/en/players/70854d90/Lorenzo-Pinzauti,70854d90,Serie B
+397,Marco Pissardo,ITA,GK,Bari,26-000,1998,0.3,23.3,10.0,13.3,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,6.67,0.00,0.00,https://fbref.com/en/players/73ba463e/Marco-Pissardo,73ba463e,Serie B
+398,Filippo Pittarello,ITA,FW,Cittadella,27-091,1996,13.1,17.8,17.6,0.15,0.00,0.00,0.15,0.15,0.00,0.00,0.00,0.00,0.00,12.4,0.08,1.15,https://fbref.com/en/players/2323ea55/Filippo-Pittarello,2323ea55,Serie B
+399,Semuel Pizzignacco,ITA,GK,FeralpiSalò,22-129,2001,19.0,32.1,20.4,11.6,3.63,0.00,0.05,0.00,0.00,0.00,0.00,0.00,0.00,22.3,0.16,0.00,https://fbref.com/en/players/4f537cf7/Semuel-Pizzignacco,4f537cf7,Serie B
+400,Joel Pohjanpalo,FIN,FW,Venezia,29-117,1994,13.2,20.2,17.9,1.97,0.00,0.15,0.00,0.15,0.08,0.00,0.00,0.00,0.00,13.6,0.30,0.30,https://fbref.com/en/players/ea003d07/Joel-Pohjanpalo,ea003d07,Serie B
+401,Giacomo Poluzzi,ITA,GK,Südtirol,35-317,1988,19.0,34.2,21.1,12.9,3.79,0.00,0.16,0.00,0.00,0.00,0.00,0.00,0.00,21.3,0.16,0.05,https://fbref.com/en/players/07f55871/Giacomo-Poluzzi,07f55871,Serie B
+402,Marco Pompetti,ITA,MF,Catanzaro,23-231,2000,6.8,62.9,59.7,3.24,1.76,0.00,0.74,2.79,0.00,1.47,0.00,1.18,0.00,56.0,0.00,0.00,https://fbref.com/en/players/5230042f/Marco-Pompetti,5230042f,Serie B
+403,Fabio Ponsi,ITA,DF,Modena,22-330,2001,10.9,49.3,40.2,8.99,0.83,0.00,0.00,3.30,8.17,0.00,0.00,0.00,0.00,35.3,0.09,1.93,https://fbref.com/en/players/9a65d70e/Fabio-Ponsi,9a65d70e,Serie B
+404,Simone Pontisso,ITA,MF,Catanzaro,26-294,1997,4.9,69.4,67.1,2.04,1.63,0.00,0.41,1.63,0.00,0.41,0.00,0.41,0.00,58.0,0.20,0.61,https://fbref.com/en/players/8a2d3fdb/Simone-Pontisso,8a2d3fdb,Serie B
+405,Manolo Portanova,ITA,"MF,DF",Reggiana,23-220,2000,15.1,26.6,24.0,2.38,0.60,0.00,0.13,3.11,1.06,0.33,0.26,0.07,0.00,16.4,0.26,1.66,https://fbref.com/en/players/c8c0dccd/Manolo-Portanova,c8c0dccd,Serie B
+406,Mateusz Praszelik,POL,MF,Cosenza,23-104,2000,8.4,45.2,42.7,2.50,1.90,0.00,0.12,1.07,0.00,0.60,0.36,0.12,0.00,38.9,0.00,0.36,https://fbref.com/en/players/ec6773f5/Mateusz-Praszelik,ec6773f5,Serie B
+407,Mattia Proietti,ITA,MF,Ternana,31-315,1992,1.3,59.2,53.8,5.38,3.08,0.00,0.77,0.77,0.00,0.00,0.00,0.00,0.00,46.2,0.00,0.77,https://fbref.com/en/players/55d79b9c/Mattia-Proietti,55d79b9c,Serie B
+408,Raffaele Pucino,ITA,"DF,MF",Bari,32-250,1991,5.3,61.9,54.0,7.92,3.02,0.00,0.00,1.32,4.91,0.00,0.00,0.00,0.00,49.4,0.00,1.13,https://fbref.com/en/players/30f554cc/Raffaele-Pucino,30f554cc,Serie B
+409,Niklas Pyyhtiä,FIN,MF,Ternana,20-105,2003,10.2,39.6,38.6,0.69,0.49,0.29,0.20,1.08,0.00,0.20,0.00,0.20,0.00,30.2,0.29,1.67,https://fbref.com/en/players/88f53b75/Niklas-Pyyhtia,88f53b75,Serie B
+410,Giacomo Quagliata,ITA,DF,Cremonese,23-323,2000,7.7,56.1,46.8,9.35,0.78,0.00,0.13,7.79,8.18,0.39,0.13,0.26,0.00,42.3,0.00,1.69,https://fbref.com/en/players/1b9c7401/Giacomo-Quagliata,1b9c7401,Serie B
+411,Danilo Quaranta,ITA,DF,Ascoli,26-291,1997,14.2,37.4,33.7,3.66,1.34,0.00,0.07,0.07,2.32,0.00,0.00,0.00,0.00,27.3,0.07,0.42,https://fbref.com/en/players/6d02201f/Danilo-Quaranta,6d02201f,Serie B
+412,Antonio Raimondo,ITA,FW,Ternana,19-296,2004,14.3,15.7,14.3,1.33,0.00,0.00,0.00,0.63,0.00,0.00,0.00,0.00,0.00,10.1,0.07,0.91,https://fbref.com/en/players/ce1a6c7e/Antonio-Raimondo,ce1a6c7e,Serie B
+413,Nicola Rauti,ITA,FW,Südtirol,23-266,2000,6.2,24.7,24.0,0.65,0.00,0.00,0.32,0.48,0.00,0.00,0.00,0.00,0.00,18.2,0.00,0.81,https://fbref.com/en/players/f1d5e1f9/Nicola-Rauti,f1d5e1f9,Serie B
+414,Nicola Ravaglia,ITA,GK,Sampdoria,35-027,1988,1.0,47.0,29.0,18.0,5.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,28.0,0.00,0.00,https://fbref.com/en/players/d7a35008/Nicola-Ravaglia,d7a35008,Serie B
+415,Luca Ravanelli,ITA,DF,Cremonese,26-357,1997,14.2,60.9,57.7,3.10,1.97,0.00,0.07,0.00,0.00,0.00,0.00,0.00,0.00,52.5,0.07,0.28,https://fbref.com/en/players/029370a7/Luca-Ravanelli,029370a7,Serie B
+416,Arkadiusz Reca,POL,DF,Spezia,28-205,1995,10.0,40.4,32.7,7.50,0.50,0.00,0.00,4.60,7.00,0.00,0.00,0.00,0.00,26.3,0.20,1.60,https://fbref.com/en/players/6213fd82/Arkadiusz-Reca,6213fd82,Serie B
+417,Giacomo Ricci,ITA,DF,Bari,27-128,1996,14.0,55.7,45.8,9.79,1.21,0.00,0.36,3.43,8.57,0.00,0.00,0.00,0.00,41.7,0.14,2.21,https://fbref.com/en/players/cfb38237/Giacomo-Ricci,cfb38237,Serie B
+418,Matteo Ricci,ITA,MF,Sampdoria,29-226,1994,3.7,67.6,61.6,5.95,3.24,0.00,0.27,3.51,0.00,2.70,0.81,1.89,0.00,55.1,0.00,0.00,https://fbref.com/en/players/3cf7dc7e/Matteo-Ricci,3cf7dc7e,Serie B
+419,Alessandro Riccio,ITA,DF,Modena,21-336,2002,6.9,49.9,43.2,6.67,3.19,0.00,0.43,0.58,3.48,0.00,0.00,0.00,0.00,39.7,0.00,0.14,https://fbref.com/en/players/3f9d3385/Alessandro-Riccio,3f9d3385,Serie B
+420,Andrea Rispoli,ITA,DF,Cosenza,35-101,1988,7.4,48.4,40.1,8.24,0.68,0.00,0.14,5.68,7.57,0.00,0.00,0.00,0.00,33.8,0.00,2.70,https://fbref.com/en/players/39ee6cb6/Andrea-Rispoli,39ee6cb6,Serie B
+421,Pablo Rodríguez,ESP,"FW,MF",Ascoli,22-157,2001,12.9,19.3,18.4,0.78,0.16,0.00,0.08,1.47,0.31,0.08,0.00,0.00,0.00,13.0,0.08,0.85,https://fbref.com/en/players/1d4e63b6/Pablo-Rodriguez,1d4e63b6,Serie B
+422,Filippo Romagna,ITA,DF,Reggiana,26-227,1997,9.2,60.2,58.4,1.74,1.30,0.11,0.33,0.11,0.11,0.00,0.00,0.00,0.00,54.1,0.11,0.11,https://fbref.com/en/players/84594618/Filippo-Romagna,84594618,Serie B
+423,Matteo Rover,ITA,"MF,FW",Südtirol,24-322,1999,6.3,27.5,26.2,0.95,0.00,0.00,0.63,2.86,0.48,0.48,0.32,0.00,0.00,18.9,0.32,0.48,https://fbref.com/en/players/818ce8be/Matteo-Rover,818ce8be,Serie B
+424,Paolo Rozzio,ITA,DF,Reggiana,31-170,1992,9.0,56.6,55.0,1.56,1.56,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,50.6,0.00,0.00,https://fbref.com/en/players/85a81859/Paolo-Rozzio,85a81859,Serie B
+425,Marco Sala,ITA,"DF,MF",Como,24-218,1999,6.5,47.8,37.4,10.5,0.92,0.00,0.31,3.54,9.54,0.00,0.00,0.00,0.00,34.2,0.00,2.15,https://fbref.com/en/players/0c57be8b/Marco-Sala,0c57be8b,Serie B
+426,Alessandro Salvi,ITA,DF,Cittadella,35-217,1988,14.5,53.7,40.9,12.8,1.79,0.00,0.90,2.28,11.0,0.00,0.00,0.00,0.00,36.8,0.00,1.17,https://fbref.com/en/players/21759388/Alessandro-Salvi,21759388,Serie B
+427,Mario Sampirisi,ITA,DF,Reggiana,31-069,1992,11.0,59.9,50.4,9.27,3.00,0.09,0.27,0.55,6.27,0.00,0.00,0.00,0.00,49.3,0.27,0.45,https://fbref.com/en/players/cda2ec29/Mario-Sampirisi,cda2ec29,Serie B
+428,Umberto Saracco,ITA,GK,Calcio Lecco 1912,29-273,1994,9.5,36.1,21.8,14.2,2.95,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,24.8,0.11,0.00,https://fbref.com/en/players/a5894925/Umberto-Saracco,a5894925,Serie B
+429,Dario Šarić,BIH,MF,Palermo,26-223,1997,0.1,100.0,90.0,10.0,0.00,0.00,0.00,30.0,10.0,0.00,0.00,0.00,0.00,60.0,0.00,0.00,https://fbref.com/en/players/f4e24431/Dario-Saric,f4e24431,Serie B
+430,Mouhamadou Sarr,SEN,GK,Cremonese,27-003,1997,12.0,29.3,21.5,7.50,2.58,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,21.8,0.25,0.00,https://fbref.com/en/players/b959a0d1/Mouhamadou-Sarr,b959a0d1,Serie B
+431,Marco Sau,ITA,FW,FeralpiSalò,36-066,1987,2.6,35.4,34.6,0.77,0.00,0.77,0.00,0.38,0.00,0.00,0.00,0.00,0.00,27.3,0.00,1.92,https://fbref.com/en/players/1ad1f50d/Marco-Sau,1ad1f50d,Serie B
+432,Aurélien Scheidler,FRA,FW,Bari,25-218,1998,1.1,27.3,26.4,0.91,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,12.7,0.00,0.91,https://fbref.com/en/players/bc9479b9/Aurelien-Scheidler,bc9479b9,Serie B
+433,Stefano Scognamillo,ITA,DF,Catanzaro,29-249,1994,18.0,65.0,59.6,5.28,4.50,0.00,0.33,0.11,0.78,0.00,0.00,0.00,0.00,57.8,0.11,0.44,https://fbref.com/en/players/3772ef58/Stefano-Scognamillo,3772ef58,Serie B
+434,Andrea Seculin,ITA,GK,Modena,33-178,1990,4.5,31.6,25.6,5.78,1.78,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,21.6,0.22,0.22,https://fbref.com/en/players/c4f573f4/Andrea-Seculin,c4f573f4,Serie B
+435,Jacopo Segre,ITA,MF,Palermo,26-325,1997,12.3,34.7,33.7,0.65,0.57,0.08,0.08,0.41,0.08,0.00,0.00,0.00,0.00,28.6,0.33,0.41,https://fbref.com/en/players/3cb132e6/Jacopo-Segre,3cb132e6,Serie B
+436,Nikola Sekulov,ITA,DF,Cremonese,21-324,2002,0.2,45.0,45.0,0.00,0.00,0.00,0.00,5.00,0.00,0.00,0.00,0.00,0.00,30.0,0.00,0.00,https://fbref.com/en/players/b2e08cb6/Nikola-Sekulov,b2e08cb6,Serie B
+437,Adrian Šemper,CRO,GK,Como,25-361,1998,19.0,30.5,23.1,7.32,2.42,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,22.3,0.05,0.00,https://fbref.com/en/players/f02dde20/Adrian-Semper,f02dde20,Serie B
+438,Leonardo Sernicola,ITA,DF,Cremonese,26-162,1997,16.0,43.5,39.0,4.44,0.25,0.00,0.25,5.88,3.94,0.25,0.06,0.06,0.00,33.6,0.06,0.75,https://fbref.com/en/players/dd7febd8/Leonardo-Sernicola,dd7febd8,Serie B
+439,Laurens Serpe,ITA,DF,Spezia,22-335,2001,1.0,39.0,37.0,2.00,1.00,0.00,0.00,1.00,1.00,0.00,0.00,0.00,0.00,27.0,0.00,0.00,https://fbref.com/en/players/79d60e74/Laurens-Serpe,79d60e74,Serie B
+440,Alessandro Sersanti,ITA,MF,Calcio Lecco 1912,21-326,2002,13.9,37.8,36.0,1.51,1.44,0.00,0.43,0.50,0.07,0.00,0.00,0.00,0.00,28.6,0.22,0.86,https://fbref.com/en/players/5af3cc62/Alessandro-Sersanti,5af3cc62,Serie B
+441,Filippo Sgarbi,ITA,DF,Cosenza,26-010,1997,4.9,42.4,37.1,5.31,2.04,0.00,0.20,0.82,1.22,0.00,0.00,0.00,0.00,30.6,0.00,0.61,https://fbref.com/en/players/1c992de5/Filippo-Sgarbi,1c992de5,Serie B
+442,Giuseppe Sibilli,ITA,"MF,FW",Bari,27-154,1996,15.6,36.7,34.4,1.99,0.58,0.13,1.47,4.04,0.32,0.96,0.38,0.38,0.06,26.1,0.32,1.15,https://fbref.com/en/players/4615b53a/Giuseppe-Sibilli,4615b53a,Serie B
+443,Nicholas Siega,ITA,DF,Südtirol,32-317,1991,0.2,15.0,15.0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,10.0,0.00,0.00,https://fbref.com/en/players/72862de4/Nicholas-Siega,72862de4,Serie B
+444,Tommaso Silvestri,ITA,DF,Modena,32-074,1991,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/4fcf21ee/Tommaso-Silvestri,4fcf21ee,Serie B
+445,Yehiya Silvestri,ITA,MF,Ascoli,18-231,2005,0.2,,,,,,,0.00,,,,,,,,,https://fbref.com/en/players/d3a8d462/Yehiya-Silvestri,d3a8d462,Serie B
+446,Mario Šitum,CRO,DF,Catanzaro,31-279,1992,7.0,62.7,53.1,9.43,1.71,0.00,0.00,3.29,7.71,0.00,0.00,0.00,0.00,52.3,0.14,1.14,https://fbref.com/en/players/0638becf/Mario-Situm,0638becf,Serie B
+447,Simon Sohm,SUI,MF,Parma,22-272,2001,10.5,30.0,28.4,1.52,0.00,0.19,0.00,0.86,0.95,0.19,0.00,0.00,0.00,24.0,0.10,0.76,https://fbref.com/en/players/a5f458d9/Simon-Sohm,a5f458d9,Serie B
+448,Edoardo Soleri,ITA,FW,Palermo,26-081,1997,3.1,20.6,20.0,0.32,0.00,0.00,0.00,0.00,0.32,0.00,0.00,0.00,0.00,15.2,0.32,0.32,https://fbref.com/en/players/3c33accc/Edoardo-Soleri,3c33accc,Serie B
+449,Matteo Solini,ITA,DF,Como,30-305,1993,2.0,54.0,48.5,5.50,1.50,0.00,0.50,0.00,0.00,0.00,0.00,0.00,0.00,47.0,0.00,0.50,https://fbref.com/en/players/9c64d84e/Matteo-Solini,9c64d84e,Serie B
+450,Dimitris Sounas,GRE,"FW,MF",Catanzaro,29-149,1994,9.8,,,,,,,0.92,,,,,,,,,https://fbref.com/en/players/c10beeb8/Dimitris-Sounas,c10beeb8,Serie B
+451,Filip Stankovic,SRB,GK,Sampdoria,21-317,2002,18.0,36.1,28.5,7.50,1.44,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,27.6,0.06,0.00,https://fbref.com/en/players/d34d8ed2/Filip-Stankovic,d34d8ed2,Serie B
+452,Petar Stojanović,SVN,DF,Sampdoria,28-093,1995,8.3,60.0,47.3,12.4,2.05,0.00,0.84,3.13,10.2,0.12,0.00,0.12,0.00,45.8,0.24,0.72,https://fbref.com/en/players/13b44b02/Petar-Stojanovic,13b44b02,Serie B
+453,Matteo Stoppa,ITA,FW,Sampdoria,23-103,2000,0.1,50.0,40.0,10.0,0.00,0.00,0.00,0.00,0.00,10.0,0.00,0.00,0.00,40.0,0.00,0.00,https://fbref.com/en/players/de3e65e1/Matteo-Stoppa,de3e65e1,Serie B
+454,Matteo Stoppa,ITA,"MF,FW",Catanzaro,23-103,2000,4.6,35.2,32.8,2.17,0.65,0.00,0.43,1.96,0.87,0.65,0.00,0.22,0.22,27.2,0.22,0.22,https://fbref.com/en/players/de3e65e1/Matteo-Stoppa,de3e65e1,Serie B
+455,Luca Strizzolo,ITA,"FW,MF",Modena,31-254,1992,5.6,20.4,20.0,0.36,0.00,0.00,0.00,0.00,0.18,0.00,0.00,0.00,0.00,13.6,0.00,0.00,https://fbref.com/en/players/2bcfd41b/Luca-Strizzolo,2bcfd41b,Serie B
+456,Leo Štulac,SVN,MF,Palermo,29-104,1994,9.1,60.2,51.8,7.91,3.19,0.00,0.33,6.04,0.22,3.63,1.98,1.43,0.00,45.5,0.55,0.33,https://fbref.com/en/players/92948398/Leo-Stulac,92948398,Serie B
+457,Marin Šverko,CRO,DF,Venezia,25-338,1998,12.3,63.1,57.6,5.45,1.22,0.08,0.16,0.24,4.23,0.00,0.00,0.00,0.00,54.0,0.08,0.73,https://fbref.com/en/players/06dba850/Marin-Sverko,06dba850,Serie B
+458,Michael Svoboda,AUT,DF,Venezia,25-085,1998,0.5,104.0,100.0,4.00,2.00,0.00,0.00,0.00,2.00,0.00,0.00,0.00,0.00,96.0,0.00,0.00,https://fbref.com/en/players/8abd174d/Michael-Svoboda,8abd174d,Serie B
+459,Przemysław Szymiński,POL,DF,Reggiana,29-198,1994,8.1,55.7,50.7,4.81,1.85,0.00,0.12,0.12,2.84,0.00,0.00,0.00,0.00,47.9,0.12,0.37,https://fbref.com/en/players/9b3099d6/Przemyslaw-Szyminski,9b3099d6,Serie B
+460,Frederik Sørensen,DEN,DF,Ternana,31-269,1992,6.1,37.0,34.3,2.79,1.31,0.00,0.49,0.00,1.48,0.00,0.00,0.00,0.00,23.6,0.00,0.98,https://fbref.com/en/players/68635c10/Frederik-Sorensen,68635c10,Serie B
+461,Fabian Tait,ITA,MF,Südtirol,30-332,1993,17.8,40.7,37.0,3.60,1.24,0.06,0.11,0.84,0.62,0.06,0.06,0.00,0.00,31.2,0.06,0.90,https://fbref.com/en/players/216cd503/Fabian-Tait,216cd503,Serie B
+462,Joshua Tenkorang,ITA,"MF,FW",Calcio Lecco 1912,23-227,2000,1.6,22.5,22.5,0.00,0.00,0.00,0.00,2.50,0.00,0.00,0.00,0.00,0.00,18.1,0.00,0.63,https://fbref.com/en/players/a5512452/Joshua-Tenkorang,a5512452,Serie B
+463,Andrea Tessiore,ITA,MF,Cittadella,24-099,1999,4.9,30.4,25.7,4.69,0.82,0.00,0.00,6.12,0.61,3.27,1.22,1.84,0.00,18.6,0.00,2.04,https://fbref.com/en/players/6931ad94/Andrea-Tessiore,6931ad94,Serie B
+464,Tanner Tessmann,USA,MF,Venezia,22-106,2001,17.4,63.2,60.2,2.87,1.90,0.29,1.03,1.84,0.17,0.80,0.29,0.34,0.00,50.3,0.11,1.38,https://fbref.com/en/players/ac277993/Tanner-Tessmann,ac277993,Serie B
+465,Mattia Tonetto,ITA,DF,FeralpiSalò,22-288,2001,4.4,48.2,40.2,7.95,0.00,0.00,0.23,5.68,7.73,0.23,0.00,0.23,0.00,33.4,0.00,2.05,https://fbref.com/en/players/8a5b70bc/Mattia-Tonetto,8a5b70bc,Serie B
+466,Mattia Tordini,ITA,"FW,MF",Calcio Lecco 1912,21-200,2002,2.1,36.7,35.7,0.95,0.00,0.00,0.95,0.95,0.48,0.00,0.00,0.00,0.00,26.2,0.00,0.95,https://fbref.com/en/players/546ce296/Mattia-Tordini,546ce296,Serie B
+467,Ernesto Torregrossa,VEN,"FW,MF",Pisa,31-194,1992,3.1,29.7,27.7,1.94,0.97,0.00,0.32,0.32,0.32,0.00,0.00,0.00,0.00,21.3,0.00,1.29,https://fbref.com/en/players/bf39bdec/Ernesto-Torregrossa,bf39bdec,Serie B
+468,Idrissa Touré,GER,"MF,FW",Pisa,25-254,1998,0.7,50.0,47.1,1.43,0.00,0.00,0.00,0.00,1.43,0.00,0.00,0.00,0.00,31.4,1.43,0.00,https://fbref.com/en/players/6cfd5783/Idrissa-Toure,6cfd5783,Serie B
+469,Lisandru Tramoni,FRA,"FW,DF",Pisa,20-265,2003,6.7,39.3,35.8,3.28,0.15,0.30,0.30,3.88,1.64,1.49,0.90,0.15,0.00,26.7,0.15,1.34,https://fbref.com/en/players/a4e9d6eb/Lisandru-Tramoni,a4e9d6eb,Serie B
+470,Mattéo Tramoni,FRA,MF,Pisa,23-353,2000,0.9,25.6,23.3,2.22,0.00,0.00,0.00,1.11,1.11,1.11,0.00,0.00,0.00,13.3,0.00,2.22,https://fbref.com/en/players/2e0ae188/Matteo-Tramoni,2e0ae188,Serie B
+471,Luca Tremolada,ITA,"MF,FW",Modena,32-044,1991,12.8,47.1,39.1,7.73,1.48,0.55,0.16,7.27,0.23,4.30,2.03,1.25,0.00,30.2,0.31,1.17,https://fbref.com/en/players/ed65da8c/Luca-Tremolada,ed65da8c,Serie B
+472,Frank Tsadjout,ITA,"FW,MF",Cremonese,24-164,1999,2.0,21.0,19.5,1.00,0.00,0.00,0.50,0.50,0.50,0.00,0.00,0.00,0.00,16.0,0.50,1.50,https://fbref.com/en/players/0588a092/Frank-Tsadjout,0588a092,Serie B
+473,Alessandro Tuia,ITA,DF,Cremonese,33-214,1990,1.7,68.8,62.9,5.29,1.76,0.00,2.35,0.00,3.53,0.00,0.00,0.00,0.00,59.4,0.59,1.18,https://fbref.com/en/players/26c54058/Alessandro-Tuia,26c54058,Serie B
+474,Gennaro Tutino,ITA,"FW,MF",Cosenza,27-141,1996,17.6,24.3,21.8,2.39,0.11,0.11,0.57,1.87,0.74,0.00,0.00,0.00,0.00,17.5,0.11,0.85,https://fbref.com/en/players/8b303bcb/Gennaro-Tutino,8b303bcb,Serie B
+475,Maximilian Ullmann,AUT,"DF,MF",Venezia,27-205,1996,0.5,70.0,66.0,4.00,0.00,0.00,0.00,0.00,4.00,0.00,0.00,0.00,0.00,54.0,0.00,0.00,https://fbref.com/en/players/caaf2ed1/Maximilian-Ullmann,caaf2ed1,Serie B
+476,Nicola Valente,ITA,"FW,DF",Palermo,32-094,1991,3.1,43.9,36.5,7.42,1.94,0.00,0.00,16.8,3.87,1.61,0.65,0.97,0.00,23.2,0.00,2.58,https://fbref.com/en/players/39802da1/Nicola-Valente,39802da1,Serie B
+477,Mattia Valoti,ITA,"MF,FW",Pisa,30-124,1993,12.5,46.9,45.8,0.64,0.24,0.32,1.76,1.28,0.32,0.00,0.00,0.00,0.00,37.8,0.48,0.80,https://fbref.com/en/players/c414df9d/Mattia-Valoti,c414df9d,Serie B
+478,Jari Vandeputte,BEL,"MF,DF",Catanzaro,27-328,1996,18.0,43.6,37.2,6.33,1.28,0.17,0.39,7.50,1.44,3.61,1.72,1.50,0.00,29.6,0.06,1.00,https://fbref.com/en/players/68e75bf4/Jari-Vandeputte,68e75bf4,Serie B
+479,Aljosa Vasic,SRB,"MF,FW",Palermo,21-262,2002,5.1,28.6,28.0,0.39,0.20,0.00,0.00,1.37,0.20,0.00,0.00,0.00,0.00,18.2,0.20,1.96,https://fbref.com/en/players/7ca06482/Aljosa-Vasic,7ca06482,Serie B
+480,Franco Vázquez,ARG,"FW,MF",Cremonese,34-320,1989,16.2,47.0,45.2,1.60,0.19,0.12,0.37,1.42,0.43,0.43,0.12,0.00,0.00,37.5,0.19,1.11,https://fbref.com/en/players/467bae22/Franco-Vazquez,467bae22,Serie B
+481,Miguel Veloso,POR,MF,Pisa,37-242,1986,9.5,72.1,62.4,9.58,3.79,0.11,0.21,6.21,0.32,4.84,1.47,1.89,0.11,58.5,0.11,1.05,https://fbref.com/en/players/ab1ca213/Miguel-Veloso,ab1ca213,Serie B
+482,Michael Venturi,ITA,DF,Cosenza,24-350,1999,16.4,53.3,49.8,3.41,1.95,0.12,0.73,0.06,0.06,0.00,0.00,0.00,0.00,47.0,0.12,0.37,https://fbref.com/en/players/07d0e50e/Michael-Venturi,07d0e50e,Serie B
+483,Daniele Verde,ITA,"FW,MF",Spezia,27-202,1996,8.1,47.3,40.6,6.54,1.36,0.12,0.74,6.05,1.48,2.72,0.74,1.48,0.00,36.3,0.12,0.86,https://fbref.com/en/players/d3298c99/Daniele-Verde,d3298c99,Serie B
+484,Simone Verdi,ITA,"MF,FW",Como,31-180,1992,11.1,37.5,32.2,5.05,1.89,0.36,0.36,3.24,0.18,1.98,0.99,0.27,0.00,27.7,0.27,0.81,https://fbref.com/en/players/0375723e/Simone-Verdi,0375723e,Serie B
+485,Antonio Vergara,ITA,MF,Reggiana,20-357,2003,1.5,40.0,37.3,2.67,2.00,0.00,0.67,2.67,0.67,0.00,0.00,0.00,0.00,28.7,0.00,1.33,https://fbref.com/en/players/848c17ed/Antonio-Vergara,848c17ed,Serie B
+486,Luca Verna,ITA,MF,Catanzaro,30-201,1993,9.5,56.2,55.4,0.74,0.74,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,52.2,0.11,0.32,https://fbref.com/en/players/242f5fd8/Luca-Verna,242f5fd8,Serie B
+487,Davide Veroli,ITA,DF,Catanzaro,20-344,2003,10.0,56.4,50.3,5.90,1.20,0.10,0.10,0.50,4.70,0.00,0.00,0.00,0.00,44.2,0.20,0.60,https://fbref.com/en/players/a872279e/Davide-Veroli,a872279e,Serie B
+488,Valerio Verre,ITA,"MF,FW",Sampdoria,29-362,1994,13.7,49.9,43.5,5.69,2.34,0.58,0.58,4.38,0.44,1.90,0.51,0.95,0.00,35.5,0.66,1.09,https://fbref.com/en/players/33ecf462/Valerio-Verre,33ecf462,Serie B
+489,Mauro Verzelletti,ITA,DF,FeralpiSalò,20-121,2003,0.1,50.0,30.0,20.0,0.00,0.00,0.00,0.00,20.0,0.00,0.00,0.00,0.00,40.0,0.00,0.00,https://fbref.com/en/players/ae328ad3/Mauro-Verzelletti,ae328ad3,Serie B
+490,Francesco Vicari,ITA,DF,Bari,29-158,1994,19.0,51.8,49.7,1.89,1.16,0.00,0.63,0.05,0.00,0.00,0.00,0.00,0.00,45.3,0.16,0.05,https://fbref.com/en/players/de045b15/Francesco-Vicari,de045b15,Serie B
+491,Luca Vido,ITA,FW,Reggiana,26-339,1997,0.4,37.5,37.5,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,32.5,0.00,0.00,https://fbref.com/en/players/eb0d77a4/Luca-Vido,eb0d77a4,Serie B
+492,Ronaldo Vieira,ENG,MF,Sampdoria,25-173,1998,8.4,42.1,40.8,0.95,0.60,0.12,0.83,0.48,0.36,0.00,0.00,0.00,0.00,36.0,0.36,0.95,https://fbref.com/en/players/75e60d75/Ronaldo-Vieira,75e60d75,Serie B
+493,Luca Vignali,ITA,"DF,MF",Como,27-362,1996,3.0,47.0,38.3,8.67,1.33,0.00,0.33,1.67,7.33,0.00,0.00,0.00,0.00,32.0,0.00,1.33,https://fbref.com/en/players/c1e8e74e/Luca-Vignali,c1e8e74e,Serie B
+494,Emanuel Vignato,ITA,"MF,FW",Pisa,23-137,2000,5.6,39.6,39.5,0.18,0.00,0.36,0.00,1.61,0.18,0.00,0.00,0.00,0.00,30.7,0.00,0.36,https://fbref.com/en/players/ec5dae45/Emanuel-Vignato,ec5dae45,Serie B
+495,Kevin Vinetot,FRA,DF,Südtirol,35-208,1988,11.1,39.5,37.9,1.62,1.26,0.00,0.18,0.09,0.09,0.00,0.00,0.00,0.00,31.6,0.00,0.54,https://fbref.com/en/players/655c1ba8/Kevin-Vinetot,655c1ba8,Serie B
+496,Alessio Vita,ITA,MF,Cittadella,30-298,1993,17.7,38.1,35.3,2.60,0.62,0.00,0.34,4.52,0.68,0.90,0.45,0.45,0.00,23.8,0.23,1.58,https://fbref.com/en/players/0fbe3cbb/Alessio-Vita,0fbe3cbb,Serie B
+497,Federico Viviani,ITA,"MF,FW",Ternana,31-290,1992,0.9,77.8,68.9,8.89,6.67,0.00,0.00,5.56,0.00,2.22,0.00,2.22,0.00,63.3,0.00,1.11,https://fbref.com/en/players/2258c078/Federico-Viviani,2258c078,Serie B
+498,Mattia Viviani,ITA,MF,Cosenza,23-126,2000,2.7,45.2,43.3,1.85,1.11,0.00,0.37,0.37,0.37,0.37,0.00,0.00,0.00,38.5,0.00,0.37,https://fbref.com/en/players/360b2bb1/Mattia-Viviani,360b2bb1,Serie B
+499,Emiliano Viviano,ITA,GK,Ascoli,38-038,1985,16.7,29.3,21.1,8.02,3.05,0.00,0.12,0.00,0.00,0.00,0.00,0.00,0.00,19.6,0.18,0.00,https://fbref.com/en/players/03760df0/Emiliano-Viviano,03760df0,Serie B
+500,Idriz Voca,KVX,MF,Cosenza,26-238,1997,11.1,24.4,23.5,0.81,0.00,0.18,0.00,0.54,0.27,0.00,0.00,0.00,0.00,19.7,0.09,0.45,https://fbref.com/en/players/3eb1760b/Idriz-Voca,3eb1760b,Serie B
+501,Gerard Yepes,ESP,MF,Sampdoria,21-136,2002,14.4,51.5,49.0,2.08,1.94,0.14,0.14,0.14,0.07,0.07,0.07,0.00,0.00,43.7,0.35,0.49,https://fbref.com/en/players/ee9040b4/Gerard-Yepes,ee9040b4,Serie B
+502,Vasilios Zagaritis,GRE,DF,Parma,22-249,2001,3.9,50.5,41.5,8.97,0.26,0.00,0.00,6.15,8.72,0.00,0.00,0.00,0.00,36.4,0.00,2.05,https://fbref.com/en/players/b4a3d61a/Vasilios-Zagaritis,b4a3d61a,Serie B
+503,Francesco Zampano,ITA,DF,Venezia,30-100,1993,14.4,60.8,50.4,10.2,1.18,0.00,1.46,4.03,9.03,0.00,0.00,0.00,0.00,49.4,0.21,1.25,https://fbref.com/en/players/8e45910b/Francesco-Zampano,8e45910b,Serie B
+504,Luca Zanimacchia,ITA,"DF,FW",Cremonese,25-173,1998,12.0,43.7,37.6,6.00,0.17,0.00,0.67,5.00,5.25,0.50,0.25,0.00,0.00,34.8,0.08,1.25,https://fbref.com/en/players/5e834dce/Luca-Zanimacchia,5e834dce,Serie B
+505,Giovanni Zaro,ITA,DF,Modena,29-241,1994,19.0,55.4,51.1,4.16,2.68,0.00,0.63,0.42,0.16,0.00,0.00,0.00,0.00,43.2,0.16,0.68,https://fbref.com/en/players/1ead1c00/Giovanni-Zaro,1ead1c00,Serie B
+506,Mattia Zennaro,ITA,MF,FeralpiSalò,23-158,2000,8.1,39.0,37.4,1.23,0.25,0.12,0.12,0.74,0.00,0.00,0.00,0.00,0.00,28.5,0.37,1.36,https://fbref.com/en/players/e08a3f85/Mattia-Zennaro,e08a3f85,Serie B
+507,Massimo Zilli,ITA,FW,Cosenza,21-175,2002,1.2,22.5,22.5,0.00,0.00,0.00,0.00,0.83,0.00,0.00,0.00,0.00,0.00,12.5,0.00,1.67,https://fbref.com/en/players/c092cd68/Massimo-Zilli,c092cd68,Serie B
+508,Jeroen Zoet,NED,GK,Spezia,33-002,1991,6.0,29.7,21.5,8.17,1.33,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,21.5,0.00,0.00,https://fbref.com/en/players/cc1a0c57/Jeroen-Zoet,cc1a0c57,Serie B
+509,Federico Zuccon,ITA,MF,Cosenza,20-282,2003,8.8,44.7,43.6,0.80,0.45,0.00,0.23,0.68,0.00,0.34,0.11,0.11,0.00,37.6,0.23,1.02,https://fbref.com/en/players/f7fd61b6/Federico-Zuccon,f7fd61b6,Serie B
+510,Szymon Żurkowski,POL,MF,Spezia,26-105,1997,7.1,41.4,41.0,0.28,0.14,0.00,0.00,1.69,0.14,0.00,0.00,0.00,0.00,33.2,0.14,1.13,https://fbref.com/en/players/4e1d5e59/Szymon-Zurkowski,4e1d5e59,Serie B
+511,Žan Žužek,SVN,DF,Bari,26-347,1997,5.0,52.6,51.4,1.20,1.00,0.00,0.20,0.00,0.20,0.00,0.00,0.00,0.00,43.2,0.00,0.00,https://fbref.com/en/players/4f7c59dc/Zan-Zuzek,4f7c59dc,Serie B
+512,Jakub Łabojko,POL,MF,Ternana,26-097,1997,12.8,46.9,43.5,3.28,1.80,0.08,0.63,0.70,0.08,0.39,0.16,0.08,0.00,38.8,0.08,0.86,https://fbref.com/en/players/20eecbfe/Jakub-Labojko,20eecbfe,Serie B

@@ -33,7 +33,7 @@ class FbrefScraper:
     RAW_DIR = os.path.join(BASE_DIR, 'raw')
     ENGINEERED_DIR = os.path.join(BASE_DIR, 'engineered')
 
-    def __init__(self, comp_name, season='2023') -> None:
+    def __init__(self, comp_name, season=2023) -> None:
         self.season = season
         self.comp_name = comp_name
         self.SEASON_DIR = os.path.join(self.RAW_DIR, str(season))
@@ -120,7 +120,7 @@ class FbrefScraper:
         dir = self.COMP_DIR
         scraper = sfc.FBRef()
         try:
-            data = scraper.scrape_all_stats(year=2023, league=self.comp_name, normalize=True)
+            data = scraper.scrape_all_stats(year=self.season, league=self.comp_name, normalize=True)
         except:
             # Catch and print any exceptions.
             traceback.print_exc()
@@ -449,9 +449,32 @@ if __name__ == "__main__":
     scrape = FbrefScraper(comp_name="Argentina Liga Profesional")
     scrape.run()
 
-    scrape = FbrefScraper(comp_name="Liga MX", season='2024')
+    scrape = FbrefScraper(comp_name="Liga MX", season=2024)
     scrape.run()
 
-    scrape = FbrefScraper(comp_name="Primeira Liga", season='2024')
+    scrape = FbrefScraper(comp_name="Primeira Liga", season=2024)
     scrape.run()
 
+    scrape = FbrefScraper(comp_name="Big 5 combined", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="Eredivisie", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="Jupiler Pro League", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="EFL Championship", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="La Liga 2", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="2. Bundesliga", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="Ligue 2", season=2024)
+    scrape.run()
+
+    scrape = FbrefScraper(comp_name="Serie B", season=2024)
+    scrape.run()
