@@ -2,6 +2,13 @@ import matplotlib.font_manager as fm
 from matplotlib.colors import LinearSegmentedColormap
 import os
 
+def get_parent_folder_path(file_path):
+    parent_folder_path = os.path.dirname(file_path)
+    return  os.path.dirname(parent_folder_path)
+
+CURRENT_PATH = os.path.realpath(__file__)
+BASE_FOLDER = get_parent_folder_path(CURRENT_PATH)
+
 font_lora_path = os.path.join('..', 'fonts', 'Lora-VariableFont_wght.ttf')
 font_lora_italic = os.path.join('..', 'fonts', 'Lora-Italic-VariableFont_wght.ttf')
 font_oswald_bold_path = os.path.join('..', 'fonts', 'Oswald-VariableFont_wght.ttf')
