@@ -146,6 +146,11 @@ CLUSTER_PALETTE = {
     "color3": "#EA047E",
     "color4": "#FCE700",
     "color5": "#DC2ADE",
+    "color6": "#A2678A",
+    "color7": "#4D3C77",
+    "color8": "#3F1D38",
+    "color9": "#FF9130",
+    "color10": "#FF5B22"
 }
 
 custom_color = [(0, COLORS_PALETTE_12["color1"]), (0.5, COLORS_PALETTE_12["color2"]), (1, COLORS_PALETTE_12["color3"])]
